@@ -1,0 +1,135 @@
+﻿XXXX re-evaluate this;Name.java;jedit-4.2/src/bsh;526;Technical Debt
+XXX: This should not be hardcoded;SplashScreen.java;jedit-4.2/src/org/gjt/sp/jedit/gui;113;Technical Debt
+XXX: getMarkPosition() deprecated!;JEditTextArea.java;jedit-4.2/src/org/gjt/sp/jedit/textarea;6680;Technical Debt
+XXX: does this really belong here?;SettingsReloader.java;jedit-4.2/src/org/gjt/sp/jedit;63;Technical Debt
+XXX: action bar might not be 'temp';jEdit.java;jedit-4.2/src/org/gjt/sp/jedit;2914;Technical Debt
+XXX re-eval this... do we need it?;Name.java;jedit-4.2/src/bsh;494;Technical Debt
+XXX magic number;EnhancedCheckBoxMenuItem.java;jedit-4.2/src/org/gjt/sp/jedit/menu;104;Technical Debt
+XXX magic number;EnhancedMenuItem.java;jedit-4.2/src/org/gjt/sp/jedit/menu;98;Technical Debt
+XXX magic number;MarkersProvider.java;jedit-4.2/src/org/gjt/sp/jedit/menu;140;Technical Debt
+XXX if we keep the createClassManager in getClassManager then we can axe;NameSpace.java;jedit-4.2/src/bsh;526;Technical Debt
+XXX clean up this conditional;ClassGeneratorUtil.java;jedit-4.2/src/bsh;944;Technical Debt
+XXX - clean up in 4.3;BeanShellAction.java;jedit-4.2/src/org/gjt/sp/jedit;108;Technical Debt
+XXX;BSHMethodInvocation.java;jedit-4.2/src/bsh;74;Technical Debt
+XXX;ConsoleInstall.java;jedit-4.2/src/installer;105;Technical Debt
+XXX;DisplayManager.java;jedit-4.2/src/org/gjt/sp/jedit/textarea;1914;Technical Debt
+XXX;DisplayManager.java;jedit-4.2/src/org/gjt/sp/jedit/textarea;392;Technical Debt
+XXX;DisplayManager.java;jedit-4.2/src/org/gjt/sp/jedit/textarea;912;Technical Debt
+XXX;NonInteractiveInstall.java;jedit-4.2/src/installer;85;Technical Debt
+XXX;RESyntax.java;jedit-4.2/src/gnu/regexp;408;Technical Debt
+Workaround for uncooperative Windows L&F;RolloverButton.java;jedit-4.2/src/org/gjt/sp/jedit/gui;91;Technical Debt
+workaround for Swing's annoying processing of;AbbrevsOptionPane.java;jedit-4.2/src/org/gjt/sp/jedit/options;324;Technical Debt
+workaround for Swing rendering labels starting;PasteFromListDialog.java;jedit-4.2/src/org/gjt/sp/jedit/gui;171;Technical Debt
+Workaround for JDK bug 4071281, where system.in.available();Interpreter.java;jedit-4.2/src/bsh;382;Technical Debt
+workaround for hang if match was  * zero-width. not sure if there is  * a better way to handle this;TokenMarker.java;jedit-4.2/src/org/gjt/sp/jedit/syntax;416-418;Technical Debt
+workaround for A+keys producing  * garbage on Windows;KeyEventWorkaround.java;jedit-4.2/src/org/gjt/sp/jedit/gui;248-249;Technical Debt
+Windows JDK workaround;KeyEventWorkaround.java;jedit-4.2/src/org/gjt/sp/jedit/gui;183;Technical Debt
+Windows bug workaround in case a YES/NO confirm;SearchDialog.java;jedit-4.2/src/org/gjt/sp/jedit/search;759;Technical Debt
+Why?;Buffer.java;jedit-4.2/src/org/gjt/sp/jedit;1362;Technical Debt
+Why?;Buffer.java;jedit-4.2/src/org/gjt/sp/jedit;1387;Technical Debt
+why so cute?;Reflect.java;jedit-4.2/src/bsh;920;Technical Debt
+Why is object in the args?;Reflect.java;jedit-4.2/src/bsh;425;Technical Debt
+Why both of these?;BSHTryStatement.java;jedit-4.2/src/bsh;68;Technical Debt
+we consume this to work around the bug;KeyEventWorkaround.java;jedit-4.2/src/org/gjt/sp/jedit/gui;223;Technical Debt
+undocumented hack to allow browser actions to work.;BeanShellAction.java;jedit-4.2/src/org/gjt/sp/jedit;107;Technical Debt
+ugly workaround;SearchDialog.java;jedit-4.2/src/org/gjt/sp/jedit/search;98;Technical Debt
+TODO: the '\n' literal here should be a test against REToken.newline,;RE.java;jedit-4.2/src/gnu/regexp;325;Technical Debt
+TODO: test that surrogate value is legal.;XmlParser.java;jedit-4.2/src/com/microstar/xml;4029;Technical Debt
+TODO: Also check REG_ANCHORINDEX vs. anchor;RETokenWordBoundary.java;jedit-4.2/src/gnu/regexp;48;Technical Debt
+TODO check if this code ever gets hit;REMatch.java;jedit-4.2/src/gnu/regexp;91;Technical Debt
+this listener priority thing is a bad hack...;DisplayManager.java;jedit-4.2/src/org/gjt/sp/jedit/textarea;709;Technical Debt
+this is retarded. excuse me while I drool;DefaultInputHandler.java;jedit-4.2/src/org/gjt/sp/jedit/gui;264;Technical Debt
+this is a weird hack.;View.java;jedit-4.2/src/org/gjt/sp/jedit;616;Technical Debt
+this is a weird hack.;View.java;jedit-4.2/src/org/gjt/sp/jedit;678;Technical Debt
+"this is a sloppy hack to fix bug    ""[ 677902 ] hitting return after collapsed    fold""     the idea is that if we extend the range then    the problem described in the bug happends, so    if the insert is at the very end of the range    we don't extend it, instead we push the    insert into the next range, however for this    to work properly we also have to mess with    screen line counts.";DisplayManager.java;jedit-4.2/src/org/gjt/sp/jedit/textarea;1533-1543;Technical Debt
+this is a hack, and really needs to be done better.;DisplayManager.java;jedit-4.2/src/org/gjt/sp/jedit/textarea;440;Technical Debt
+this is a dirty hack and it relies on the fact;VFSBrowser.java;jedit-4.2/src/org/gjt/sp/jedit/browser;1118;Technical Debt
+this is a bad hack;GrabKeyDialog.java;jedit-4.2/src/org/gjt/sp/jedit/gui;160;Technical Debt
+This could be smarter...;CollectionManager.java;jedit-4.2/src/bsh;78;Technical Debt
+there must be a better way of fixing this...;StatusBar.java;jedit-4.2/src/org/gjt/sp/jedit/gui;384;Technical Debt
+the workaround causes problems!;SearchDialog.java;jedit-4.2/src/org/gjt/sp/jedit/search;763;Technical Debt
+the sooner ppl move to the new api, the less we'll need;VFSManager.java;jedit-4.2/src/org/gjt/sp/jedit/io;194;Technical Debt
+Temporary hack to support inner classes;BSHAllocationExpression.java;jedit-4.2/src/bsh;141;Technical Debt
+stupidity;DisplayManager.java;jedit-4.2/src/org/gjt/sp/jedit/textarea;1207;Technical Debt
+stupidity;DisplayManager.java;jedit-4.2/src/org/gjt/sp/jedit/textarea;624;Technical Debt
+stupid: caret will automatically be incremented;JEditTextArea.java;jedit-4.2/src/org/gjt/sp/jedit/textarea;4285;Technical Debt
+stupid Swing;VFSDirectoryEntryTable.java;jedit-4.2/src/org/gjt/sp/jedit/browser;316;Technical Debt
+stupid scrollbar policy is an attempt to work around;ActionBar.java;jedit-4.2/src/org/gjt/sp/jedit/gui;462;Technical Debt
+stupid scrollbar policy is an attempt to work around;CompleteWord.java;jedit-4.2/src/org/gjt/sp/jedit/gui;155;Technical Debt
+stupid hack to handle referencing;XModeHandler.java;jedit-4.2/src/org/gjt/sp/jedit/syntax;199;Technical Debt
+Spacing workaround;PrintOptionPane.java;jedit-4.2/src/org/gjt/sp/jedit/options;79;Technical Debt
+Somewhat of a hack.  If the special fields are visible (we're operating relative to a 'this' type already) dissallow further .this references to prevent user from skipping to things like super.this.caller;Name.java;jedit-4.2/src/bsh;483-488;Technical Debt
+"SILLY: allow for anti-aliased characters' ""fuzz""";DisplayTokenHandler.java;jedit-4.2/src/org/gjt/sp/jedit/syntax;54;Technical Debt
+silly usability hack;Buffer.java;jedit-4.2/src/org/gjt/sp/jedit;2246;Technical Debt
+Should we be able to iterate over maps? if (iterateOverMe instanceof Map) return ((Map)iterateOverMe).entrySet().iterator();CollectionIterator.java;jedit-4.2/src/bsh/collection;61-65;Technical Debt
+"REVIEW Would a better check be ""(File.separator == '\')""?";TarEntry.java;jedit-4.2/src/installer;441;Technical Debt
+retarded GTK look and feel!;StatusBar.java;jedit-4.2/src/org/gjt/sp/jedit/gui;153;Technical Debt
+removed. retarded, eh? this needs to be;DockableWindowManager.java;jedit-4.2/src/org/gjt/sp/jedit/gui;1474;Technical Debt
+Primitive (number or void) is not normally an instanceof anything.  But for internal use we'll test true for the bsh.Primitive class.   i.e. (5 instanceof bsh.Primitive) will be true;BSHBinaryExpression.java;jedit-4.2/src/bsh;70-75;Technical Debt
+Note: We will ll move this behavior out to a subclass of  NameSpace, but we'll start here.;NameSpace.java;jedit-4.2/src/bsh;117-120;Technical Debt
+Note: this implementation is temporary. We currently keep a flat namespace of the base name of classes.  i.e. BeanShell cannot be in the process of defining two classes in different packages with the same base name.  To remove this limitation requires that we work through namespace imports in an analogous (or using the same path) as regular class import resolution.  This workaround should handle most cases  so we'll try it for now.;BshClassManager.java;jedit-4.2/src/bsh;467-475;Technical Debt
+"Note: is using SignatureKey in this way dangerous?  In the pathological case a user could eat up memory caching every possible combination of argument types to an untyped method.  Maybe we could be smarter about it by ignoring the types of untyped parameter positions?  The method resolver could return a set of ""hints"" for the signature key caching?  There is also the overhead of creating one of these for every method dispatched.  What is the alternative?";BshClassManager.java;jedit-4.2/src/bsh;572-581;Technical Debt
+Note: incorrect here - we are using the hack in bsh class;BSHType.java;jedit-4.2/src/bsh;100;Technical Debt
+Note: could eliminate throwing the exception somehow;Name.java;jedit-4.2/src/bsh;449;Technical Debt
+Need to scrape a value from the last line?;Remote.java;jedit-4.2/src/bsh;120;Technical Debt
+Make sure people don't do stupid things like putting files in /Volumes;FileRootsVFS.java;jedit-4.2/src/org/gjt/sp/jedit/io;129;Technical Debt
+M+ discarded by key event workaround!;KeyEventTranslator.java;jedit-4.2/src/org/gjt/sp/jedit/gui;411;Technical Debt
+JDK 1.4 workaround;PanelWindowContainer.java;jedit-4.2/src/org/gjt/sp/jedit/gui;78;Technical Debt
+in the future we will want something better,;VFSBrowser.java;jedit-4.2/src/org/gjt/sp/jedit/browser;1653;Technical Debt
+implement this hack. if you don't understand what's going on;RESearchMatcher.java;jedit-4.2/src/org/gjt/sp/jedit/search;108;Technical Debt
+if(s instanceof Selection.Rect) { addToSelection(new Selection.Rect( s.start + 1,s.end + 1)) };JEditTextArea.java;jedit-4.2/src/org/gjt/sp/jedit/textarea;3482-3486;Technical Debt
+if an occurence occurs at the beginning of the selection, the selection start will get moved. this sucks, so we hack to avoid it.;SearchAndReplace.java;jedit-4.2/src/org/gjt/sp/jedit/search;1040-1043;Technical Debt
+I'm too tired to think of a better way;CloseDialog.java;jedit-4.2/src/org/gjt/sp/jedit/gui;155;Technical Debt
+I guess we could move these to StringUtil someday;Name.java;jedit-4.2/src/bsh;996;Technical Debt
+have to do this hack until VFSPath class is written;VFSManager.java;jedit-4.2/src/org/gjt/sp/jedit/io;379;Technical Debt
+hacked BufferIORequest to send VFSUpdates in case;VFSBrowser.java;jedit-4.2/src/org/gjt/sp/jedit/browser;369;Technical Debt
+hack... sticking to first interpreter that resolves this;BSHType.java;jedit-4.2/src/bsh;171;Technical Debt
+Hack... need a more direct way of obtaining a view?;DisplayManager.java;jedit-4.2/src/org/gjt/sp/jedit/textarea;545;Technical Debt
+hack...;VFSDirectoryEntryTable.java;jedit-4.2/src/org/gjt/sp/jedit/browser;340;Technical Debt
+hack to work;ErrorListDialog.java;jedit-4.2/src/org/gjt/sp/jedit/gui;114;Technical Debt
+hack to move the spaces to the front;dir.java;jedit-4.2/src/bsh/commands;85;Technical Debt
+hack to get fixed length 'length' field;dir.java;jedit-4.2/src/bsh/commands;78;Technical Debt
+hack since HelpViewer needs a URL...;HelpIndex.java;jedit-4.2/src/org/gjt/sp/jedit/help;177;Technical Debt
+Hack done to fix bringing the window to the front.;EditServer.java;jedit-4.2/src/org/gjt/sp/jedit;254;Technical Debt
+get rid of this dialog if necessary;OptionsDialog.java;jedit-4.2/src/org/gjt/sp/jedit/gui;101;Technical Debt
+"following ""fix point"" algorithm:";CodeWriter.java;jedit-4.2/src/org/objectweb/asm;1300;Technical Debt
+fix the bug where the horiz.;ChunkCache.java;jedit-4.2/src/org/gjt/sp/jedit/textarea;619;Technical Debt
+fix for the bug where key events in JTextComponents;View.java;jedit-4.2/src/org/gjt/sp/jedit;1641;Technical Debt
+"fix for ""[ 865589 ] 0-byte files should open using";BufferIORequest.java;jedit-4.2/src/org/gjt/sp/jedit/buffer;575;Technical Debt
+displays stupid I/O error dialog box on Windows;FileRootsVFS.java;jedit-4.2/src/org/gjt/sp/jedit/io;173;Technical Debt
+directory chooser (why?), so we add a;VFSBrowser.java;jedit-4.2/src/org/gjt/sp/jedit/browser;1599;Technical Debt
+crusty workaround;EnhancedDialog.java;jedit-4.2/src/org/gjt/sp/jedit/gui;123;Technical Debt
+crap like this;VFSManager.java;jedit-4.2/src/org/gjt/sp/jedit/io;195;Technical Debt
+could refactor these a bit;Modifiers.java;jedit-4.2/src/bsh;57;Technical Debt
+corresponding buffer.XXX properties not set;Buffer.java;jedit-4.2/src/org/gjt/sp/jedit;3594;Technical Debt
+compatibility kludge for jEdit 3.1 and earlier;BufferIORequest.java;jedit-4.2/src/org/gjt/sp/jedit/buffer;645;Technical Debt
+charAt(index-n) may be unknown on a Reader/InputStream. FIXME;RETokenStart.java;jedit-4.2/src/gnu/regexp;31;Technical Debt
+Case-insensitive fs workaround;FileVFS.java;jedit-4.2/src/org/gjt/sp/jedit/io;288;Technical Debt
+but may cause problems with future maintenance and add to the;XmlParser.java;jedit-4.2/src/com/microstar/xml;50;Technical Debt
+broken Eclipse workaround!;Registers.java;jedit-4.2/src/org/gjt/sp/jedit;631;Technical Debt
+and make stupid noises;DefaultInputHandler.java;jedit-4.2/src/org/gjt/sp/jedit/gui;265;Technical Debt
+addToFavorites(), which is a static method  * (for convinience) needs an instance of the  * VFS to pass to VFSManager.sendVFSUpdate(),  * hence this hack.;FavoritesVFS.java;jedit-4.2/src/org/gjt/sp/jedit/io;51-54;Technical Debt
+According to Slava this is better;MacOSPlugin.java;jedit-4.2/src/jars/MacOS/macos;97;Technical Debt
+according to krisk this looks better on OS X...;ColorWellButton.java;jedit-4.2/src/org/gjt/sp/jedit/gui;51;Technical Debt
+a little hack for reverse replace and find;SearchAndReplace.java;jedit-4.2/src/org/gjt/sp/jedit/search;680;Technical Debt
+** Authored by Timothy Gerard Endres ** <mailto:time@gjt.org>  <http://www.trustice.com> **  ** This work has been placed into the public domain. ** You may use this work in any way and for any purpose you wish. ** ** THIS SOFTWARE IS PROVIDED AS-IS WITHOUT WARRANTY OF ANY KIND, ** NOT EVEN THE IMPLIED WARRANTY OF MERCHANTABILITY. THE AUTHOR ** OF THIS SOFTWARE, ASSUMES _NO_ RESPONSIBILITY FOR ANY ** CONSEQUENCE RESULTING FROM THE USE, MODIFICATION, OR ** REDISTRIBUTION OF THIS SOFTWARE.  **;InvalidHeaderException.java;jedit-4.2/src/installer;1-14;Technical Debt
+** Authored by Timothy Gerard Endres ** <mailto:time@gjt.org>  <http://www.trustice.com> **  ** This work has been placed into the public domain. ** You may use this work in any way and for any purpose you wish. ** ** THIS SOFTWARE IS PROVIDED AS-IS WITHOUT WARRANTY OF ANY KIND, ** NOT EVEN THE IMPLIED WARRANTY OF MERCHANTABILITY. THE AUTHOR ** OF THIS SOFTWARE, ASSUMES _NO_ RESPONSIBILITY FOR ANY ** CONSEQUENCE RESULTING FROM THE USE, MODIFICATION, OR ** REDISTRIBUTION OF THIS SOFTWARE.  **;TarBuffer.java;jedit-4.2/src/installer;1-14;Technical Debt
+** Authored by Timothy Gerard Endres ** <mailto:time@gjt.org>  <http://www.trustice.com> **  ** This work has been placed into the public domain. ** You may use this work in any way and for any purpose you wish. ** ** THIS SOFTWARE IS PROVIDED AS-IS WITHOUT WARRANTY OF ANY KIND, ** NOT EVEN THE IMPLIED WARRANTY OF MERCHANTABILITY. THE AUTHOR ** OF THIS SOFTWARE, ASSUMES _NO_ RESPONSIBILITY FOR ANY ** CONSEQUENCE RESULTING FROM THE USE, MODIFICATION, OR ** REDISTRIBUTION OF THIS SOFTWARE.  **;TarEntry.java;jedit-4.2/src/installer;1-14;Technical Debt
+** Authored by Timothy Gerard Endres ** <mailto:time@gjt.org>  <http://www.trustice.com> **  ** This work has been placed into the public domain. ** You may use this work in any way and for any purpose you wish. ** ** THIS SOFTWARE IS PROVIDED AS-IS WITHOUT WARRANTY OF ANY KIND, ** NOT EVEN THE IMPLIED WARRANTY OF MERCHANTABILITY. THE AUTHOR ** OF THIS SOFTWARE, ASSUMES _NO_ RESPONSIBILITY FOR ANY ** CONSEQUENCE RESULTING FROM THE USE, MODIFICATION, OR ** REDISTRIBUTION OF THIS SOFTWARE.  **;TarHeader.java;jedit-4.2/src/installer;1-14;Technical Debt
+** Authored by Timothy Gerard Endres ** <mailto:time@gjt.org>  <http://www.trustice.com> **  ** This work has been placed into the public domain. ** You may use this work in any way and for any purpose you wish. ** ** THIS SOFTWARE IS PROVIDED AS-IS WITHOUT WARRANTY OF ANY KIND, ** NOT EVEN THE IMPLIED WARRANTY OF MERCHANTABILITY. THE AUTHOR ** OF THIS SOFTWARE, ASSUMES _NO_ RESPONSIBILITY FOR ANY ** CONSEQUENCE RESULTING FROM THE USE, MODIFICATION, OR ** REDISTRIBUTION OF THIS SOFTWARE.  **;TarInputStream.java;jedit-4.2/src/installer;1-14;Technical Debt
+** Authored by Timothy Gerard Endres ** <mailto:time@gjt.org>  <http://www.trustice.com> **  ** This work has been placed into the public domain. ** You may use this work in any way and for any purpose you wish. ** ** THIS SOFTWARE IS PROVIDED AS-IS WITHOUT WARRANTY OF ANY KIND, ** NOT EVEN THE IMPLIED WARRANTY OF MERCHANTABILITY. THE AUTHOR ** OF THIS SOFTWARE, ASSUMES _NO_ RESPONSIBILITY FOR ANY ** CONSEQUENCE RESULTING FROM THE USE, MODIFICATION, OR ** REDISTRIBUTION OF THIS SOFTWARE.  **;TarOutputStream.java;jedit-4.2/src/installer;1-14;Technical Debt
+* VariableGridLayout.java - a grid layout manager with variable cell sizes  *  * Originally written by Dirk Moebius for the jEdit project. This work has been  * placed into the public domain. You may use this work in any way and for any  * purpose you wish.  *  * THIS SOFTWARE IS PROVIDED AS-IS WITHOUT WARRANTY OF ANY KIND, NOT EVEN THE  * IMPLIED WARRANTY OF MERCHANTABILITY. THE AUTHOR OF THIS SOFTWARE, ASSUMES  * _NO_ RESPONSIBILITY FOR ANY CONSEQUENCE RESULTING FROM THE USE, MODIFICATION,  * OR REDISTRIBUTION OF THIS SOFTWARE.;VariableGridLayout.java;jedit-4.2/src/installer;1-12;Technical Debt
+* VariableGridLayout.java - a grid layout manager with variable cell sizes  *  * Originally written by Dirk Moebius for the jEdit project. This work has been  * placed into the public domain. You may use this work in any way and for any  * purpose you wish.  *  * THIS SOFTWARE IS PROVIDED AS-IS WITHOUT WARRANTY OF ANY KIND, NOT EVEN THE  * IMPLIED WARRANTY OF MERCHANTABILITY. THE AUTHOR OF THIS SOFTWARE, ASSUMES  * _NO_ RESPONSIBILITY FOR ANY CONSEQUENCE RESULTING FROM THE USE, MODIFICATION,  * OR REDISTRIBUTION OF THIS SOFTWARE.;VariableGridLayout.java;jedit-4.2/src/org/gjt/sp/jedit/gui;1-12;Technical Debt
+* SwingInstall.java  *  * Originally written by Slava Pestov for the jEdit installer project. This work  * has been placed into the public domain. You may use this work in any way and  * for any purpose you wish.  *  * THIS SOFTWARE IS PROVIDED AS-IS WITHOUT WARRANTY OF ANY KIND, NOT EVEN THE  * IMPLIED WARRANTY OF MERCHANTABILITY. THE AUTHOR OF THIS SOFTWARE, ASSUMES  * _NO_ RESPONSIBILITY FOR ANY CONSEQUENCE RESULTING FROM THE USE, MODIFICATION,  * OR REDISTRIBUTION OF THIS SOFTWARE.;SwingInstall.java;jedit-4.2/src/installer;1-12;Technical Debt
+* Progress.java  *  * Originally written by Slava Pestov for the jEdit installer project. This work  * has been placed into the public domain. You may use this work in any way and  * for any purpose you wish.  *  * THIS SOFTWARE IS PROVIDED AS-IS WITHOUT WARRANTY OF ANY KIND, NOT EVEN THE  * IMPLIED WARRANTY OF MERCHANTABILITY. THE AUTHOR OF THIS SOFTWARE, ASSUMES  * _NO_ RESPONSIBILITY FOR ANY CONSEQUENCE RESULTING FROM THE USE, MODIFICATION,  * OR REDISTRIBUTION OF THIS SOFTWARE.;Progress.java;jedit-4.2/src/installer;1-12;Technical Debt
+* Parse the attribute type.     * [54] AttType ::= StringType | TokenizedType | EnumeratedType     * [55] StringType ::= 'CDATA'     * [56] TokenizedType ::= 'ID' | 'IDREF' | 'IDREFS' | 'ENTITY' | 'ENTITIES' |     *                        'NMTOKEN' | 'NMTOKENS'     * [57] EnumeratedType ::= NotationType | Enumeration     * *TODO: validate the type!!;XmlParser.java;jedit-4.2/src/com/microstar/xml;1374-1382;Technical Debt
+* Parse an element-content model.     * [42] elements ::= (choice | seq) ('?' | '*' | '+')?     * [44] cps ::= S? %cp S?     * [45] choice ::= '(' S? %ctokplus (S? '|' S? %ctoks)* S? ')'     * [46] ctokplus ::= cps ('|' cps)+     * [47] ctoks ::= cps ('|' cps)*     * [48] seq ::= '(' S? %stoks (S? ',' S? %stoks)* S? ')'     * [49] stoks ::= cps (',' cps)*     * *NOTE: the opening '(' and S have already been read.     * *TODO: go over parameter entity boundaries more carefully.;XmlParser.java;jedit-4.2/src/com/microstar/xml;1179-1190;Technical Debt
+"* Parse a conditional section.     * [63] conditionalSect ::= includeSect || ignoreSect     * [64] includeSect ::= '<![' %'INCLUDE' '[' (%markupdecl*)* ']]>'     * [65] ignoreSect ::= '<![' %'IGNORE' '[' ignoreSectContents* ']]>'     * [66] ignoreSectContents ::= ((SkipLit | Comment | PI) -(Char* ']]>'))     *                           | ('<![' ignoreSectContents* ']]>')     *                           | (Char - (']' | [<'""]))     *                           | ('<!' (Char - ('-' | '[')))     * *NOTE: the '<![' has already been read.     * *TODO: verify that I am handling ignoreSectContents right.";XmlParser.java;jedit-4.2/src/com/microstar/xml;1488-1499;Technical Debt
+* OperatingSystem.java  *  * Originally written by Slava Pestov for the jEdit installer project. This work  * has been placed into the public domain. You may use this work in any way and  * for any purpose you wish.  *  * THIS SOFTWARE IS PROVIDED AS-IS WITHOUT WARRANTY OF ANY KIND, NOT EVEN THE  * IMPLIED WARRANTY OF MERCHANTABILITY. THE AUTHOR OF THIS SOFTWARE, ASSUMES  * _NO_ RESPONSIBILITY FOR ANY CONSEQUENCE RESULTING FROM THE USE, MODIFICATION,  * OR REDISTRIBUTION OF THIS SOFTWARE.;OperatingSystem.java;jedit-4.2/src/installer;1-12;Technical Debt
+* NonInteractiveInstall.java  *  * Originally written by Slava Pestov for the jEdit installer project. This work  * has been placed into the public domain. You may use this work in any way and  * for any purpose you wish.  *  * THIS SOFTWARE IS PROVIDED AS-IS WITHOUT WARRANTY OF ANY KIND, NOT EVEN THE  * IMPLIED WARRANTY OF MERCHANTABILITY. THE AUTHOR OF THIS SOFTWARE, ASSUMES  * _NO_ RESPONSIBILITY FOR ANY CONSEQUENCE RESULTING FROM THE USE, MODIFICATION,  * OR REDISTRIBUTION OF THIS SOFTWARE.;NonInteractiveInstall.java;jedit-4.2/src/installer;1-12;Technical Debt
+* Knuth's increments seem to work better      * than Incerpi-Sedgewick here.  Possibly      * because the number of elems to sort is      * usually small, typically <= 20.;CBZip2OutputStream.java;jedit-4.2/src/installer;59-64;Technical Debt
+* InstallThread.java  *  * Originally written by Slava Pestov for the jEdit installer project. This work  * has been placed into the public domain. You may use this work in any way and  * for any purpose you wish.  *  * THIS SOFTWARE IS PROVIDED AS-IS WITHOUT WARRANTY OF ANY KIND, NOT EVEN THE  * IMPLIED WARRANTY OF MERCHANTABILITY. THE AUTHOR OF THIS SOFTWARE, ASSUMES  * _NO_ RESPONSIBILITY FOR ANY CONSEQUENCE RESULTING FROM THE USE, MODIFICATION,  * OR REDISTRIBUTION OF THIS SOFTWARE.;InstallThread.java;jedit-4.2/src/installer;1-12;Technical Debt
+* Install.java - Main class of the installer  *  * Originally written by Slava Pestov for the jEdit installer project. This work  * has been placed into the public domain. You may use this work in any way and  * for any purpose you wish.  *  * THIS SOFTWARE IS PROVIDED AS-IS WITHOUT WARRANTY OF ANY KIND, NOT EVEN THE  * IMPLIED WARRANTY OF MERCHANTABILITY. THE AUTHOR OF THIS SOFTWARE, ASSUMES  * _NO_ RESPONSIBILITY FOR ANY CONSEQUENCE RESULTING FROM THE USE, MODIFICATION,  * OR REDISTRIBUTION OF THIS SOFTWARE.;Install.java;jedit-4.2/src/installer;1-12;Technical Debt
+* ConsoleProgress.java  *  * Originally written by Slava Pestov for the jEdit installer project. This work  * has been placed into the public domain. You may use this work in any way and  * for any purpose you wish.  *  * THIS SOFTWARE IS PROVIDED AS-IS WITHOUT WARRANTY OF ANY KIND, NOT EVEN THE  * IMPLIED WARRANTY OF MERCHANTABILITY. THE AUTHOR OF THIS SOFTWARE, ASSUMES  * _NO_ RESPONSIBILITY FOR ANY CONSEQUENCE RESULTING FROM THE USE, MODIFICATION,  * OR REDISTRIBUTION OF THIS SOFTWARE.;ConsoleProgress.java;jedit-4.2/src/installer;1-12;Technical Debt
+* ConsoleInstall.java  *  * Originally written by Slava Pestov for the jEdit installer project. This work  * has been placed into the public domain. You may use this work in any way and  * for any purpose you wish.  *  * THIS SOFTWARE IS PROVIDED AS-IS WITHOUT WARRANTY OF ANY KIND, NOT EVEN THE  * IMPLIED WARRANTY OF MERCHANTABILITY. THE AUTHOR OF THIS SOFTWARE, ASSUMES  * _NO_ RESPONSIBILITY FOR ANY CONSEQUENCE RESULTING FROM THE USE, MODIFICATION,  * OR REDISTRIBUTION OF THIS SOFTWARE.;ConsoleInstall.java;jedit-4.2/src/installer;1-12;Technical Debt
+"* An output stream that compresses into the BZip2 format (without the file  * header chars) into another stream. TODO: Update to BZip2 1.0.1  *  * @author <a href=""mailto:keiron@aftexsw.com"">Keiron Liddle</a>";CBZip2OutputStream.java;jedit-4.2/src/installer;13-18;Technical Debt

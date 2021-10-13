@@ -1,1 +1,2 @@
 # SATDPriorityParse
+SATDPriority Parse Association

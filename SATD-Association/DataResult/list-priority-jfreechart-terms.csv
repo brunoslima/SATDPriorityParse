@@ -1,0 +1,153 @@
+SATD;Path;Line;Priority
+FIXME: check;experimental/org/jfree/experimental/chart/plot/dial/StandardDialRange.java;138;1.0
+FIXME: check;experimental/org/jfree/experimental/chart/plot/dial/StandardDialRange.java;162;1.0
+FIXME: check;experimental/org/jfree/experimental/chart/plot/dial/StandardDialRange.java;186;1.0
+bit of an ugly hack...;source/org/jfree/chart/axis/CategoryAxis3D.java;123;1.0
+FIXME cross hair does not work properly because a;swt/org/jfree/experimental/chart/swt/ChartComposite.java;564;1.0
+FIXME;experimental/org/jfree/experimental/chart/plot/dial/StandardDialScale.java;626;0.5
+* An annotation that allows an image to be placed at some location on   * an {@link XYPlot}.  *   * TODO:  implement serialization properly (image is not serializable).;source/org/jfree/chart/annotations/XYImageAnnotation.java;67-72;0.5
+TODO:  implement serialization properly (image is not serializable).;source/org/jfree/chart/annotations/XYImageAnnotation.java;71;0.5
+TODO:  implement this properly.;source/org/jfree/chart/annotations/XYShapeAnnotation.java;257;0.5
+TODO: implement this properly.;source/org/jfree/chart/annotations/XYTextAnnotation.java;422;0.5
+TODO: this needs work;source/org/jfree/chart/annotations/CategoryLineAnnotation.java;341;0.5
+TODO: this needs work;source/org/jfree/chart/annotations/TextAnnotation.java;285;0.5
+TODO: find a cleaner way to do this...;source/org/jfree/chart/axis/PeriodAxis.java;499;0.5
+TODO: implement properly;source/org/jfree/chart/block/ColumnArrangement.java;180;0.5
+TODO: implement this properly;source/org/jfree/chart/block/CenterArrangement.java;195;0.5
+TODO: implement this properly;source/org/jfree/chart/block/FlowArrangement.java;266;0.5
+TODO: we didn't check the height yet;source/org/jfree/chart/block/CenterArrangement.java;216;0.5
+TODO: we didn't check the height yet;source/org/jfree/chart/block/FlowArrangement.java;287;0.5
+TODO: we didn't check the width yet;source/org/jfree/chart/block/ColumnArrangement.java;258;0.5
+TODO: implement this method properly;source/org/jfree/chart/labels/HighLowItemLabelGenerator.java;177;0.5
+TODO: implement this method properly;source/org/jfree/chart/labels/SymbolicXYItemLabelGenerator.java;122;0.5
+FIXME:  this code means that it is not possible to use more than;source/org/jfree/chart/plot/CombinedDomainCategoryPlot.java;523;0.5
+TODO: fix output when this flag is set to true;source/org/jfree/chart/plot/MeterPlot.java;599;0.5
+TODO: handle argument checking for primary axis location which;source/org/jfree/chart/plot/CategoryPlot.java;703;0.5
+TODO: check threshold;source/org/jfree/chart/renderer/xy/StandardXYItemRenderer.java;752;0.5
+TODO: modify this so that we check for equality with any KeyedValue;source/org/jfree/data/DefaultKeyedValue.java;122;0.5
+TODO: the following checks for null should be handled in a utility;source/org/jfree/data/DefaultKeyedValue.java;126;0.5
+FIXME try to replace swing print stuff by swt;swt/org/jfree/experimental/chart/swt/ChartComposite.java;1328;0.5
+hack to ensure the newly created awt fonts will be rendered with the;swt/org/jfree/experimental/swt/SWTUtils.java;176;0.5
+hack to ensure the newly created swt fonts will be rendered with the;swt/org/jfree/experimental/swt/SWTUtils.java;106;0.5
+TODO: Check this result...;tests/org/jfree/data/time/junit/YearTests.java;285;0.5
+TODO: Check this result...;tests/org/jfree/data/time/junit/YearTests.java;335;0.5
+TODO: this must be wrong...;tests/org/jfree/data/time/junit/MillisecondTests.java;334;0.5
+﻿TODO: add auto tick unit selection;experimental/org/jfree/experimental/chart/axis/LogAxis.java;75;0.0
+TODO: add auto tick unit selection;experimental/org/jfree/experimental/chart/axis/LogAxis.java;75;0.0
+TODO: number formatting options;experimental/org/jfree/experimental/chart/axis/LogAxis.java;76;0.0
+TODO: support for margins that get inherited from ValueAxis;experimental/org/jfree/experimental/chart/axis/LogAxis.java;74;0.0
+TODO: write JUnit tests;experimental/org/jfree/experimental/chart/axis/LogAxis.java;77;0.0
+* A simple demonstration application showing a chart created using   * the {@link XYBlockRenderer}.  * <br><br>  * TODO: The chart needs a display showing the value scale.;experimental/org/jfree/experimental/chart/demo/XYBlockChartDemo1.java;28-33;0.0
+* A simple demonstration application showing the experimental XYBlockRenderer   * in action.  TODO: The chart needs a legend to explain the colors displayed.;experimental/org/jfree/experimental/chart/demo/XYBlockChartDemo2.java;30-33;0.0
+TODO: The chart needs a display showing the value scale.;experimental/org/jfree/experimental/chart/demo/XYBlockChartDemo1.java;32;0.0
+TODO: The chart needs a legend to explain the colors displayed.;experimental/org/jfree/experimental/chart/demo/XYBlockChartDemo2.java;32;0.0
+TODO: Validate;experimental/org/jfree/experimental/chart/plot/dial/StandardDialScale.java;256;0.0
+TODO: validation;experimental/org/jfree/experimental/chart/plot/dial/DialCap.java;126;0.0
+TODO: validation;experimental/org/jfree/experimental/chart/plot/dial/DialTextAnnotation.java;154;0.0
+TODO: validation;experimental/org/jfree/experimental/chart/plot/dial/DialValueIndicator.java;198;0.0
+TODO: validation;experimental/org/jfree/experimental/chart/plot/dial/SimpleDialFrame.java;116;0.0
+TODO: validation;experimental/org/jfree/experimental/chart/plot/dial/StandardDialFrame.java;228;0.0
+TODO: validation;experimental/org/jfree/experimental/chart/plot/dial/StandardDialFrame.java;252;0.0
+TODO: validation;experimental/org/jfree/experimental/chart/plot/dial/StandardDialScale.java;280;0.0
+TODO: validation;experimental/org/jfree/experimental/chart/plot/dial/StandardDialScale.java;306;0.0
+TODO: validation;experimental/org/jfree/experimental/chart/plot/dial/StandardDialScale.java;382;0.0
+TODO: validation;experimental/org/jfree/experimental/chart/plot/dial/StandardDialScale.java;408;0.0
+TODO: validation;experimental/org/jfree/experimental/chart/plot/dial/StandardDialScale.java;477;0.0
+TODO:  keeping this class immutable is becoming a lot of overhead- need;source/org/jfree/chart/LegendItem.java;85;0.0
+TODO: I think we need to make sure the keys are actually cloned-;source/org/jfree/chart/PaintMap.java;174;0.0
+TODO: I think we need to make sure the keys are actually cloned-;source/org/jfree/chart/StrokeMap.java;171;0.0
+todo: not serialized yet;source/org/jfree/chart/JFreeChart.java;280;0.0
+TODO: implement the entity for the annotation;source/org/jfree/chart/annotations/CategoryPointerAnnotation.java;379;0.0
+TODO: this class is mostly immutable- so implementing Cloneable isn't;source/org/jfree/chart/axis/PeriodAxisLabelInfo.java;73;0.0
+TODO : complete this;source/org/jfree/chart/block/BlockContainer.java;281;0.0
+TODO:  the width and height ranges should be reduced by the;source/org/jfree/chart/block/BorderArrangement.java;407;0.0
+TODO: complete this;source/org/jfree/chart/block/ColumnArrangement.java;162;0.0
+TODO: complete this;source/org/jfree/chart/block/GridArrangement.java;145;0.0
+TODO: for now we are ignoring the height constraint;source/org/jfree/chart/block/CenterArrangement.java;303;0.0
+TODO: for now we are ignoring the height constraint;source/org/jfree/chart/block/FlowArrangement.java;408;0.0
+TODO: shift block down by half;source/org/jfree/chart/block/FlowArrangement.java;384;0.0
+TODO: shift block down to bottom;source/org/jfree/chart/block/FlowArrangement.java;388;0.0
+TODO: shift block over to right;source/org/jfree/chart/block/ColumnArrangement.java;334;0.0
+TODO: shift block right by half;source/org/jfree/chart/block/ColumnArrangement.java;330;0.0
+TODO:  add constructors for combinations of number and date formatters.;source/org/jfree/chart/labels/StandardXYZToolTipGenerator.java;139;0.0
+given criteria to 'appear' move important than the;source/org/jfree/chart/plot/SpiderWebPlot.java;1144;0.0
+private Plot parent <-- don't clone the parent plot- but take care;source/org/jfree/chart/plot/Plot.java;1081;0.0
+TODO:  move the above to the plot state;source/org/jfree/chart/plot/CombinedDomainCategoryPlot.java;103;0.0
+TODO:  the subplot areas needs to be moved out of the plot into the plot;source/org/jfree/chart/plot/CombinedDomainXYPlot.java;132;0.0
+TODO: don't allow null for index = 0;source/org/jfree/chart/plot/CategoryPlot.java;937;0.0
+TODO: get the axis that the renderer maps to;source/org/jfree/chart/plot/XYPlot.java;2881;0.0
+TODO: move to plot state;source/org/jfree/chart/plot/CombinedRangeCategoryPlot.java;104;0.0
+TODO: need to fetch this from localised resources;source/org/jfree/chart/plot/MultiplePiePlot.java;314;0.0
+TODO: to be implemented;source/org/jfree/chart/plot/ContourPlot.java;1821;0.0
+TODO: to be implemented;source/org/jfree/chart/plot/ContourPlot.java;1834;0.0
+TODO: to be implemented;source/org/jfree/chart/plot/ContourPlot.java;1845;0.0
+TODO: to be implemented;source/org/jfree/chart/plot/ContourPlot.java;1858;0.0
+TODO: to be implemented.;source/org/jfree/chart/plot/ThermometerPlot.java;1455;0.0
+TODO:  this attribute should be transferred to the renderer state.;source/org/jfree/chart/renderer/category/BarRenderer.java;413;0.0
+TODO:  this attribute should be transferred to the renderer state.;source/org/jfree/chart/renderer/category/BarRenderer.java;424;0.0
+TODO:  this needs to move into the renderer state;source/org/jfree/chart/renderer/category/BarRenderer.java;168;0.0
+TODO:  this needs to move into the renderer state;source/org/jfree/chart/renderer/category/BarRenderer.java;172;0.0
+TODO: draw the interval marker with a 3D effect;source/org/jfree/chart/renderer/category/BarRenderer3D.java;559;0.0
+Note: It would be nice to pre-calculate this per series;source/org/jfree/chart/renderer/xy/CandlestickRenderer.java;588;0.0
+TODO:  the following hard-coded line needs generalising;source/org/jfree/chart/renderer/xy/XYDifferenceRenderer.java;832;0.0
+TODO: need to change the next line to take account of plot;source/org/jfree/chart/renderer/xy/AbstractXYItemRenderer.java;738;0.0
+TODO: need to change the next line to take account of the plot;source/org/jfree/chart/renderer/xy/AbstractXYItemRenderer.java;771;0.0
+/ a kludge to make everything work when no rows returned;source/org/jfree/data/jdbc/JDBCXYDataset.java;361;0.0
+TODO: is this a good idea?;source/org/jfree/data/jdbc/JDBCXYDataset.java;407;0.0
+TODO: is this a good idea?;source/org/jfree/data/jdbc/JDBCXYDataset.java;415;0.0
+"* Returns a string representing the week (e.g. ""Week 9- 2002"").      *      * TODO: look at internationalisation.      *      * @return A string representing the week.";source/org/jfree/data/time/Week.java;396-402;0.0
+TODO: look at internationalisation.;source/org/jfree/data/time/Week.java;399;0.0
+I know it's bad to create object. better idea?;source/org/jfree/data/xy/MatrixSeriesCollection.java;160;0.0
+I know it's bad to create object. better idea?;source/org/jfree/data/xy/MatrixSeriesCollection.java;179;0.0
+TODO: by coding the event with some information about what changed;source/org/jfree/data/xy/IntervalXYDelegate.java;385;0.0
+XXX;source/org/jfree/data/xy/XYSeriesCollection.java;332;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/chart/swt/ChartComposite.java;1490;0.0
+TODO private boolean fillZoomRectangle = false-;swt/org/jfree/experimental/chart/swt/ChartComposite.java;249;0.0
+TODO private boolean horizontalAxisTrace = true-;swt/org/jfree/experimental/chart/swt/ChartComposite.java;255;0.0
+TODO private boolean verticalAxisTrace = true-;swt/org/jfree/experimental/chart/swt/ChartComposite.java;258;0.0
+TODO replace getSize by getBounds ?;swt/org/jfree/experimental/chart/swt/ChartComposite.java;929;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;205;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;238;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;247;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;276;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;286;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;308;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;316;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;324;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;400;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;408;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;416;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;424;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;432;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;469;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;535;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;585;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;593;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;616;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;623;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;690;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;709;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;733;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;742;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;751;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;759;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;767;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;776;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;785;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;793;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;801;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;809;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;819;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;829;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;839;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;849;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;859;0.0
+TODO Auto-generated method stub;swt/org/jfree/experimental/swt/SWTGraphics2D.java;870;0.0
+TODO do we need this? gc.getBackground().dispose()-;swt/org/jfree/experimental/swt/SWTGraphics2D.java;543;0.0
+TODO do we need this? gc.getFont().dispose()-;swt/org/jfree/experimental/swt/SWTGraphics2D.java;647;0.0
+TODO do we need this? gc.getForeground().dispose()-;swt/org/jfree/experimental/swt/SWTGraphics2D.java;608;0.0
+These constants control test cycles in the validateXXXX methods.;tests/org/jfree/chart/axis/junit/SegmentedTimelineTests.java;74;0.0
+These constants control test cycles in the validateXXXX methods.;tests/org/jfree/chart/axis/junit/SegmentedTimelineTests.java;77;0.0
+These constants control test cycles in the validateXXXX methods.;tests/org/jfree/chart/axis/junit/SegmentedTimelineTests.java;80;0.0
+TODO: add serialization support for images;tests/org/jfree/chart/title/junit/ImageTitleTests.java;118;0.0
+TODO: write all the tests that go here;tests/org/jfree/chart/title/junit/LegendGraphicTests.java;98;0.0

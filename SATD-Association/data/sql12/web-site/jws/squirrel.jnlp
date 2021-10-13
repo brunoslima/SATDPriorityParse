@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+" codebase="http://www.squirrelsql.org/jws" href="squirrel.jnlp">
+  <information>
+    <title>SQuirreL SQL Client</title>
+    <vendor>SourceForge.net</vendor>
+    <homepage href="http://www.squirrelsql.org/"/>
+    <icon kind="splash" href="logo.jpg"/>
+    <offline-allowed/>
+  </information>
+  <security>
+      <all-permissions/>
+  </security>
+  <resources>
+    <j2se version="1.6+"/>
+    <jar href="squirrel-sql.jar" main="true" />
+    <jar href="fw.jar"/>
+    <jar href="nanoxml.jar"/>
+    <jar href="asm.jar"/>
+    <jar href="cglib.jar"/>
+    <jar href="commons-codec.jar"/>
+    <jar href="commons-collections.jar"/>
+    <jar href="commons-httpclient.jar"/>
+    <jar href="commons-logging.jar"/>
+    <jar href="commons-cli.jar"/>
+    <jar href="dom4j.jar"/>
+    <jar href="ejb3-persistence.jar"/>
+    <jar href="forms.jar"/>
+    <jar href="hibernate.jar"/>
+    <jar href="hibernate-annotations.jar"/>
+    <jar href="hibernate-commons-annotations.jar"/>
+    <jar href="hibernate-entitymanager.jar"/>
+    <jar href="jxl.jar"/>
+    <jar href="log4j.jar"/>
+    <jar href="nanoxml.jar"/>
+    <jar href="spring-beans.jar"/>
+    <jar href="spring-context.jar"/>
+    <jar href="spring-context-support.jar"/>
+    <jar href="spring-core.jar"/>
+    <jar href="stringtemplate.jar"/>
+  </resources>
+  <application-desc main-class="net.sourceforge.squirrel_sql.client.Main"/>
+</jnlp>

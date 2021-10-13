@@ -1,0 +1,5 @@
+746;Catch Exception instead of Throwable.;JDependTask.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/jdepend/JDependTask.java;542;BLOCKER;20;5
+720;"Either remove this useless object instantiation of class ""URL"" or use it";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1783;CRITICAL;5;1
+689;"Make this array ""private"".";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1268;CRITICAL;N;1
+827;Use a logger to log this exception.;Classloader.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Classloader.java;238;CRITICAL;10;1
+757;"Remove this call to ""wait"" or move it into a ""while"" loop.";ExecuteJava.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/ExecuteJava.java;170;CRITICAL;20;2

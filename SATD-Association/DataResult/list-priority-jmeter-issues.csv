@@ -1,0 +1,441 @@
+SATD;Path;Line;Priority
+XXX;src/Core/org/apache/jmeter/samplers/SampleSaveConfiguration.java;56;1.0
+FIXME BROKEN CODE;src/reports/org/apache/jmeter/report/gui/action/ReportStart.java;28;0.7900207900207901
+TODO: - Check property files don't have duplicate keys (is this important);test/src/org/apache/jmeter/testbeans/gui/PackageTest.java;47;0.656964656964657
+TODO : - implement ImageProducer interface - suggestions --);src/components/org/apache/jmeter/visualizers/Spline3.java;25;0.5925155925155925
+* TODO : - implement ImageProducer interface - suggestions --);src/components/org/apache/jmeter/visualizers/Spline3.java;24-26;0.5925155925155925
+TODO - does not appear to be used;src/Core/org/apache/jmeter/gui/util/ButtonPanel.java;31;0.5509355509355509
+TODO? - N.B. does not currently allow the selection of a client certificate.;src/Core/org/apache/jmeter/util/SSLManager.java;45;0.41995841995842
+TODO needs cleaning up;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPHC4Impl.java;778;0.3898128898128898
+TODO - could this be return?;src/Core/org/apache/jmeter/JMeter.java;392;0.35395010395010396
+TODO: implement conditional checking and logging;src/Core/org/apache/jmeter/util/CustomX509TrustManager.java;31;0.33264033264033266
+* Custom TrustManager ignores all certificate errors  *  * TODO: implement conditional checking and logging  *  * (Derived from AuthSSLX509TrustManager in HttpClient contrib directory);src/Core/org/apache/jmeter/util/CustomX509TrustManager.java;28-34;0.33264033264033266
+TODO - perhaps save other items such as headers?;src/Core/org/apache/jmeter/reporters/ResultSaver.java;47;0.32432432432432434
+TODO: does not actually prompt;src/Core/org/apache/jmeter/util/JsseSSLManager.java;55;0.30145530145530147
+TODO - not used at present - could perhaps be removed;src/Core/org/apache/jmeter/samplers/Entry.java;29;0.2910602910602911
+TODO: do we need to implement any kind of connection pooling?;src/protocol/jms/org/apache/jmeter/protocol/jms/sampler/SubscriberSampler.java;47;0.28083853083853083
+TODO: needs a multiple file upload scenerio;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPHC4Impl.java;852;0.2598752598752599
+TODO - needed?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPHC4Impl.java;842;0.2598752598752599
+// Set the content type TODO - needed?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPHC4Impl.java;842;0.2598752598752599
+TODO Currently- keyType and issuers are both ignored.;src/Core/org/apache/jmeter/util/keystore/JmeterKeyStore.java;215;0.2494802494802495
+* Compiles the list of all client aliases with a private key.      * TODO Currently- keyType and issuers are both ignored.      *      * @param keyType the key algorithm type name (RSA- DSA- etc.)      * @param issuers  the CA certificates we are narrowing our selection on.      *       * @return the array of aliases- may be empty;src/Core/org/apache/jmeter/util/keystore/JmeterKeyStore.java;213-221;0.2494802494802495
+TODO any point in checking the other headers?;test/src/org/apache/jmeter/protocol/http/sampler/TestHTTPSamplersAgainstHttpMirrorServer.java;1037;0.2494802494802495
+TODO - more tests needed;test/src/org/apache/jmeter/protocol/http/util/accesslog/TestTCLogParser.java;24;0.2286902286902287
+*************************************************************************      * !ToDo (Method description)      *      * @param e      *            !ToDo (Parameter description)      * @return !ToDo (Return description)      *************************************************************************;src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler/LDAPExtSampler.java;703-709;0.2182952182952183
+TODO: improve- but keep returning;src/Core/org/apache/jmeter/testbeans/gui/WrapperEditor.java;254;0.19750519750519752
+"* Check if a string is a valid JMeter 'expression'.      * <p>      * The current implementation is very basic: it just accepts any string      * containing ""${"" as a valid expression. TODO: improve- but keep returning      * true for ""${}"".";src/Core/org/apache/jmeter/testbeans/gui/WrapperEditor.java;250-256;0.19750519750519752
+TODO : - Create a subpanel for other visualizers - connect to the properties. -;src/components/org/apache/jmeter/visualizers/MailerVisualizer.java;53;0.18711018711018712
+bail out.;src/Core/org/apache/jmeter/gui/GuiPackage.java;334;0.17671517671517672
+bail out.;src/Core/org/apache/jmeter/gui/GuiPackage.java;338;0.17671517671517672
+bail out.;src/Core/org/apache/jmeter/gui/GuiPackage.java;342;0.17671517671517672
+bail out.;src/reports/org/apache/jmeter/gui/ReportGuiPackage.java;311;0.17671517671517672
+bail out.;src/reports/org/apache/jmeter/gui/ReportGuiPackage.java;315;0.17671517671517672
+bail out.;src/reports/org/apache/jmeter/gui/ReportGuiPackage.java;319;0.17671517671517672
+TODO;src/protocol/ftp/org/apache/jmeter/protocol/ftp/sampler/FTPSampler.java;256;0.15722453222453223
+TODO Add these some day;test/src/org/apache/jmeter/resources/PackageTest.java;284;0.12993762993762994
+TODO need more tests - particularly for the new functions;test/src/org/apache/jmeter/samplers/TestSampleResult.java;31;0.12681912681912683
+TODO replace with proper Exception;src/components/org/apache/jmeter/assertions/HTMLAssertion.java;176;0.12474012474012475
+TODO ?? (JMeterTreeNode) selectedNode.clone()-;src/components/org/apache/jmeter/control/ModuleController.java;72;0.12474012474012475
+TODO: Make the running indicator its own class instead of a JButton;src/Core/org/apache/jmeter/gui/MainFrame.java;168;0.12474012474012475
+TODO: actionHandler isn't used -- remove it from the parameter list;src/Core/org/apache/jmeter/gui/MainFrame.java;165;0.12474012474012475
+TODO ??;src/Core/org/apache/jmeter/samplers/SampleResult.java;278;0.12474012474012475
+TODO ??;src/Core/org/apache/jmeter/samplers/SampleResult.java;291;0.12474012474012475
+TODO ??;src/Core/org/apache/jmeter/samplers/SampleResult.java;306;0.12474012474012475
+TODO work out how to make shouldSerializeMember() conditionally return true.;src/Core/org/apache/jmeter/save/converters/SampleSaveConfigurationConverter.java;38;0.12474012474012475
+* Allow new fields to be added to the SampleSaveConfiguration without  * changing the output JMX file unless it is necessary.  *  * TODO work out how to make shouldSerializeMember() conditionally return true.;src/Core/org/apache/jmeter/save/converters/SampleSaveConfigurationConverter.java;34-39;0.12474012474012475
+TODO consider using private logs for each derived class;src/Core/org/apache/jmeter/testelement/property/AbstractProperty.java;31;0.12474012474012475
+TODO - convert this into an immutable class using plain variables;src/monitor/components/org/apache/jmeter/visualizers/MonitorStats.java;24;0.12474012474012475
+TODO: find out how to retrieve these from the script;src/protocol/java/org/apache/jmeter/protocol/java/sampler/BSFSampler.java;73;0.12474012474012475
+TODO improve this;src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler/LDAPSampler.java;426;0.12474012474012475
+TODO distinguish errors better //$NON-NLS-1$;src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler/LDAPSampler.java;459;0.12474012474012475
+TODO if(instance.getSMTPStatusCode == 250);src/protocol/mail/org/apache/jmeter/protocol/smtp/sampler/SmtpSampler.java;232;0.12474012474012475
+"* TODO if(instance.getSMTPStatusCode == 250)              * res.setResponseMessage(""Message successfully sent!"")- else              * res.setResponseMessage(instance.getSMTPStatusCodeIncludingMessage)-";src/protocol/mail/org/apache/jmeter/protocol/smtp/sampler/SmtpSampler.java;231-235;0.12474012474012475
+N.B. this will be a config element- so we cannot use the setXXX() methods;src/protocol/tcp/org/apache/jmeter/protocol/tcp/config/gui/TCPConfigGui.java;98;0.12474012474012475
+N.B. this will be a config element- so we cannot use the getXXX() methods;src/protocol/tcp/org/apache/jmeter/protocol/tcp/config/gui/TCPConfigGui.java;72;0.12474012474012475
+TODO tighten rules;src/reports/org/apache/jmeter/report/gui/action/ReportDragNDrop.java;92;0.12474012474012475
+TODO move to MenuFactory?;src/reports/org/apache/jmeter/report/gui/action/ReportDragNDrop.java;92;0.12474012474012475
+* Determine whether or not dragged nodes can be added to this parent. Also      * used by Paste TODO tighten rules TODO move to MenuFactory?      *      * @param parentNode      * @return whether it is OK to add the dragged nodes to this parent;src/reports/org/apache/jmeter/report/gui/action/ReportDragNDrop.java;90-96;0.12474012474012475
+TODO enable some proper tests!!;test/src/org/apache/jmeter/control/TestIfController.java;38;0.12474012474012475
+TODO should we call test listeners? That might hang too ...;src/Core/org/apache/jmeter/engine/StandardJMeterEngine.java;299;0.10395010395010396
+TODO - why use space?;src/Core/org/apache/jmeter/engine/util/FunctionParser.java;117;0.09702009702009703
+TODO - why use space?;src/Core/org/apache/jmeter/engine/util/FunctionParser.java;59;0.09355509355509356
+TODO ?;src/Core/org/apache/jmeter/gui/action/SSLManagerCommand.java;49;0.09355509355509356
+public void testPostRequestChunked() throws Exception {         // TODO - implement testing of chunked post request     };test/src/org/apache/jmeter/protocol/http/control/TestHTTPMirrorThread.java;331-335;0.0855855855855856
+TODO: remove this useless Entry parameter;src/Core/org/apache/jmeter/threads/JMeterThread.java;418;0.08316008316008316
+TODO should this set the thread names for all the subsamples?;src/Core/org/apache/jmeter/threads/JMeterThread.java;409;0.08316008316008316
+Hack: save the package for any transaction controllers;src/Core/org/apache/jmeter/threads/JMeterThread.java;403;0.08316008316008316
+TODO - could be converted to generic class?;src/protocol/http/org/apache/jmeter/protocol/http/proxy/ProxyControl.java;739;0.08316008316008316
+TODO perhaps should share code with __time() function for this...;src/Core/org/apache/jmeter/JMeter.java;338;0.08108108108108109
+TODO add tests to check for: - name clash - long option abbreviations;test/src/org/apache/commons/cli/avalon/ClutilTestCase.java;963;0.07952182952182953
+* TODO add tests to check for: - name clash - long option abbreviations      * (match shortest unique abbreviation);test/src/org/apache/commons/cli/avalon/ClutilTestCase.java;962-965;0.07952182952182953
+$NON-NLS-1$ i.e. boolean saveXXX();src/Core/org/apache/jmeter/gui/SavePropertyDialog.java;60;0.062370062370062374
+$NON-NLS-1$ e.g. save_XXX property;src/Core/org/apache/jmeter/gui/SavePropertyDialog.java;62;0.062370062370062374
+TODO: doesn't putting this here mark the tree as;src/Core/org/apache/jmeter/gui/action/Save.java;127;0.062370062370062374
+TODO;src/protocol/ftp/org/apache/jmeter/protocol/ftp/sampler/FTPSampler.java;262;0.062370062370062374
+TODO: process warnings? Set Code and Message to success?;src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/sampler/JDBCSampler.java;95;0.062370062370062374
+TODO - is this correct?;src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/sampler/JDBCSampler.java;85;0.062370062370062374
+TODO - is this correct?;src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/sampler/JDBCSampler.java;89;0.062370062370062374
+TODO: doesn't putting this here mark the tree as;src/reports/org/apache/jmeter/report/gui/action/ReportSave.java;100;0.062370062370062374
+TODO can this happen?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPSamplerBase.java;1179;0.055440055440055445
+TODO - should this be done when the client is created?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPHC4Impl.java;556;0.05405405405405406
+TODO - yet another ambiguous name - does it need changing?;src/Core/org/apache/jmeter/testelement/TestElement.java;128;0.05197505197505198
+TODO: replace all this url2 mess with a proper method;src/protocol/http/org/apache/jmeter/protocol/http/control/AuthManager.java;147;0.05197505197505198
+TODO Charset ?;src/components/org/apache/jmeter/visualizers/StatGraphVisualizer.java;470;0.04158004158004158
+TODO Charset ?;src/components/org/apache/jmeter/visualizers/StatVisualizer.java;256;0.04158004158004158
+TODO Enhance search dialog to select kind of nodes ....;src/Core/org/apache/jmeter/gui/action/SearchTreeCommand.java;27;0.04158004158004158
+* Search nodes for a text  * TODO Enhance search dialog to select kind of nodes ....;src/Core/org/apache/jmeter/gui/action/SearchTreeCommand.java;25-28;0.04158004158004158
+TODO should errors be thrown back through RMI?;src/Core/org/apache/jmeter/samplers/DiskStoreSampleSender.java;145;0.04158004158004158
+Programming error: bail out.;src/Core/org/apache/jmeter/testbeans/BeanInfoSupport.java;103;0.04158004158004158
+Programming error: bail out.;src/Core/org/apache/jmeter/testbeans/gui/WrapperEditor.java;235;0.04158004158004158
+Programming error: bail out.;src/Core/org/apache/jmeter/testbeans/gui/WrapperEditor.java;247;0.04158004158004158
+TODO - does not appear to be called directly;src/Core/org/apache/jmeter/util/JMeterUtils.java;625;0.04158004158004158
+TODO - also check the match string to restrict the changes further?;src/protocol/http/org/apache/jmeter/protocol/http/proxy/Proxy.java;241;0.04158004158004158
+TODO: find a way to avoid the cost of creating a String here --;src/protocol/http/org/apache/jmeter/protocol/http/parser/RegexpHTMLParser.java;153;0.03724878724878725
+better.;src/protocol/http/org/apache/jmeter/protocol/http/parser/RegexpHTMLParser.java;155;0.03724878724878725
+TODO - do these really need to be shared between all Proxy instances?;src/protocol/http/org/apache/jmeter/protocol/http/proxy/Daemon.java;117;0.034650034650034654
+Bug 47064 - fixes for Mac LAF;src/Core/org/apache/jmeter/gui/action/KeyStrokes.java;35;0.032224532224532226
+TODO - why does it create a new instance?;src/Core/org/apache/jmeter/JMeter.java;698;0.031185031185031187
+TODO - perhaps deprecate these in favour of Commons IO?;src/jorphan/org/apache/jorphan/util/JOrphanUtils.java;332;0.031185031185031187
+TODO - should LF-only EOL be allowed?;test/src/org/apache/jmeter/protocol/http/config/MultipartUrlConfigTest.java;45;0.031185031185031187
+TODO is this sensible?;src/protocol/mail/org/apache/jmeter/protocol/mail/sampler/MailReaderSampler.java;212;0.029452529452529456
+TODO: Exact ordering is only required for some tests- change the;test/src/org/apache/jmeter/protocol/http/parser/TestHTMLParser.java;272;0.021483021483021485
+* TODO: Exact ordering is only required for some tests- change the              * comparison to do a set compare where necessary.;test/src/org/apache/jmeter/protocol/http/parser/TestHTMLParser.java;271-274;0.021483021483021485
+TODO: fetch this once as per vars above?;src/components/org/apache/jmeter/config/CSVDataSet.java;143;0.02079002079002079
+TODO could these be done earlier (or just once?);src/Core/org/apache/jmeter/control/TransactionController.java;182;0.02079002079002079
+TODO turn into method?;src/Core/org/apache/jmeter/samplers/SampleSaveConfiguration.java;259;0.02079002079002079
+TODO: review this and possibly change to:;src/Core/org/apache/jmeter/testbeans/gui/GenericTestBeanCustomizer.java;474;0.02079002079002079
+so I'll bail out.;src/Core/org/apache/jmeter/testbeans/gui/GenericTestBeanCustomizer.java;468;0.02079002079002079
+file read? In this case- it would be better to replace the;src/Core/org/apache/jmeter/testbeans/gui/GenericTestBeanCustomizer.java;463;0.02079002079002079
+(MS Note) Can't bail out - newly create elements have blank;src/Core/org/apache/jmeter/testbeans/gui/GenericTestBeanCustomizer.java;469;0.02079002079002079
+TODO - perhaps this should be a fatal error?;src/Core/org/apache/jmeter/util/JMeterUtils.java;1211;0.02079002079002079
+TODO Better messages;src/jorphan/org/apache/commons/jexl/bsf/JexlEngine.java;100;0.02079002079002079
+TODO - why is the key value also stored in the entry array?;src/jorphan/org/apache/jorphan/math/StatCalculator.java;159;0.02079002079002079
+* Returns the distribution of the values in the list.      *      * @return map containing either Integer or Long keys- entries are a Number array containing the key and the [Integer] count.      * TODO - why is the key value also stored in the entry array?;src/jorphan/org/apache/jorphan/math/StatCalculator.java;155-160;0.02079002079002079
+TODO should we allow null for non-primitive types?;src/jorphan/org/apache/jorphan/util/Converter.java;43;0.02079002079002079
+TODO - work out how to convert JUnit4 assertions so they are treated as failures rather than errors;src/junit/org/apache/jmeter/protocol/java/sampler/JUnitSampler.java;569;0.02079002079002079
+* Wrapper to convert a JUnit4 class into a TestCase      *      *  TODO - work out how to convert JUnit4 assertions so they are treated as failures rather than errors;src/junit/org/apache/jmeter/protocol/java/sampler/JUnitSampler.java;566-570;0.02079002079002079
+TODO: needs a multiple file upload scenerio;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPHC3Impl.java;791;0.02079002079002079
+TODO size ouststream according to actual content length;src/protocol/http/org/apache/jmeter/protocol/http/sampler/SoapSampler.java;277;0.02079002079002079
+TODO ? perhaps note connection so it can be disconnected at end of test?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPJavaImpl.java;615;0.02079002079002079
+TODO - this method seems to be wrong - it does not agree with the Javadoc;src/reports/org/apache/jmeter/testelement/JTLData.java;78;0.02079002079002079
+TODO: need more tests;test/src/org/apache/jmeter/protocol/http/parser/TestHtmlParsingUtils.java;26;0.02079002079002079
+TODO - should the encoding be configurable?;src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/AbstractJDBCTestElement.java;79;0.013860013860013861
+TODO - do they have to be the same size?;src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/AbstractJDBCTestElement.java;67;0.013860013860013861
+TODO should this throw an error?;src/Core/org/apache/jmeter/samplers/SampleResult.java;963;0.010395010395010396
+TODO: does it matter that an empty line will terminate the loop?;src/Core/org/apache/jmeter/save/CSVSaveService.java;151;0.010395010395010396
+TODO should this be getMin()?;src/jorphan/org/apache/jorphan/math/StatCalculator.java;152;0.010395010395010396
+TODO - allow directories to end with .jar by removing this check?;src/jorphan/org/apache/jorphan/reflect/ClassFinder.java;167;0.010395010395010396
+TODO Charset ?;src/protocol/http/org/apache/jmeter/protocol/http/control/HeaderManager.java;137;0.010395010395010396
+quick hack anyway- so who cares.;src/protocol/http/org/apache/jmeter/protocol/http/modifier/URLRewritingModifier.java;184;0.010395010395010396
+TODO needed here because currently done on sample completion in JMeterThread-;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPSamplerBase.java;1121;0.010395010395010396
+TODO - charset?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/AjpSampler.java;287;0.010395010395010396
+better ISO-8859-1 than UTF-8;src/protocol/http/org/apache/jmeter/protocol/http/visualizers/RequestViewHTTP.java;266;0.010395010395010396
+#NOME?;test/src/org/apache/commons/cli/avalon/ClutilTestCase.java;581;0.010395010395010396
+TODO - charset?;test/src/org/apache/jmeter/protocol/http/sampler/PostWriterTest.java;170;0.010395010395010396
+TODO: wy not?;src/Core/org/apache/jmeter/save/converters/SampleResultConverter.java;357;0.007623007623007624
+Don't try restoring the URL TODO: wy not?;src/Core/org/apache/jmeter/save/converters/SampleResultConverter.java;357;0.007623007623007624
+TODO - should we call start() and stop()?;src/protocol/jms/org/apache/jmeter/protocol/jms/sampler/SubscriberSampler.java;137;0.0074497574497574505
+TODO - implementation not fully tested;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPHC4Impl.java;996;0.007276507276507277
+TODO - convert to work more like upgrade.properties/NameUpdater.java;src/Core/org/apache/jmeter/save/converters/TestElementPropertyConverter.java;87;0.005197505197505198
+"* TODO - convert to work more like upgrade.properties/NameUpdater.java      *      * Special processing is carried out for the Header Class The String      * property TestElement.name is converted to Header.name for example:      * <elementProp name=""User-Agent""      * elementType=""org.apache.jmeter.protocol.http.control.Header""> <stringProp      * name=""Header.value"">Mozilla%2F4.0+%28compatible%3B+MSIE+5.5%3B+Windows+98%29</stringProp>      * <stringProp name=""TestElement.name"">User-Agent</stringProp>      * </elementProp> becomes <elementProp name=""User-Agent""      * elementType=""org.apache.jmeter.protocol.http.control.Header""> <stringProp      * name=""Header.value"">Mozilla%2F4.0+%28compatible%3B+MSIE+5.5%3B+Windows+98%29</stringProp>      * <stringProp name=""Header.name"">User-Agent</stringProp> </elementProp>";src/Core/org/apache/jmeter/save/converters/TestElementPropertyConverter.java;86-99;0.005197505197505198
+TODO clazz is probably always the same as testclass;src/Core/org/apache/jmeter/save/converters/TestElementPropertyConverter.java;83;0.0034650034650034653
+TODO - what other headers are not allowed?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPHC4Impl.java;688;0.0034650034650034653
+TODO does not work yet- need to determine the sample type;src/Core/org/apache/jmeter/save/converters/SampleEventConverter.java;56;0.002079002079002079
+TODO should equals and hashCode depend on field other than count?;src/Core/org/apache/jmeter/visualizers/Sample.java;180;0.002079002079002079
+TODO should equals and hashCode depend on field other than count?;src/Core/org/apache/jmeter/visualizers/TableSample.java;117;0.002079002079002079
+TODO - add bounds checking?;src/jorphan/org/apache/jorphan/util/JOrphanUtils.java;310;0.002079002079002079
+TODO - charset?;src/protocol/ftp/org/apache/jmeter/protocol/ftp/sampler/FTPSampler.java;197;0.0012993762993762994
+TODO needs to be synch? Probably not changed after threads have started;src/Core/org/apache/jmeter/util/JMeterUtils.java;1119;0.0010395010395010396
+﻿TODO: remove either MATCH or CONTAINS - they;src/components/org/apache/jmeter/assertions/ResponseAssertion.java;72;0.0
+TODO support multiple signers;src/components/org/apache/jmeter/assertions/SMIMEAssertion.java;254;0.0
+TODO strings should be resources;src/components/org/apache/jmeter/assertions/ResponseAssertion.java;374;0.0
+TODO replace with proper Exception;src/components/org/apache/jmeter/assertions/HTMLAssertion.java;122;0.0
+TODO is this the correct strategy?;src/components/org/apache/jmeter/assertions/XMLSchemaAssertion.java;205;0.0
+TODO - charset?;src/components/org/apache/jmeter/assertions/XMLAssertion.java;67;0.0
+result.setError(true)- // TODO is this the correct strategy?;src/components/org/apache/jmeter/assertions/XMLSchemaAssertion.java;205;0.0
+but we do trap this error to make tests work better;src/components/org/apache/jmeter/assertions/BeanShellAssertion.java;117;0.0
+*************************************************************************      * !ToDoo (Method description)      *      * @return !ToDo (Return description)      *************************************************************************;src/components/org/apache/jmeter/assertions/ResponseAssertion.java;193-197;0.0
+*************************************************************************      * !ToDoo (Method description)      *      * @return !ToDo (Return description)      *************************************************************************;src/components/org/apache/jmeter/assertions/ResponseAssertion.java;202-206;0.0
+*************************************************************************      * !ToDoo (Method description)      *      * @return !ToDo (Return description)      *************************************************************************;src/components/org/apache/jmeter/assertions/ResponseAssertion.java;215-219;0.0
+* Mask values for TEST_TYPE TODO: remove either MATCH or CONTAINS - they      * are mutually exckusive;src/components/org/apache/jmeter/assertions/ResponseAssertion.java;71-74;0.0
+TODO ought to be a FileChooser ...;src/components/org/apache/jmeter/assertions/gui/BeanShellAssertionGui.java;85;0.0
+TODO need to find better way to do this;src/components/org/apache/jmeter/config/CSVDataSetBeanInfo.java;96;0.0
+TODO - report unused columns?;src/components/org/apache/jmeter/config/CSVDataSet.java;162;0.0
+TODO - provide option to set unused variables ?;src/components/org/apache/jmeter/config/CSVDataSet.java;163;0.0
+These variable names must have .displayName properties and agree with the getXXX()/setXXX() methods;src/components/org/apache/jmeter/config/RandomVariableConfigBeanInfo.java;32;0.0
+TODO - fix so that this is only called once per test- instead of at every clone;src/components/org/apache/jmeter/control/IncludeController.java;68;0.0
+TODO: validate contentType for reasonable types?;src/components/org/apache/jmeter/extractor/XPathExtractor.java;285;0.0
+TODO - should we skip processing here?;src/components/org/apache/jmeter/extractor/BeanShellPostProcessor.java;52;0.0
+TODO: should this be clearData()?;src/components/org/apache/jmeter/reporters/MailerModel.java;224;0.0
+TODO: or obtain text from bean's displayName or shortDescription.;src/components/org/apache/jmeter/timers/ConstantThroughputTimer.java;213;0.0
+TODO: Is this ever used? I can't remember where. Remove if it isn't --;src/components/org/apache/jmeter/timers/ConstantThroughputTimer.java;212;0.0
+TODO need to find better way to do this;src/components/org/apache/jmeter/timers/ConstantThroughputTimerBeanInfo.java;59;0.0
+TODO find better way to get modeInt;src/components/org/apache/jmeter/timers/ConstantThroughputTimer.java;114;0.0
+TODO - is this used? (apart from test code);src/components/org/apache/jmeter/timers/ConstantThroughputTimer.java;144;0.0
+* Provide a description of this timer class.      *      * TODO: Is this ever used? I can't remember where. Remove if it isn't --      * TODO: or obtain text from bean's displayName or shortDescription.      *      * @return the description of this timer class.;src/components/org/apache/jmeter/timers/ConstantThroughputTimer.java;209-216;0.0
+TODO: instead- we could delay doing;src/components/org/apache/jmeter/visualizers/ViewResultsFullVisualizer.java;349;0.0
+TODO: add and delete not currently supported;src/components/org/apache/jmeter/visualizers/PropertyControlGui.java;66;0.0
+TODO work out how to search the XML pane;src/components/org/apache/jmeter/visualizers/RenderAsXML.java;55;0.0
+TODO suppress LINK somehow;src/components/org/apache/jmeter/visualizers/RenderAsHTML.java;121;0.0
+TODO implement to find any nodes in the tree using TreePath.;src/components/org/apache/jmeter/visualizers/RenderAsXML.java;105;0.0
+TODO implement other non-text types;src/components/org/apache/jmeter/visualizers/SamplerResultTab.java;487;0.0
+TODO create better dummy;src/components/org/apache/jmeter/visualizers/RenderAsHTML.java;120;0.0
+TODO - remove UnsharedComponent ? Probably does not make sense for a TestBean.;src/components/org/apache/jmeter/visualizers/BeanShellListener.java;35;0.0
+TODO - is this needed?;src/components/org/apache/jmeter/visualizers/SplineVisualizer.java;251;0.0
+to restore last selected tab (better user-friendly);src/components/org/apache/jmeter/visualizers/ViewResultsFullVisualizer.java;325;0.0
+graph. the larger the sample- the better the;src/components/org/apache/jmeter/visualizers/DistributionGraph.java;164;0.0
+data is larger than 200K. TODO: instead- we could delay doing;src/components/org/apache/jmeter/visualizers/ViewResultsFullVisualizer.java;349;0.0
+* Provide dummy implementations to suppress download and display of              * related resources: - FRAMEs - IMAGEs TODO create better dummy              * displays TODO suppress LINK somehow;src/components/org/apache/jmeter/visualizers/RenderAsHTML.java;118-122;0.0
+"*      * A Dom tree panel for to display response as tree view author <a      * href=""mailto:d.maung@mdl.com"">Dave Maung</a>       * TODO implement to find any nodes in the tree using TreePath.      *";src/components/org/apache/jmeter/visualizers/RenderAsXML.java;101-107;0.0
+TODO this bit of code needs to be tidied up;src/Core/org/apache/jmeter/JMeter.java;833;0.0
+HACK: force the controller to load its tree;src/Core/org/apache/jmeter/JMeter.java;838;0.0
+Hack to resolve ModuleControllers in non GUI mode;src/Core/org/apache/jmeter/JMeter.java;740;0.0
+Hack to allow automated tests to find when test has ended;src/Core/org/apache/jmeter/JMeter.java;207;0.0
+TODO: move this to components -- the only reason why it's in Core is because;src/Core/org/apache/jmeter/config/LoginConfig.java;26;0.0
+TODO: improve this test;src/Core/org/apache/jmeter/config/Argument.java;196;0.0
+TODO: This class looks a lot like ArgumentsPanel. What exactly is the;src/Core/org/apache/jmeter/config/gui/SimpleConfigGui.java;51;0.0
+TODO: improve- e.g. by adding counts to the SampleResult class;src/Core/org/apache/jmeter/control/TransactionSampler.java;111;0.0
+TODO should this use setFirst()?;src/Core/org/apache/jmeter/control/GenericController.java;90;0.0
+TODO should this use setDone()?;src/Core/org/apache/jmeter/control/GenericController.java;89;0.0
+TODO Should this be at warn level ?;src/Core/org/apache/jmeter/control/TransactionController.java;190;0.0
+TODO document this;src/Core/org/apache/jmeter/control/GenericController.java;66;0.0
+TODO - should this use setFirst() ?;src/Core/org/apache/jmeter/control/GenericController.java;380;0.0
+* TODO document this;src/Core/org/apache/jmeter/control/GenericController.java;65-67;0.0
+* A little hack - add each listener to the start of the list - this          * ensures that the thread running the show is the first listener and          * can modify certain values before other listeners are called.;src/Core/org/apache/jmeter/control/GenericController.java;355-359;0.0
+TODO make use of the field;src/Core/org/apache/jmeter/control/gui/WhileControllerGui.java;136;0.0
+* Create a GUI panel containing the condition. TODO make use of the field      *      * @return a GUI panel containing the condition components;src/Core/org/apache/jmeter/control/gui/WhileControllerGui.java;135-139;0.0
+Hack to allow external control;src/Core/org/apache/jmeter/engine/StandardJMeterEngine.java;169;0.0
+A hack to make user-defined variables in the testplan element more dynamic;src/Core/org/apache/jmeter/engine/PreCompiler.java;83;0.0
+TODO should this also clear isDynamic- rawParameters- permanentResults?;src/Core/org/apache/jmeter/engine/util/CompoundVariable.java;172;0.0
+TODO does not appear to be used;src/Core/org/apache/jmeter/functions/util/ArgumentDecoder.java;31;0.0
+TODO does not appear to be used;src/Core/org/apache/jmeter/functions/util/ArgumentEncoder.java;31;0.0
+TODO: This method doesn't appear to be used.;src/Core/org/apache/jmeter/gui/GUIFactory.java;101;0.0
+TODO: This method doesn't appear to be used.;src/Core/org/apache/jmeter/gui/GUIFactory.java;164;0.0
+TODO: Do we really need to have all these menubar methods duplicated;src/Core/org/apache/jmeter/gui/MainFrame.java;195;0.0
+TODO consider removing this method- and providing method wrappers instead.;src/Core/org/apache/jmeter/gui/GuiPackage.java;489;0.0
+TODO - why lower case? OK to use the default Locale?;src/Core/org/apache/jmeter/gui/JMeterFileFilter.java;76;0.0
+TODO - how can this be null?;src/Core/org/apache/jmeter/gui/MainFrame.java;315;0.0
+$NON-NLS-1$ i.e. void setXXX(boolean);src/Core/org/apache/jmeter/gui/SavePropertyDialog.java;61;0.0
+TODO: I believe the following code (to the end of the method) is;src/Core/org/apache/jmeter/gui/action/EditCommand.java;47;0.0
+TODO - removes the nodes from the CheckDirty map - should it be done later- in case some can't be removed?;src/Core/org/apache/jmeter/gui/action/Remove.java;71;0.0
+Hack to get full modifier value;src/Core/org/apache/jmeter/gui/action/KeyStrokes.java;80;0.0
+TODO: is the serializable test necessary now that JMeterTreeNode is;src/Core/org/apache/jmeter/gui/tree/JMeterTreeNode.java;56;0.0
+TODO: find a better way of checking this;src/Core/org/apache/jmeter/gui/util/MenuFactory.java;433;0.0
+* JMeterTreeNode and TestBeanGUI are special GUI classes- and                  * aren't intended to be added to menus                  *                  * TODO: find a better way of checking this;src/Core/org/apache/jmeter/gui/util/MenuFactory.java;429-434;0.0
+TODO: may not work on all OSes?;src/Core/org/apache/jmeter/reporters/ResultCollector.java;441;0.0
+TODO should class implement SampleListener?;src/Core/org/apache/jmeter/reporters/AbstractListenerElement.java;33;0.0
+TODO is this the right thing to do?;src/Core/org/apache/jmeter/reporters/ResultSaver.java;121;0.0
+TODO: not used - make private?;src/Core/org/apache/jmeter/samplers/RemoteListenerWrapper.java;54;0.0
+TODO: merge error count into parent class?;src/Core/org/apache/jmeter/samplers/StatisticalSampleResult.java;26;0.0
+TODO: error counting needs to be sorted out.;src/Core/org/apache/jmeter/samplers/SampleResult.java;1083;0.0
+TODO would be nice to make these final- not 100% sure volatile is needed as not changed after creation;src/Core/org/apache/jmeter/samplers/StatisticalSampleSender.java;77;0.0
+TODO timeStamp == 0 means either not yet initialised or no stamp available (e.g. when loading a results file);src/Core/org/apache/jmeter/samplers/SampleResult.java;144;0.0
+TODO perhaps use ConcurrentHashMap ?;src/Core/org/apache/jmeter/samplers/StatisticalSampleSender.java;73;0.0
+TODO is this really necessary?;src/Core/org/apache/jmeter/samplers/SampleResult.java;556;0.0
+TODO do we need allow for nested samples?;src/Core/org/apache/jmeter/samplers/SampleResult.java;1072;0.0
+TODO do this more efficiently;src/Core/org/apache/jmeter/samplers/SampleResult.java;553;0.0
+TODO do contentType and/or dataEncoding belong in HTTPSampleResult instead?;src/Core/org/apache/jmeter/samplers/SampleResult.java;204;0.0
+TODO appears to duplicate the threadName field in SampleResult;src/Core/org/apache/jmeter/samplers/SampleEvent.java;72;0.0
+* Returns the count of errors.      *      * @return 0 - or 1 if the sample failed      *       * TODO do we need allow for nested samples?;src/Core/org/apache/jmeter/samplers/SampleResult.java;1067-1073;0.0
+* Aggregates sample results for use by the Statistical remote batch mode.  * Samples are aggregated by the key defined by getKey().  * TODO: merge error count into parent class?;src/Core/org/apache/jmeter/samplers/StatisticalSampleResult.java;23-27;0.0
+"@GuardedBy(""sampleStore"") TODO perhaps use ConcurrentHashMap ?";src/Core/org/apache/jmeter/samplers/StatisticalSampleSender.java;73;0.0
+Yuck: TIFFImageEncoder uses Error to report runtime problems;src/Core/org/apache/jmeter/save/SaveGraphicsService.java;164;0.0
+TODO: should this be restored?;src/Core/org/apache/jmeter/save/CSVSaveService.java;297;0.0
+TODO should this be JTLSAVER? Only seems to be called by MonitorHealthVisualzer;src/Core/org/apache/jmeter/save/SaveService.java;362;0.0
+TODO provide proper name?;src/Core/org/apache/jmeter/save/OldSaveService.java;189;0.0
+TODO Charset ?;src/Core/org/apache/jmeter/save/CSVSaveService.java;131;0.0
+TODO - should this be restored?;src/Core/org/apache/jmeter/save/CSVSaveService.java;276;0.0
+TODO save hostname- save sample type (plain or http);src/Core/org/apache/jmeter/save/converters/SampleEventConverter.java;47;0.0
+Slight hack - we need to ensure the TestClass is not reset by the previous call;src/Core/org/apache/jmeter/save/converters/TestElementConverter.java;103;0.0
+* These must be set before reading/writing the XML. Rather a hack- but      * saves changing all the method calls to include an extra variable.      *      * AFAIK the variables should only be accessed from one thread- so no need to synchronize.;src/Core/org/apache/jmeter/save/converters/ConversionHelp.java;62-67;0.0
+TODO hey- not sure this method belongs here.  FileServer is for threadsafe;src/Core/org/apache/jmeter/services/FileServer.java;416;0.0
+TODO: there must be a nicer way...;src/Core/org/apache/jmeter/testbeans/gui/TestBeanGUI.java;379;0.0
+TODO: the above works in the current situation- but it's;src/Core/org/apache/jmeter/testbeans/gui/GenericTestBeanCustomizer.java;552;0.0
+TODO should this implement supportsCustomEditor() ?;src/Core/org/apache/jmeter/testbeans/gui/FieldStringEditor.java;96;0.0
+TODO - use or remove;src/Core/org/apache/jmeter/testbeans/gui/GenericTestBeanCustomizer.java;147;0.0
+TODO - do these behave properly during language change? Probably not.;src/Core/org/apache/jmeter/testbeans/gui/ComboStringEditor.java;81;0.0
+Programming error: bail out.;src/Core/org/apache/jmeter/testbeans/gui/TestBeanGUI.java;159;0.0
+just a hack. How to get each editor to report whether it;src/Core/org/apache/jmeter/testbeans/gui/GenericTestBeanCustomizer.java;553;0.0
+TODO temporary hack to avoid unnecessary bug reports for subclasses;src/Core/org/apache/jmeter/testelement/AbstractTestElement.java;123;0.0
+TODO - sort out equals and hashCode() - at present equal;src/Core/org/apache/jmeter/testelement/AbstractTestElement.java;134;0.0
+* URGENT: TODO - sort out equals and hashCode() - at present equal      * instances can/will have different hashcodes - problem is- when a proper      * hashcode is used- tests stop working- e.g. listener data disappears when      * switching views... This presumably means that instances currently      * regarded as equal- aren't really equal.      *      * @see java.lang.Object#hashCode();src/Core/org/apache/jmeter/testelement/AbstractTestElement.java;133-141;0.0
+TODO Auto-generated constructor stub;src/Core/org/apache/jmeter/testelement/property/ObjectProperty.java;70;0.0
+TODO - why does null property have a value?;src/Core/org/apache/jmeter/testelement/property/NullProperty.java;30;0.0
+TODO - how to handle thread stopped here;src/Core/org/apache/jmeter/threads/JMeterThread.java;523;0.0
+TODO - consider passing them to the constructor- so that they can be made final;src/Core/org/apache/jmeter/threads/JMeterThread.java;95;0.0
+TODO? - does not actually allow the user to choose an alias at present;src/Core/org/apache/jmeter/util/JsseSSLManager.java;369;0.0
+TODO why not use the super class value?;src/Core/org/apache/jmeter/util/JsseSSLManager.java;89;0.0
+TODO is this correct?;src/Core/org/apache/jmeter/util/XPathUtil.java;320;0.0
+TODO Charset ?;src/Core/org/apache/jmeter/util/JSR223TestElement.java;131;0.0
+TODO but why do we need to clone the list?;src/Core/org/apache/jmeter/util/JMeterUtils.java;410;0.0
+TODO - perhaps remove?;src/Core/org/apache/jmeter/util/JMeterUtils.java;120;0.0
+TODO - move to JOrphanUtils?;src/Core/org/apache/jmeter/util/JMeterUtils.java;1023;0.0
+TODO - move to JOrphanUtils?;src/Core/org/apache/jmeter/util/JMeterUtils.java;1049;0.0
+TODO - move to JOrphanUtils?;src/Core/org/apache/jmeter/util/JMeterUtils.java;1079;0.0
+TODO - charset?;src/Core/org/apache/jmeter/util/BeanShellClient.java;81;0.0
+if xpath is invalid- but whatever- better;src/Core/org/apache/jmeter/util/XPathUtil.java;359;0.0
+TODO: what is this for?;src/Core/org/apache/jmeter/visualizers/Sample.java;34;0.0
+"TODO cpercent is the same as cmedian here - why? and why pass it to ""distributionLine""?";src/Core/org/apache/jmeter/visualizers/SamplingStatCalculator.java;169;0.0
+TODO - does not appear to be used;src/Core/org/apache/jmeter/visualizers/ImageVisualizer.java;22;0.0
+Better behaviour when howLong=0 or lastTime=0;src/Core/org/apache/jmeter/visualizers/RunningSample.java;126;0.0
+Better behaviour when howLong=0 or lastTime=0;src/Core/org/apache/jmeter/visualizers/RunningSample.java;146;0.0
+Better behaviour when howLong=0 or lastTime=0;src/Core/org/apache/jmeter/visualizers/SamplingStatCalculator.java;91;0.0
+* TODO - does not appear to be used  *  * @version $Revision$;src/Core/org/apache/jmeter/visualizers/ImageVisualizer.java;21-25;0.0
+TODO: Should the method signature of this method be changed to;src/Core/org/apache/jmeter/visualizers/gui/AbstractVisualizer.java;303;0.0
+TODO: Does this method need to be public? It isn't currently;src/Core/org/apache/jmeter/visualizers/gui/AbstractVisualizer.java;223;0.0
+TODO: Does this method need to be public? It isn't currently;src/Core/org/apache/jmeter/visualizers/gui/AbstractVisualizer.java;238;0.0
+instanceof check before adding the listener (below)- but would;src/Core/org/apache/jmeter/visualizers/gui/AbstractVisualizer.java;306;0.0
+TODO: can this occur?;src/functions/org/apache/jmeter/functions/RegexFunction.java;160;0.0
+TODO should the engine be static?;src/functions/org/apache/jmeter/functions/Jexl2Function.java;50;0.0
+TODO only clear the relevant entry - if possible...;src/functions/org/apache/jmeter/functions/CSVRead.java;154;0.0
+TODO only clear the relevant entry - if possible...;src/functions/org/apache/jmeter/functions/XPath.java;122;0.0
+TODO improve the error handling;src/functions/org/apache/jmeter/functions/FileWrapper.java;162;0.0
+TODO improve the error handling;src/functions/org/apache/jmeter/functions/XPathWrapper.java;108;0.0
+TODO specify collection type without breaking callers;src/jorphan/org/apache/jorphan/collections/SearchByClass.java;77;0.0
+TODO not used?;src/jorphan/org/apache/jorphan/collections/HashTree.java;718;0.0
+TODO does not appear to be used;src/jorphan/org/apache/jorphan/collections/HashTree.java;912;0.0
+TODO - charset?;src/jorphan/org/apache/jorphan/collections/Data.java;384;0.0
+TODO: should this just call super()?;src/jorphan/org/apache/jorphan/gui/RateRenderer.java;44;0.0
+TODO: should this just call super()?;src/jorphan/org/apache/jorphan/gui/RateRenderer.java;49;0.0
+Maybe move to vector if MT problems occur;src/jorphan/org/apache/jorphan/gui/JLabeledChoice.java;46;0.0
+Maybe move to vector if MT problems occur;src/jorphan/org/apache/jorphan/gui/JLabeledTextArea.java;52;0.0
+Maybe move to vector if MT problems occur;src/jorphan/org/apache/jorphan/gui/JLabeledTextField.java;51;0.0
+TODO see if this can be made final somehow;src/jorphan/org/apache/jorphan/logging/LoggingManager.java;65;0.0
+Hack to detect when System.out has been set as the target- to avoid closing it;src/jorphan/org/apache/jorphan/logging/LoggingManager.java;72;0.0
+FIXME What's the clean way to add a LogTarget afterwards ?;src/jorphan/org/apache/jorphan/logging/LoggingManager.java;352;0.0
+* Add logTarget to root logger      * FIXME What's the clean way to add a LogTarget afterwards ?      * @param logTarget LogTarget;src/jorphan/org/apache/jorphan/logging/LoggingManager.java;350-354;0.0
+TODO perhaps use BCEL to scan class files instead?;src/jorphan/org/apache/jorphan/reflect/ClassFinder.java;69;0.0
+hack to reduce the need to load every class in non-GUI mode- which only needs functions;src/jorphan/org/apache/jorphan/reflect/ClassFinder.java;68;0.0
+TODO - should this be done for embedded usage?;src/protocol/ftp/org/apache/jmeter/protocol/ftp/config/gui/FtpConfigGui.java;78;0.0
+FIXME FACTOR WITH HTTPHC4Impl- HTTPHC3Impl;src/protocol/http/org/apache/jmeter/protocol/http/config/gui/UrlConfigGui.java;235;0.0
+TODO should really return most specific (i.e. longest) match.;src/protocol/http/org/apache/jmeter/protocol/http/control/AuthManager.java;176;0.0
+TODO propery implement support for chunked transfer- i.e. to;src/protocol/http/org/apache/jmeter/protocol/http/control/HttpMirrorThread.java;152;0.0
+TODO not used by GUI;src/protocol/http/org/apache/jmeter/protocol/http/control/CookieManager.java;293;0.0
+TODO is this possible?;src/protocol/http/org/apache/jmeter/protocol/http/control/CookieManager.java;342;0.0
+TODO correct URL?;src/protocol/http/org/apache/jmeter/protocol/http/control/CacheManager.java;151;0.0
+TODO Charset ?;src/protocol/http/org/apache/jmeter/protocol/http/control/CookieManager.java;149;0.0
+TODO Charset ?;src/protocol/http/org/apache/jmeter/protocol/http/control/CookieManager.java;175;0.0
+TODO Charset ?;src/protocol/http/org/apache/jmeter/protocol/http/control/HeaderManager.java;110;0.0
+TODO - should we compare secure too?;src/protocol/http/org/apache/jmeter/protocol/http/control/CookieManager.java;323;0.0
+TODO - check for other CacheControl attributes?;src/protocol/http/org/apache/jmeter/protocol/http/control/CacheManager.java;163;0.0
+header- so we know how much we should read.;src/protocol/http/org/apache/jmeter/protocol/http/control/HttpMirrorThread.java;66;0.0
+* Check if cookies match- i.e. name- path and domain are equal.      * <br/>      * TODO - should we compare secure too?      * @param a      * @param b      * @return true if cookies match;src/protocol/http/org/apache/jmeter/protocol/http/control/CookieManager.java;320-327;0.0
+TODO log a warning message?;src/protocol/http/org/apache/jmeter/protocol/http/parser/URLCollection.java;93;0.0
+TODO improve string version to better match browser behaviour? e.g.;src/protocol/http/org/apache/jmeter/protocol/http/parser/URLString.java;42;0.0
+them roughly in order- which should be a better model of browser;src/protocol/http/org/apache/jmeter/protocol/http/parser/HTMLParser.java;131;0.0
+* TODO improve string version to better match browser behaviour? e.g.          * do browsers regard http://host/ and http://Host:80/ as the same? If          * so- it would be better to reflect this in the string;src/protocol/http/org/apache/jmeter/protocol/http/parser/URLString.java;41-45;0.0
+TODO replace repeated substr() above and below with more efficient method.;src/protocol/http/org/apache/jmeter/protocol/http/proxy/HttpRequestHdr.java;498;0.0
+TODO perhaps make more specific than this?;src/protocol/http/org/apache/jmeter/protocol/http/proxy/Proxy.java;555;0.0
+TODO - is this the correct threadgroup name?;src/protocol/http/org/apache/jmeter/protocol/http/proxy/ProxyControl.java;422;0.0
+TODO - charset?;src/protocol/http/org/apache/jmeter/protocol/http/proxy/HttpRequestHdr.java;184;0.0
+TODO: needs a multiple file upload scenerio;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPHC3Impl.java;1011;0.0
+TODO: needs a multiple file upload scenerio;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPHC3Impl.java;832;0.0
+TODO: needs a multiple file upload scenerio;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPHC4Impl.java;1078;0.0
+TODO: needs a multiple file upload scenerio;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPHC4Impl.java;892;0.0
+TODO: needs a multiple file upload scenerio;src/protocol/http/org/apache/jmeter/protocol/http/sampler/PostWriter.java;290;0.0
+TODO: make static?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPSamplerBase.java;1277;0.0
+TODO: is this the correct default?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/PostWriter.java;297;0.0
+TODO use new setDefaultHttpParams(HttpParams params) static method when 4.1 is available;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPHC4Impl.java;163;0.0
+TODO use fixed charset:;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPSampleResult.java;205;0.0
+TODO should this be variable?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/SoapSampler.java;68;0.0
+TODO should this be a variable?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/WebServiceSampler.java;101;0.0
+TODO OK?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPHC4Impl.java;919;0.0
+TODO is this correct?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/PostWriter.java;220;0.0
+TODO is null correct?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPHC4Impl.java;1020;0.0
+TODO is null correct?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPHC4Impl.java;866;0.0
+TODO hack- to be removed later;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPHC4Impl.java;121;0.0
+TODO HACK to fix https://issues.apache.org/jira/browse/HTTPCLIENT-1120;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPHC4Impl.java;469;0.0
+TODO do we need to add a charset for the file contents?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/SoapSampler.java;203;0.0
+TODO can this be obtained from the file somehow?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPFileImpl.java;63;0.0
+TODO - what other headers are not allowed?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPHC3Impl.java;595;0.0
+TODO - should this return something else?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPSamplerBase.java;664;0.0
+TODO - not sure this is the best method;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPHC3Impl.java;1106;0.0
+TODO - is this the correct default?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPHC3Impl.java;839;0.0
+TODO - is this the correct default?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPHC4Impl.java;899;0.0
+TODO - how to define proxy authentication for a single connection?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPJavaImpl.java;154;0.0
+TODO - charset?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPSampleResult.java;196;0.0
+TODO - charset?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPSampleResult.java;206;0.0
+TODO - charset?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/PostWriter.java;111;0.0
+TODO - charset?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/PostWriter.java;114;0.0
+TODO - change to use URL version? Will this affect test plans?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPSamplerBase.java;216;0.0
+TODO - belongs elsewhere;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPSamplerBase.java;226;0.0
+This helps with SoapSampler hack too;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPHC3Impl.java;594;0.0
+ratio in bin/jmeter[.bat]- but this is better.;src/protocol/http/org/apache/jmeter/protocol/http/sampler/PostWriter.java;406;0.0
+Hack to allow entire URL to be provided in host field;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPSamplerBase.java;852;0.0
+HACK;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPHC4Impl.java;509;0.0
+end of hack;src/protocol/http/org/apache/jmeter/protocol/http/sampler/HTTPHC4Impl.java;504;0.0
+$NON-NLS-1$ TODO should this be variable?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/SoapSampler.java;68;0.0
+$NON-NLS-1$ TODO should this be a variable?;src/protocol/http/org/apache/jmeter/protocol/http/sampler/WebServiceSampler.java;101;0.0
+TODO should we allow mimetype only?;src/protocol/http/org/apache/jmeter/protocol/http/util/HTTPFileArg.java;200;0.0
+TODO - the following code looks wrong - it does the same in both cases;src/protocol/http/org/apache/jmeter/protocol/http/util/WSDLHelper.java;366;0.0
+TODO - charset?;src/protocol/http/org/apache/jmeter/protocol/http/util/Base64Encoder.java;41;0.0
+TODO downcase UPPER case non-final variables;src/protocol/http/org/apache/jmeter/protocol/http/util/accesslog/TCLogParser.java;114;0.0
+TODO: move to utils class (JMeterUtils?);src/protocol/http/org/apache/jmeter/protocol/http/visualizers/RequestViewHTTP.java;225;0.0
+TODO ought to be a FileChooser ...;src/protocol/java/org/apache/jmeter/protocol/java/control/gui/BeanShellSamplerGui.java;99;0.0
+but we do trap this error to make tests work better;src/protocol/java/org/apache/jmeter/protocol/java/sampler/BeanShellSampler.java;132;0.0
+TODO Method with 0 reference- really useful ?;src/protocol/jms/org/apache/jmeter/protocol/jms/client/ClientPool.java;74;0.0
+TODO Method with 0 reference- really useful ?;src/protocol/jms/org/apache/jmeter/protocol/jms/client/ClientPool.java;79;0.0
+TODO - probably wrong;src/protocol/jms/org/apache/jmeter/protocol/jms/control/gui/JMSSamplerGui.java;281;0.0
+$NON-NLS-1$ // TODO - probably wrong;src/protocol/jms/org/apache/jmeter/protocol/jms/control/gui/JMSSamplerGui.java;281;0.0
+TODO set different status if not enough messages found?;src/protocol/jms/org/apache/jmeter/protocol/jms/sampler/SubscriberSampler.java;199;0.0
+TODO - charset?;src/protocol/jms/org/apache/jmeter/protocol/jms/sampler/SubscriberSampler.java;191;0.0
+TODO - charset?;src/protocol/jms/org/apache/jmeter/protocol/jms/sampler/SubscriberSampler.java;193;0.0
+TODO: Why do we clone the return value? This is the only reference;src/protocol/ldap/org/apache/jmeter/protocol/ldap/config/gui/LDAPArgumentsPanel.java;127;0.0
+*************************************************************************      * !ToDo (Constructor description)      *      * @param displayName      *            !ToDo (Parameter description)      *************************************************************************;src/protocol/ldap/org/apache/jmeter/protocol/ldap/config/gui/LdapExtConfigGui.java;179-184;0.0
+*************************************************************************      * !ToDo (Constructor description)      *************************************************************************;src/protocol/ldap/org/apache/jmeter/protocol/ldap/control/gui/LdapExtTestSamplerGui.java;45-47;0.0
+TODO: tidy this up;src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler/LDAPExtSampler.java;834;0.0
+TODO turn into parameter?;src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler/LDAPSampler.java;79;0.0
+TODO perhaps return this?;src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler/LdapClient.java;131;0.0
+TODO is this a sensible number? //$NON-NLS-1$;src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler/LDAPSampler.java;444;0.0
+TODO - needs more work ...;src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler/LDAPSampler.java;442;0.0
+DirContext dc = //TODO perhaps return this?;src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler/LdapClient.java;131;0.0
+*************************************************************************      * !ToDo (Constructor description)      *************************************************************************;src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler/LDAPExtSampler.java;149-151;0.0
+TODO - use a different format here?;src/protocol/mail/org/apache/jmeter/protocol/mail/sampler/MailReaderSampler.java;300;0.0
+TODO this should really be request data- but there is none;src/protocol/mail/org/apache/jmeter/protocol/smtp/sampler/SmtpSampler.java;289;0.0
+TODO - charset?;src/protocol/mail/org/apache/jmeter/protocol/smtp/sampler/SmtpSampler.java;285;0.0
+TODO - charset?;src/protocol/mail/org/apache/jmeter/protocol/smtp/sampler/SmtpSampler.java;288;0.0
+TODO this is not populated currently;src/protocol/mail/org/apache/jmeter/protocol/smtp/sampler/protocol/SendMailCommand.java;97;0.0
+TODO handle filenames;src/protocol/tcp/org/apache/jmeter/protocol/tcp/sampler/TCPSampler.java;347;0.0
+TODO - charset?;src/protocol/tcp/org/apache/jmeter/protocol/tcp/sampler/TCPClientImpl.java;63;0.0
+TODO: Do we really need to have all these menubar methods duplicated;src/reports/org/apache/jmeter/gui/ReportMainFrame.java;144;0.0
+TODO: find a better way of checking this;src/reports/org/apache/jmeter/gui/util/ReportMenuFactory.java;266;0.0
+TODO fetch list of languages from a file?;src/reports/org/apache/jmeter/gui/util/ReportMenuBar.java;258;0.0
+* JMeterTreeNode and TestBeanGUI are special GUI classes- and                  * aren't intended to be added to menus                  *                  * TODO: find a better way of checking this;src/reports/org/apache/jmeter/gui/util/ReportMenuFactory.java;262-267;0.0
+TODO fix this when there is a real implementation;src/reports/org/apache/jmeter/report/ReportTable.java;24;0.0
+TODO: I believe the following code (to the end of the method) is;src/reports/org/apache/jmeter/report/gui/action/ReportEditCommand.java;42;0.0
+FIXME engine is always null;src/reports/org/apache/jmeter/report/gui/action/ReportStart.java;64;0.0
+FIXME engine is always null;src/reports/org/apache/jmeter/report/gui/action/ReportStart.java;71;0.0
+FIXME Due to startEngine being commented engine will always be null;src/reports/org/apache/jmeter/report/gui/action/ReportStart.java;39;0.0
+TODO: is the serializable test necessary now that JMeterTreeNode is;src/reports/org/apache/jmeter/report/gui/tree/ReportTreeNode.java;52;0.0
+TODO fix this when there is a real implementation;src/reports/org/apache/jmeter/testelement/AbstractTable.java;147;0.0
+TODO fix this when there is a real implementation;src/reports/org/apache/jmeter/testelement/Table.java;34;0.0
+FIXME Wrong code that create different constructor for static field depending on caller;src/reports/org/apache/jmeter/testelement/ReportPlan.java;115;0.0
+#NOME?;test/src/org/apache/commons/cli/avalon/ClutilTestCase.java;326;0.0
+#NOME?;test/src/org/apache/commons/cli/avalon/ClutilTestCase.java;805;0.0
+-Dstupid=;test/src/org/apache/commons/cli/avalon/ClutilTestCase.java;787;0.0
+#NOME?;test/src/org/apache/commons/cli/avalon/ClutilTestCase.java;826;0.0
+TODO - should this be a failure?;test/src/org/apache/jmeter/assertions/XMLSchemaAssertionTest.java;110;0.0
+TODO - need a lot more tests;test/src/org/apache/jmeter/assertions/ResponseAssertionTest.java;187;0.0
+TODO - need a lot more tests;test/src/org/apache/jmeter/assertions/SizeAssertionTest.java;151;0.0
+TODO - charset?;test/src/org/apache/jmeter/assertions/XMLSchemaAssertionTest.java;160;0.0
+TODO - charset?;test/src/org/apache/jmeter/assertions/XMLSchemaAssertionTest.java;173;0.0
+TODO - should check that error has been logged...;test/src/org/apache/jmeter/functions/PackageTest.java;757;0.0
+TODO add tests for SaveGraphics;test/src/org/apache/jmeter/gui/action/PackageTest.java;29;0.0
+TODO add tests for ReportSaveGraphics;test/src/org/apache/jmeter/gui/action/PackageTest.java;33;0.0
+TODO these assertions should be separate tests;test/src/org/apache/jmeter/junit/JMeterTest.java;441;0.0
+TODO - improve this check;test/src/org/apache/jmeter/junit/JMeterTest.java;567;0.0
+TODO - charset?;test/src/org/apache/jmeter/monitor/model/benchmark/ParseBenchmark.java;86;0.0
+TODO : This is a bit fragile;test/src/org/apache/jmeter/protocol/http/control/TestHTTPMirrorThread.java;389;0.0
+TODO - implement testing of chunked post request;test/src/org/apache/jmeter/protocol/http/control/TestHTTPMirrorThread.java;333;0.0
+TODO - charset?;test/src/org/apache/jmeter/protocol/http/proxy/TestHttpRequestHdr.java;620;0.0
+TODO make this a parameter?;test/src/org/apache/jmeter/protocol/http/sampler/PostWriterTest.java;705;0.0
+TODO : Maybe support chunked encoding- then we cannot rely on content length;test/src/org/apache/jmeter/protocol/http/sampler/TestHTTPSamplersAgainstHttpMirrorServer.java;1016;0.0
+TODO - charset?;test/src/org/apache/jmeter/protocol/http/sampler/PostWriterTest.java;230;0.0
+TODO - charset?;test/src/org/apache/jmeter/protocol/http/sampler/PostWriterTest.java;241;0.0
+TODO - charset?;test/src/org/apache/jmeter/protocol/http/sampler/PostWriterTest.java;729;0.0
+TODO - charset?;test/src/org/apache/jmeter/protocol/http/sampler/PostWriterTest.java;751;0.0
+TODO - charset?;test/src/org/apache/jmeter/protocol/http/sampler/TestHTTPSamplersAgainstHttpMirrorServer.java;1234;0.0
+TODO - charset?;test/src/org/apache/jmeter/protocol/http/sampler/TestHTTPSamplersAgainstHttpMirrorServer.java;1257;0.0
+TODO some more invalid sequence tests needed;test/src/org/apache/jmeter/samplers/TestSampleResult.java;294;0.0
+TODO make these separate tests?;test/src/org/apache/jmeter/save/TestSaveService.java;127;0.0
+TODO add some real tests now that split() has been removed;test/src/org/apache/jmeter/util/TestJMeterUtils.java;36;0.0

@@ -1,0 +1,242 @@
+﻿TODO: add auto tick unit selection;LogAxis.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/axis;75;Technical Debt
+TODO: add auto tick unit selection;LogAxis.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/axis;75;Java Task
+TODO: number formatting options;LogAxis.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/axis;76;Technical Debt
+TODO: number formatting options;LogAxis.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/axis;76;Java Task
+TODO: support for margins that get inherited from ValueAxis;LogAxis.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/axis;74;Technical Debt
+TODO: support for margins that get inherited from ValueAxis;LogAxis.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/axis;74;Java Task
+TODO: write JUnit tests;LogAxis.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/axis;77;Technical Debt
+TODO: write JUnit tests;LogAxis.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/axis;77;Java Task
+* A simple demonstration application showing a chart created using   * the {@link XYBlockRenderer}.  * <br><br>  * TODO: The chart needs a display showing the value scale.;XYBlockChartDemo1.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/demo;28-33;Technical Debt
+* A simple demonstration application showing the experimental XYBlockRenderer   * in action.  TODO: The chart needs a legend to explain the colors displayed.;XYBlockChartDemo2.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/demo;30-33;Technical Debt
+TODO: The chart needs a display showing the value scale.;XYBlockChartDemo1.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/demo;32;Java Task
+TODO: The chart needs a legend to explain the colors displayed.;XYBlockChartDemo2.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/demo;32;Java Task
+FIXME;StandardDialScale.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;626;Java Task
+FIXME: check;StandardDialRange.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;138;Java Task
+FIXME: check;StandardDialRange.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;162;Java Task
+FIXME: check;StandardDialRange.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;186;Java Task
+FIXME;StandardDialScale.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;626;Technical Debt
+FIXME: check;StandardDialRange.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;138;Technical Debt
+FIXME: check;StandardDialRange.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;162;Technical Debt
+FIXME: check;StandardDialRange.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;186;Technical Debt
+TODO: Validate;StandardDialScale.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;256;Technical Debt
+TODO: Validate;StandardDialScale.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;256;Java Task
+TODO: validation;DialCap.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;126;Technical Debt
+TODO: validation;DialCap.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;126;Java Task
+TODO: validation;DialTextAnnotation.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;154;Technical Debt
+TODO: validation;DialTextAnnotation.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;154;Java Task
+TODO: validation;DialValueIndicator.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;198;Technical Debt
+TODO: validation;DialValueIndicator.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;198;Java Task
+TODO: validation;SimpleDialFrame.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;116;Technical Debt
+TODO: validation;SimpleDialFrame.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;116;Java Task
+TODO: validation;StandardDialFrame.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;228;Technical Debt
+TODO: validation;StandardDialFrame.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;252;Technical Debt
+TODO: validation;StandardDialFrame.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;228;Java Task
+TODO: validation;StandardDialFrame.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;252;Java Task
+TODO: validation;StandardDialScale.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;280;Technical Debt
+TODO: validation;StandardDialScale.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;306;Technical Debt
+TODO: validation;StandardDialScale.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;382;Technical Debt
+TODO: validation;StandardDialScale.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;408;Technical Debt
+TODO: validation;StandardDialScale.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;477;Technical Debt
+TODO: validation;StandardDialScale.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;280;Java Task
+TODO: validation;StandardDialScale.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;306;Java Task
+TODO: validation;StandardDialScale.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;382;Java Task
+TODO: validation;StandardDialScale.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;408;Java Task
+TODO: validation;StandardDialScale.java;jfreechart-1.0.3/experimental/org/jfree/experimental/chart/plot/dial;477;Java Task
+TODO:  keeping this class immutable is becoming a lot of overhead- need;LegendItem.java;jfreechart-1.0.3/source/org/jfree/chart;85;Technical Debt
+TODO:  keeping this class immutable is becoming a lot of overhead- need;LegendItem.java;jfreechart-1.0.3/source/org/jfree/chart;85;Java Task
+TODO: I think we need to make sure the keys are actually cloned-;PaintMap.java;jfreechart-1.0.3/source/org/jfree/chart;174;Technical Debt
+TODO: I think we need to make sure the keys are actually cloned-;PaintMap.java;jfreechart-1.0.3/source/org/jfree/chart;174;Java Task
+TODO: I think we need to make sure the keys are actually cloned-;StrokeMap.java;jfreechart-1.0.3/source/org/jfree/chart;171;Technical Debt
+TODO: I think we need to make sure the keys are actually cloned-;StrokeMap.java;jfreechart-1.0.3/source/org/jfree/chart;171;Java Task
+todo: not serialized yet;JFreeChart.java;jfreechart-1.0.3/source/org/jfree/chart;280;Technical Debt
+* An annotation that allows an image to be placed at some location on   * an {@link XYPlot}.  *   * TODO:  implement serialization properly (image is not serializable).;XYImageAnnotation.java;jfreechart-1.0.3/source/org/jfree/chart/annotations;67-72;Technical Debt
+TODO:  implement serialization properly (image is not serializable).;XYImageAnnotation.java;jfreechart-1.0.3/source/org/jfree/chart/annotations;71;Java Task
+TODO:  implement this properly.;XYShapeAnnotation.java;jfreechart-1.0.3/source/org/jfree/chart/annotations;257;Technical Debt
+TODO:  implement this properly.;XYShapeAnnotation.java;jfreechart-1.0.3/source/org/jfree/chart/annotations;257;Java Task
+TODO: implement the entity for the annotation;CategoryPointerAnnotation.java;jfreechart-1.0.3/source/org/jfree/chart/annotations;379;Technical Debt
+TODO: implement the entity for the annotation;CategoryPointerAnnotation.java;jfreechart-1.0.3/source/org/jfree/chart/annotations;379;Java Task
+TODO: implement this properly.;XYTextAnnotation.java;jfreechart-1.0.3/source/org/jfree/chart/annotations;422;Technical Debt
+TODO: implement this properly.;XYTextAnnotation.java;jfreechart-1.0.3/source/org/jfree/chart/annotations;422;Java Task
+TODO: this needs work;CategoryLineAnnotation.java;jfreechart-1.0.3/source/org/jfree/chart/annotations;341;Technical Debt
+TODO: this needs work;CategoryLineAnnotation.java;jfreechart-1.0.3/source/org/jfree/chart/annotations;341;Java Task
+TODO: this needs work;TextAnnotation.java;jfreechart-1.0.3/source/org/jfree/chart/annotations;285;Technical Debt
+TODO: this needs work;TextAnnotation.java;jfreechart-1.0.3/source/org/jfree/chart/annotations;285;Java Task
+bit of an ugly hack...;CategoryAxis3D.java;jfreechart-1.0.3/source/org/jfree/chart/axis;123;Technical Debt
+TODO: find a cleaner way to do this...;PeriodAxis.java;jfreechart-1.0.3/source/org/jfree/chart/axis;499;Technical Debt
+TODO: find a cleaner way to do this...;PeriodAxis.java;jfreechart-1.0.3/source/org/jfree/chart/axis;499;Java Task
+TODO: this class is mostly immutable- so implementing Cloneable isn't;PeriodAxisLabelInfo.java;jfreechart-1.0.3/source/org/jfree/chart/axis;73;Technical Debt
+TODO: this class is mostly immutable- so implementing Cloneable isn't;PeriodAxisLabelInfo.java;jfreechart-1.0.3/source/org/jfree/chart/axis;73;Java Task
+TODO : complete this;BlockContainer.java;jfreechart-1.0.3/source/org/jfree/chart/block;281;Technical Debt
+TODO : complete this;BlockContainer.java;jfreechart-1.0.3/source/org/jfree/chart/block;281;Java Task
+TODO:  the width and height ranges should be reduced by the;BorderArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;407;Technical Debt
+TODO:  the width and height ranges should be reduced by the;BorderArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;407;Java Task
+TODO: complete this;ColumnArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;162;Technical Debt
+TODO: complete this;ColumnArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;162;Java Task
+TODO: complete this;GridArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;145;Technical Debt
+TODO: complete this;GridArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;145;Java Task
+TODO: for now we are ignoring the height constraint;CenterArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;303;Technical Debt
+TODO: for now we are ignoring the height constraint;CenterArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;303;Java Task
+TODO: for now we are ignoring the height constraint;FlowArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;408;Technical Debt
+TODO: for now we are ignoring the height constraint;FlowArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;408;Java Task
+TODO: implement properly;ColumnArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;180;Technical Debt
+TODO: implement properly;ColumnArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;180;Java Task
+TODO: implement this properly;CenterArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;195;Technical Debt
+TODO: implement this properly;CenterArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;195;Java Task
+TODO: implement this properly;FlowArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;266;Technical Debt
+TODO: implement this properly;FlowArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;266;Java Task
+TODO: shift block down by half;FlowArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;384;Technical Debt
+TODO: shift block down by half;FlowArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;384;Java Task
+TODO: shift block down to bottom;FlowArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;388;Technical Debt
+TODO: shift block down to bottom;FlowArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;388;Java Task
+TODO: shift block over to right;ColumnArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;334;Technical Debt
+TODO: shift block over to right;ColumnArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;334;Java Task
+TODO: shift block right by half;ColumnArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;330;Technical Debt
+TODO: shift block right by half;ColumnArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;330;Java Task
+TODO: we didn't check the height yet;CenterArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;216;Technical Debt
+TODO: we didn't check the height yet;CenterArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;216;Java Task
+TODO: we didn't check the height yet;FlowArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;287;Technical Debt
+TODO: we didn't check the height yet;FlowArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;287;Java Task
+TODO: we didn't check the width yet;ColumnArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;258;Technical Debt
+TODO: we didn't check the width yet;ColumnArrangement.java;jfreechart-1.0.3/source/org/jfree/chart/block;258;Java Task
+TODO:  add constructors for combinations of number and date formatters.;StandardXYZToolTipGenerator.java;jfreechart-1.0.3/source/org/jfree/chart/labels;139;Technical Debt
+TODO:  add constructors for combinations of number and date formatters.;StandardXYZToolTipGenerator.java;jfreechart-1.0.3/source/org/jfree/chart/labels;139;Java Task
+TODO: implement this method properly;HighLowItemLabelGenerator.java;jfreechart-1.0.3/source/org/jfree/chart/labels;177;Technical Debt
+TODO: implement this method properly;HighLowItemLabelGenerator.java;jfreechart-1.0.3/source/org/jfree/chart/labels;177;Java Task
+TODO: implement this method properly;SymbolicXYItemLabelGenerator.java;jfreechart-1.0.3/source/org/jfree/chart/labels;122;Technical Debt
+TODO: implement this method properly;SymbolicXYItemLabelGenerator.java;jfreechart-1.0.3/source/org/jfree/chart/labels;122;Java Task
+FIXME:  this code means that it is not possible to use more than;CombinedDomainCategoryPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;523;Java Task
+FIXME:  this code means that it is not possible to use more than;CombinedDomainCategoryPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;523;Technical Debt
+given criteria to 'appear' move important than the;SpiderWebPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;1144;Technical Debt
+private Plot parent <-- don't clone the parent plot- but take care;Plot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;1081;Technical Debt
+TODO:  move the above to the plot state;CombinedDomainCategoryPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;103;Technical Debt
+TODO:  move the above to the plot state;CombinedDomainCategoryPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;103;Java Task
+TODO:  the subplot areas needs to be moved out of the plot into the plot;CombinedDomainXYPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;132;Technical Debt
+TODO:  the subplot areas needs to be moved out of the plot into the plot;CombinedDomainXYPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;132;Java Task
+TODO: don't allow null for index = 0;CategoryPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;937;Technical Debt
+TODO: don't allow null for index = 0;CategoryPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;937;Java Task
+TODO: fix output when this flag is set to true;MeterPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;599;Technical Debt
+TODO: fix output when this flag is set to true;MeterPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;599;Java Task
+TODO: get the axis that the renderer maps to;XYPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;2881;Technical Debt
+TODO: get the axis that the renderer maps to;XYPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;2881;Java Task
+TODO: handle argument checking for primary axis location which;CategoryPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;703;Technical Debt
+TODO: handle argument checking for primary axis location which;CategoryPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;703;Java Task
+TODO: move to plot state;CombinedRangeCategoryPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;104;Technical Debt
+TODO: move to plot state;CombinedRangeCategoryPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;104;Java Task
+TODO: need to fetch this from localised resources;MultiplePiePlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;314;Technical Debt
+TODO: need to fetch this from localised resources;MultiplePiePlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;314;Java Task
+TODO: to be implemented;ContourPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;1821;Technical Debt
+TODO: to be implemented;ContourPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;1834;Technical Debt
+TODO: to be implemented;ContourPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;1845;Technical Debt
+TODO: to be implemented;ContourPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;1858;Technical Debt
+TODO: to be implemented;ContourPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;1821;Java Task
+TODO: to be implemented;ContourPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;1834;Java Task
+TODO: to be implemented;ContourPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;1845;Java Task
+TODO: to be implemented;ContourPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;1858;Java Task
+TODO: to be implemented.;ThermometerPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;1455;Technical Debt
+TODO: to be implemented.;ThermometerPlot.java;jfreechart-1.0.3/source/org/jfree/chart/plot;1455;Java Task
+TODO:  this attribute should be transferred to the renderer state.;BarRenderer.java;jfreechart-1.0.3/source/org/jfree/chart/renderer/category;413;Technical Debt
+TODO:  this attribute should be transferred to the renderer state.;BarRenderer.java;jfreechart-1.0.3/source/org/jfree/chart/renderer/category;424;Technical Debt
+TODO:  this attribute should be transferred to the renderer state.;BarRenderer.java;jfreechart-1.0.3/source/org/jfree/chart/renderer/category;413;Java Task
+TODO:  this attribute should be transferred to the renderer state.;BarRenderer.java;jfreechart-1.0.3/source/org/jfree/chart/renderer/category;424;Java Task
+TODO:  this needs to move into the renderer state;BarRenderer.java;jfreechart-1.0.3/source/org/jfree/chart/renderer/category;168;Technical Debt
+TODO:  this needs to move into the renderer state;BarRenderer.java;jfreechart-1.0.3/source/org/jfree/chart/renderer/category;172;Technical Debt
+TODO:  this needs to move into the renderer state;BarRenderer.java;jfreechart-1.0.3/source/org/jfree/chart/renderer/category;168;Java Task
+TODO:  this needs to move into the renderer state;BarRenderer.java;jfreechart-1.0.3/source/org/jfree/chart/renderer/category;172;Java Task
+TODO: draw the interval marker with a 3D effect;BarRenderer3D.java;jfreechart-1.0.3/source/org/jfree/chart/renderer/category;559;Technical Debt
+TODO: draw the interval marker with a 3D effect;BarRenderer3D.java;jfreechart-1.0.3/source/org/jfree/chart/renderer/category;559;Java Task
+Note: It would be nice to pre-calculate this per series;CandlestickRenderer.java;jfreechart-1.0.3/source/org/jfree/chart/renderer/xy;588;Technical Debt
+TODO:  the following hard-coded line needs generalising;XYDifferenceRenderer.java;jfreechart-1.0.3/source/org/jfree/chart/renderer/xy;832;Technical Debt
+TODO:  the following hard-coded line needs generalising;XYDifferenceRenderer.java;jfreechart-1.0.3/source/org/jfree/chart/renderer/xy;832;Java Task
+TODO: check threshold;StandardXYItemRenderer.java;jfreechart-1.0.3/source/org/jfree/chart/renderer/xy;752;Technical Debt
+TODO: check threshold;StandardXYItemRenderer.java;jfreechart-1.0.3/source/org/jfree/chart/renderer/xy;752;Java Task
+TODO: need to change the next line to take account of plot;AbstractXYItemRenderer.java;jfreechart-1.0.3/source/org/jfree/chart/renderer/xy;738;Technical Debt
+TODO: need to change the next line to take account of plot;AbstractXYItemRenderer.java;jfreechart-1.0.3/source/org/jfree/chart/renderer/xy;738;Java Task
+TODO: need to change the next line to take account of the plot;AbstractXYItemRenderer.java;jfreechart-1.0.3/source/org/jfree/chart/renderer/xy;771;Technical Debt
+TODO: need to change the next line to take account of the plot;AbstractXYItemRenderer.java;jfreechart-1.0.3/source/org/jfree/chart/renderer/xy;771;Java Task
+TODO: modify this so that we check for equality with any KeyedValue;DefaultKeyedValue.java;jfreechart-1.0.3/source/org/jfree/data;122;Technical Debt
+TODO: modify this so that we check for equality with any KeyedValue;DefaultKeyedValue.java;jfreechart-1.0.3/source/org/jfree/data;122;Java Task
+TODO: the following checks for null should be handled in a utility;DefaultKeyedValue.java;jfreechart-1.0.3/source/org/jfree/data;126;Technical Debt
+TODO: the following checks for null should be handled in a utility;DefaultKeyedValue.java;jfreechart-1.0.3/source/org/jfree/data;126;Java Task
+/ a kludge to make everything work when no rows returned;JDBCXYDataset.java;jfreechart-1.0.3/source/org/jfree/data/jdbc;361;Technical Debt
+TODO: is this a good idea?;JDBCXYDataset.java;jfreechart-1.0.3/source/org/jfree/data/jdbc;407;Technical Debt
+TODO: is this a good idea?;JDBCXYDataset.java;jfreechart-1.0.3/source/org/jfree/data/jdbc;415;Technical Debt
+TODO: is this a good idea?;JDBCXYDataset.java;jfreechart-1.0.3/source/org/jfree/data/jdbc;407;Java Task
+TODO: is this a good idea?;JDBCXYDataset.java;jfreechart-1.0.3/source/org/jfree/data/jdbc;415;Java Task
+"* Returns a string representing the week (e.g. ""Week 9- 2002"").      *      * TODO: look at internationalisation.      *      * @return A string representing the week.";Week.java;jfreechart-1.0.3/source/org/jfree/data/time;396-402;Technical Debt
+TODO: look at internationalisation.;Week.java;jfreechart-1.0.3/source/org/jfree/data/time;399;Java Task
+I know it's bad to create object. better idea?;MatrixSeriesCollection.java;jfreechart-1.0.3/source/org/jfree/data/xy;160;Technical Debt
+I know it's bad to create object. better idea?;MatrixSeriesCollection.java;jfreechart-1.0.3/source/org/jfree/data/xy;179;Technical Debt
+TODO: by coding the event with some information about what changed;IntervalXYDelegate.java;jfreechart-1.0.3/source/org/jfree/data/xy;385;Technical Debt
+TODO: by coding the event with some information about what changed;IntervalXYDelegate.java;jfreechart-1.0.3/source/org/jfree/data/xy;385;Java Task
+XXX;XYSeriesCollection.java;jfreechart-1.0.3/source/org/jfree/data/xy;332;Java Task
+FIXME cross hair does not work properly because a;ChartComposite.java;jfreechart-1.0.3/swt/org/jfree/experimental/chart/swt;564;Java Task
+FIXME try to replace swing print stuff by swt;ChartComposite.java;jfreechart-1.0.3/swt/org/jfree/experimental/chart/swt;1328;Java Task
+FIXME cross hair does not work properly because a;ChartComposite.java;jfreechart-1.0.3/swt/org/jfree/experimental/chart/swt;564;Technical Debt
+FIXME try to replace swing print stuff by swt;ChartComposite.java;jfreechart-1.0.3/swt/org/jfree/experimental/chart/swt;1328;Technical Debt
+TODO Auto-generated method stub;ChartComposite.java;jfreechart-1.0.3/swt/org/jfree/experimental/chart/swt;1490;Java Task
+TODO private boolean fillZoomRectangle = false-;ChartComposite.java;jfreechart-1.0.3/swt/org/jfree/experimental/chart/swt;249;Technical Debt
+TODO private boolean fillZoomRectangle = false-;ChartComposite.java;jfreechart-1.0.3/swt/org/jfree/experimental/chart/swt;249;Java Task
+TODO private boolean horizontalAxisTrace = true-;ChartComposite.java;jfreechart-1.0.3/swt/org/jfree/experimental/chart/swt;255;Technical Debt
+TODO private boolean horizontalAxisTrace = true-;ChartComposite.java;jfreechart-1.0.3/swt/org/jfree/experimental/chart/swt;255;Java Task
+TODO private boolean verticalAxisTrace = true-;ChartComposite.java;jfreechart-1.0.3/swt/org/jfree/experimental/chart/swt;258;Technical Debt
+TODO private boolean verticalAxisTrace = true-;ChartComposite.java;jfreechart-1.0.3/swt/org/jfree/experimental/chart/swt;258;Java Task
+TODO replace getSize by getBounds ?;ChartComposite.java;jfreechart-1.0.3/swt/org/jfree/experimental/chart/swt;929;Technical Debt
+TODO replace getSize by getBounds ?;ChartComposite.java;jfreechart-1.0.3/swt/org/jfree/experimental/chart/swt;929;Java Task
+hack to ensure the newly created awt fonts will be rendered with the;SWTUtils.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;176;Technical Debt
+hack to ensure the newly created swt fonts will be rendered with the;SWTUtils.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;106;Technical Debt
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;205;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;238;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;247;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;276;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;286;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;308;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;316;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;324;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;400;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;408;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;416;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;424;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;432;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;469;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;535;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;585;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;593;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;616;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;623;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;690;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;709;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;733;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;742;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;751;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;759;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;767;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;776;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;785;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;793;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;801;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;809;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;819;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;829;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;839;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;849;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;859;Java Task
+TODO Auto-generated method stub;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;870;Java Task
+TODO do we need this? gc.getBackground().dispose()-;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;543;Technical Debt
+TODO do we need this? gc.getBackground().dispose()-;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;543;Java Task
+TODO do we need this? gc.getFont().dispose()-;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;647;Technical Debt
+TODO do we need this? gc.getFont().dispose()-;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;647;Java Task
+TODO do we need this? gc.getForeground().dispose()-;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;608;Technical Debt
+TODO do we need this? gc.getForeground().dispose()-;SWTGraphics2D.java;jfreechart-1.0.3/swt/org/jfree/experimental/swt;608;Java Task
+These constants control test cycles in the validateXXXX methods.;SegmentedTimelineTests.java;jfreechart-1.0.3/tests/org/jfree/chart/axis/junit;74;Technical Debt
+These constants control test cycles in the validateXXXX methods.;SegmentedTimelineTests.java;jfreechart-1.0.3/tests/org/jfree/chart/axis/junit;77;Technical Debt
+These constants control test cycles in the validateXXXX methods.;SegmentedTimelineTests.java;jfreechart-1.0.3/tests/org/jfree/chart/axis/junit;80;Technical Debt
+TODO: add serialization support for images;ImageTitleTests.java;jfreechart-1.0.3/tests/org/jfree/chart/title/junit;118;Technical Debt
+TODO: add serialization support for images;ImageTitleTests.java;jfreechart-1.0.3/tests/org/jfree/chart/title/junit;118;Java Task
+TODO: write all the tests that go here;LegendGraphicTests.java;jfreechart-1.0.3/tests/org/jfree/chart/title/junit;98;Technical Debt
+TODO: write all the tests that go here;LegendGraphicTests.java;jfreechart-1.0.3/tests/org/jfree/chart/title/junit;98;Java Task
+TODO: Check this result...;YearTests.java;jfreechart-1.0.3/tests/org/jfree/data/time/junit;285;Technical Debt
+TODO: Check this result...;YearTests.java;jfreechart-1.0.3/tests/org/jfree/data/time/junit;335;Technical Debt
+TODO: Check this result...;YearTests.java;jfreechart-1.0.3/tests/org/jfree/data/time/junit;285;Java Task
+TODO: Check this result...;YearTests.java;jfreechart-1.0.3/tests/org/jfree/data/time/junit;335;Java Task
+TODO: this must be wrong...;MillisecondTests.java;jfreechart-1.0.3/tests/org/jfree/data/time/junit;334;Technical Debt
+TODO: this must be wrong...;MillisecondTests.java;jfreechart-1.0.3/tests/org/jfree/data/time/junit;334;Java Task

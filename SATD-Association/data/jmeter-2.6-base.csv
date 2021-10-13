@@ -1,0 +1,715 @@
+﻿TODO: remove either MATCH or CONTAINS - they;ResponseAssertion.java;jmeter-2_6/src/components/org/apache/jmeter/assertions;72;Java Task
+TODO support multiple signers;SMIMEAssertion.java;jmeter-2_6/src/components/org/apache/jmeter/assertions;254;Technical Debt
+TODO support multiple signers;SMIMEAssertion.java;jmeter-2_6/src/components/org/apache/jmeter/assertions;254;Java Task
+TODO strings should be resources;ResponseAssertion.java;jmeter-2_6/src/components/org/apache/jmeter/assertions;374;Technical Debt
+TODO strings should be resources;ResponseAssertion.java;jmeter-2_6/src/components/org/apache/jmeter/assertions;374;Java Task
+TODO replace with proper Exception;HTMLAssertion.java;jmeter-2_6/src/components/org/apache/jmeter/assertions;122;Technical Debt
+TODO replace with proper Exception;HTMLAssertion.java;jmeter-2_6/src/components/org/apache/jmeter/assertions;176;Technical Debt
+TODO replace with proper Exception;HTMLAssertion.java;jmeter-2_6/src/components/org/apache/jmeter/assertions;122;Java Task
+TODO replace with proper Exception;HTMLAssertion.java;jmeter-2_6/src/components/org/apache/jmeter/assertions;176;Java Task
+TODO is this the correct strategy?;XMLSchemaAssertion.java;jmeter-2_6/src/components/org/apache/jmeter/assertions;205;Java Task
+TODO - charset?;XMLAssertion.java;jmeter-2_6/src/components/org/apache/jmeter/assertions;67;Technical Debt
+TODO - charset?;XMLAssertion.java;jmeter-2_6/src/components/org/apache/jmeter/assertions;67;Java Task
+result.setError(true)- // TODO is this the correct strategy?;XMLSchemaAssertion.java;jmeter-2_6/src/components/org/apache/jmeter/assertions;205;Technical Debt
+but we do trap this error to make tests work better;BeanShellAssertion.java;jmeter-2_6/src/components/org/apache/jmeter/assertions;117;Technical Debt
+*************************************************************************      * !ToDoo (Method description)      *      * @return !ToDo (Return description)      *************************************************************************;ResponseAssertion.java;jmeter-2_6/src/components/org/apache/jmeter/assertions;193-197;Technical Debt
+*************************************************************************      * !ToDoo (Method description)      *      * @return !ToDo (Return description)      *************************************************************************;ResponseAssertion.java;jmeter-2_6/src/components/org/apache/jmeter/assertions;202-206;Technical Debt
+*************************************************************************      * !ToDoo (Method description)      *      * @return !ToDo (Return description)      *************************************************************************;ResponseAssertion.java;jmeter-2_6/src/components/org/apache/jmeter/assertions;215-219;Technical Debt
+* Mask values for TEST_TYPE TODO: remove either MATCH or CONTAINS - they      * are mutually exckusive;ResponseAssertion.java;jmeter-2_6/src/components/org/apache/jmeter/assertions;71-74;Technical Debt
+TODO ought to be a FileChooser ...;BeanShellAssertionGui.java;jmeter-2_6/src/components/org/apache/jmeter/assertions/gui;85;Technical Debt
+TODO ought to be a FileChooser ...;BeanShellAssertionGui.java;jmeter-2_6/src/components/org/apache/jmeter/assertions/gui;85;Java Task
+TODO: fetch this once as per vars above?;CSVDataSet.java;jmeter-2_6/src/components/org/apache/jmeter/config;143;Technical Debt
+TODO: fetch this once as per vars above?;CSVDataSet.java;jmeter-2_6/src/components/org/apache/jmeter/config;143;Java Task
+TODO need to find better way to do this;CSVDataSetBeanInfo.java;jmeter-2_6/src/components/org/apache/jmeter/config;96;Technical Debt
+TODO need to find better way to do this;CSVDataSetBeanInfo.java;jmeter-2_6/src/components/org/apache/jmeter/config;96;Java Task
+TODO - report unused columns?;CSVDataSet.java;jmeter-2_6/src/components/org/apache/jmeter/config;162;Technical Debt
+TODO - report unused columns?;CSVDataSet.java;jmeter-2_6/src/components/org/apache/jmeter/config;162;Java Task
+TODO - provide option to set unused variables ?;CSVDataSet.java;jmeter-2_6/src/components/org/apache/jmeter/config;163;Technical Debt
+TODO - provide option to set unused variables ?;CSVDataSet.java;jmeter-2_6/src/components/org/apache/jmeter/config;163;Java Task
+These variable names must have .displayName properties and agree with the getXXX()/setXXX() methods;RandomVariableConfigBeanInfo.java;jmeter-2_6/src/components/org/apache/jmeter/config;32;Technical Debt
+TODO ?? (JMeterTreeNode) selectedNode.clone()-;ModuleController.java;jmeter-2_6/src/components/org/apache/jmeter/control;72;Technical Debt
+TODO ?? (JMeterTreeNode) selectedNode.clone()-;ModuleController.java;jmeter-2_6/src/components/org/apache/jmeter/control;72;Java Task
+TODO - fix so that this is only called once per test- instead of at every clone;IncludeController.java;jmeter-2_6/src/components/org/apache/jmeter/control;68;Technical Debt
+TODO - fix so that this is only called once per test- instead of at every clone;IncludeController.java;jmeter-2_6/src/components/org/apache/jmeter/control;68;Java Task
+TODO: validate contentType for reasonable types?;XPathExtractor.java;jmeter-2_6/src/components/org/apache/jmeter/extractor;285;Technical Debt
+TODO: validate contentType for reasonable types?;XPathExtractor.java;jmeter-2_6/src/components/org/apache/jmeter/extractor;285;Java Task
+TODO - should we skip processing here?;BeanShellPostProcessor.java;jmeter-2_6/src/components/org/apache/jmeter/extractor;52;Technical Debt
+TODO - should we skip processing here?;BeanShellPostProcessor.java;jmeter-2_6/src/components/org/apache/jmeter/extractor;52;Java Task
+TODO: should this be clearData()?;MailerModel.java;jmeter-2_6/src/components/org/apache/jmeter/reporters;224;Technical Debt
+TODO: should this be clearData()?;MailerModel.java;jmeter-2_6/src/components/org/apache/jmeter/reporters;224;Java Task
+TODO: or obtain text from bean's displayName or shortDescription.;ConstantThroughputTimer.java;jmeter-2_6/src/components/org/apache/jmeter/timers;213;Java Task
+TODO: Is this ever used? I can't remember where. Remove if it isn't --;ConstantThroughputTimer.java;jmeter-2_6/src/components/org/apache/jmeter/timers;212;Java Task
+TODO need to find better way to do this;ConstantThroughputTimerBeanInfo.java;jmeter-2_6/src/components/org/apache/jmeter/timers;59;Technical Debt
+TODO need to find better way to do this;ConstantThroughputTimerBeanInfo.java;jmeter-2_6/src/components/org/apache/jmeter/timers;59;Java Task
+TODO find better way to get modeInt;ConstantThroughputTimer.java;jmeter-2_6/src/components/org/apache/jmeter/timers;114;Technical Debt
+TODO find better way to get modeInt;ConstantThroughputTimer.java;jmeter-2_6/src/components/org/apache/jmeter/timers;114;Java Task
+TODO - is this used? (apart from test code);ConstantThroughputTimer.java;jmeter-2_6/src/components/org/apache/jmeter/timers;144;Technical Debt
+TODO - is this used? (apart from test code);ConstantThroughputTimer.java;jmeter-2_6/src/components/org/apache/jmeter/timers;144;Java Task
+* Provide a description of this timer class.      *      * TODO: Is this ever used? I can't remember where. Remove if it isn't --      * TODO: or obtain text from bean's displayName or shortDescription.      *      * @return the description of this timer class.;ConstantThroughputTimer.java;jmeter-2_6/src/components/org/apache/jmeter/timers;209-216;Technical Debt
+TODO: instead- we could delay doing;ViewResultsFullVisualizer.java;jmeter-2_6/src/components/org/apache/jmeter/visualizers;349;Java Task
+TODO: add and delete not currently supported;PropertyControlGui.java;jmeter-2_6/src/components/org/apache/jmeter/visualizers;66;Technical Debt
+TODO: add and delete not currently supported;PropertyControlGui.java;jmeter-2_6/src/components/org/apache/jmeter/visualizers;66;Java Task
+TODO work out how to search the XML pane;RenderAsXML.java;jmeter-2_6/src/components/org/apache/jmeter/visualizers;55;Technical Debt
+TODO work out how to search the XML pane;RenderAsXML.java;jmeter-2_6/src/components/org/apache/jmeter/visualizers;55;Java Task
+TODO suppress LINK somehow;RenderAsHTML.java;jmeter-2_6/src/components/org/apache/jmeter/visualizers;121;Java Task
+TODO implement to find any nodes in the tree using TreePath.;RenderAsXML.java;jmeter-2_6/src/components/org/apache/jmeter/visualizers;105;Java Task
+TODO implement other non-text types;SamplerResultTab.java;jmeter-2_6/src/components/org/apache/jmeter/visualizers;487;Technical Debt
+TODO implement other non-text types;SamplerResultTab.java;jmeter-2_6/src/components/org/apache/jmeter/visualizers;487;Java Task
+TODO create better dummy;RenderAsHTML.java;jmeter-2_6/src/components/org/apache/jmeter/visualizers;120;Java Task
+TODO Charset ?;StatGraphVisualizer.java;jmeter-2_6/src/components/org/apache/jmeter/visualizers;470;Technical Debt
+TODO Charset ?;StatGraphVisualizer.java;jmeter-2_6/src/components/org/apache/jmeter/visualizers;470;Java Task
+TODO Charset ?;StatVisualizer.java;jmeter-2_6/src/components/org/apache/jmeter/visualizers;256;Technical Debt
+TODO Charset ?;StatVisualizer.java;jmeter-2_6/src/components/org/apache/jmeter/visualizers;256;Java Task
+TODO : - implement ImageProducer interface - suggestions --);Spline3.java;jmeter-2_6/src/components/org/apache/jmeter/visualizers;25;Java Task
+TODO : - Create a subpanel for other visualizers - connect to the properties. -;MailerVisualizer.java;jmeter-2_6/src/components/org/apache/jmeter/visualizers;53;Java Task
+TODO - remove UnsharedComponent ? Probably does not make sense for a TestBean.;BeanShellListener.java;jmeter-2_6/src/components/org/apache/jmeter/visualizers;35;Technical Debt
+TODO - remove UnsharedComponent ? Probably does not make sense for a TestBean.;BeanShellListener.java;jmeter-2_6/src/components/org/apache/jmeter/visualizers;35;Java Task
+TODO - is this needed?;SplineVisualizer.java;jmeter-2_6/src/components/org/apache/jmeter/visualizers;251;Technical Debt
+TODO - is this needed?;SplineVisualizer.java;jmeter-2_6/src/components/org/apache/jmeter/visualizers;251;Java Task
+to restore last selected tab (better user-friendly);ViewResultsFullVisualizer.java;jmeter-2_6/src/components/org/apache/jmeter/visualizers;325;Technical Debt
+graph. the larger the sample- the better the;DistributionGraph.java;jmeter-2_6/src/components/org/apache/jmeter/visualizers;164;Technical Debt
+data is larger than 200K. TODO: instead- we could delay doing;ViewResultsFullVisualizer.java;jmeter-2_6/src/components/org/apache/jmeter/visualizers;349;Technical Debt
+* TODO : - implement ImageProducer interface - suggestions --);Spline3.java;jmeter-2_6/src/components/org/apache/jmeter/visualizers;24-26;Technical Debt
+* Provide dummy implementations to suppress download and display of              * related resources: - FRAMEs - IMAGEs TODO create better dummy              * displays TODO suppress LINK somehow;RenderAsHTML.java;jmeter-2_6/src/components/org/apache/jmeter/visualizers;118-122;Technical Debt
+"*      * A Dom tree panel for to display response as tree view author <a      * href=""mailto:d.maung@mdl.com"">Dave Maung</a>       * TODO implement to find any nodes in the tree using TreePath.      *";RenderAsXML.java;jmeter-2_6/src/components/org/apache/jmeter/visualizers;101-107;Technical Debt
+TODO this bit of code needs to be tidied up;JMeter.java;jmeter-2_6/src/Core/org/apache/jmeter;833;Technical Debt
+TODO this bit of code needs to be tidied up;JMeter.java;jmeter-2_6/src/Core/org/apache/jmeter;833;Java Task
+TODO perhaps should share code with __time() function for this...;JMeter.java;jmeter-2_6/src/Core/org/apache/jmeter;338;Technical Debt
+TODO perhaps should share code with __time() function for this...;JMeter.java;jmeter-2_6/src/Core/org/apache/jmeter;338;Java Task
+TODO - why does it create a new instance?;JMeter.java;jmeter-2_6/src/Core/org/apache/jmeter;698;Technical Debt
+TODO - why does it create a new instance?;JMeter.java;jmeter-2_6/src/Core/org/apache/jmeter;698;Java Task
+TODO - could this be return?;JMeter.java;jmeter-2_6/src/Core/org/apache/jmeter;392;Technical Debt
+TODO - could this be return?;JMeter.java;jmeter-2_6/src/Core/org/apache/jmeter;392;Java Task
+HACK: force the controller to load its tree;JMeter.java;jmeter-2_6/src/Core/org/apache/jmeter;838;Technical Debt
+Hack to resolve ModuleControllers in non GUI mode;JMeter.java;jmeter-2_6/src/Core/org/apache/jmeter;740;Technical Debt
+Hack to allow automated tests to find when test has ended;JMeter.java;jmeter-2_6/src/Core/org/apache/jmeter;207;Technical Debt
+TODO: move this to components -- the only reason why it's in Core is because;LoginConfig.java;jmeter-2_6/src/Core/org/apache/jmeter/config;26;Technical Debt
+TODO: move this to components -- the only reason why it's in Core is because;LoginConfig.java;jmeter-2_6/src/Core/org/apache/jmeter/config;26;Java Task
+TODO: improve this test;Argument.java;jmeter-2_6/src/Core/org/apache/jmeter/config;196;Technical Debt
+TODO: improve this test;Argument.java;jmeter-2_6/src/Core/org/apache/jmeter/config;196;Java Task
+TODO: This class looks a lot like ArgumentsPanel. What exactly is the;SimpleConfigGui.java;jmeter-2_6/src/Core/org/apache/jmeter/config/gui;51;Technical Debt
+TODO: This class looks a lot like ArgumentsPanel. What exactly is the;SimpleConfigGui.java;jmeter-2_6/src/Core/org/apache/jmeter/config/gui;51;Java Task
+TODO: improve- e.g. by adding counts to the SampleResult class;TransactionSampler.java;jmeter-2_6/src/Core/org/apache/jmeter/control;111;Technical Debt
+TODO: improve- e.g. by adding counts to the SampleResult class;TransactionSampler.java;jmeter-2_6/src/Core/org/apache/jmeter/control;111;Java Task
+TODO should this use setFirst()?;GenericController.java;jmeter-2_6/src/Core/org/apache/jmeter/control;90;Technical Debt
+TODO should this use setFirst()?;GenericController.java;jmeter-2_6/src/Core/org/apache/jmeter/control;90;Java Task
+TODO should this use setDone()?;GenericController.java;jmeter-2_6/src/Core/org/apache/jmeter/control;89;Technical Debt
+TODO should this use setDone()?;GenericController.java;jmeter-2_6/src/Core/org/apache/jmeter/control;89;Java Task
+TODO Should this be at warn level ?;TransactionController.java;jmeter-2_6/src/Core/org/apache/jmeter/control;190;Technical Debt
+TODO Should this be at warn level ?;TransactionController.java;jmeter-2_6/src/Core/org/apache/jmeter/control;190;Java Task
+TODO document this;GenericController.java;jmeter-2_6/src/Core/org/apache/jmeter/control;66;Java Task
+TODO could these be done earlier (or just once?);TransactionController.java;jmeter-2_6/src/Core/org/apache/jmeter/control;182;Technical Debt
+TODO could these be done earlier (or just once?);TransactionController.java;jmeter-2_6/src/Core/org/apache/jmeter/control;182;Java Task
+TODO - should this use setFirst() ?;GenericController.java;jmeter-2_6/src/Core/org/apache/jmeter/control;380;Technical Debt
+TODO - should this use setFirst() ?;GenericController.java;jmeter-2_6/src/Core/org/apache/jmeter/control;380;Java Task
+* TODO document this;GenericController.java;jmeter-2_6/src/Core/org/apache/jmeter/control;65-67;Technical Debt
+* A little hack - add each listener to the start of the list - this          * ensures that the thread running the show is the first listener and          * can modify certain values before other listeners are called.;GenericController.java;jmeter-2_6/src/Core/org/apache/jmeter/control;355-359;Technical Debt
+TODO make use of the field;WhileControllerGui.java;jmeter-2_6/src/Core/org/apache/jmeter/control/gui;136;Java Task
+* Create a GUI panel containing the condition. TODO make use of the field      *      * @return a GUI panel containing the condition components;WhileControllerGui.java;jmeter-2_6/src/Core/org/apache/jmeter/control/gui;135-139;Technical Debt
+TODO should we call test listeners? That might hang too ...;StandardJMeterEngine.java;jmeter-2_6/src/Core/org/apache/jmeter/engine;299;Technical Debt
+TODO should we call test listeners? That might hang too ...;StandardJMeterEngine.java;jmeter-2_6/src/Core/org/apache/jmeter/engine;299;Java Task
+Hack to allow external control;StandardJMeterEngine.java;jmeter-2_6/src/Core/org/apache/jmeter/engine;169;Technical Debt
+A hack to make user-defined variables in the testplan element more dynamic;PreCompiler.java;jmeter-2_6/src/Core/org/apache/jmeter/engine;83;Technical Debt
+TODO should this also clear isDynamic- rawParameters- permanentResults?;CompoundVariable.java;jmeter-2_6/src/Core/org/apache/jmeter/engine/util;172;Technical Debt
+TODO should this also clear isDynamic- rawParameters- permanentResults?;CompoundVariable.java;jmeter-2_6/src/Core/org/apache/jmeter/engine/util;172;Java Task
+TODO - why use space?;FunctionParser.java;jmeter-2_6/src/Core/org/apache/jmeter/engine/util;117;Technical Debt
+TODO - why use space?;FunctionParser.java;jmeter-2_6/src/Core/org/apache/jmeter/engine/util;59;Technical Debt
+TODO - why use space?;FunctionParser.java;jmeter-2_6/src/Core/org/apache/jmeter/engine/util;59;Java Task
+TODO - why use space?;FunctionParser.java;jmeter-2_6/src/Core/org/apache/jmeter/engine/util;117;Java Task
+TODO does not appear to be used;ArgumentDecoder.java;jmeter-2_6/src/Core/org/apache/jmeter/functions/util;31;Technical Debt
+TODO does not appear to be used;ArgumentDecoder.java;jmeter-2_6/src/Core/org/apache/jmeter/functions/util;31;Java Task
+TODO does not appear to be used;ArgumentEncoder.java;jmeter-2_6/src/Core/org/apache/jmeter/functions/util;31;Technical Debt
+TODO does not appear to be used;ArgumentEncoder.java;jmeter-2_6/src/Core/org/apache/jmeter/functions/util;31;Java Task
+TODO: This method doesn't appear to be used.;GUIFactory.java;jmeter-2_6/src/Core/org/apache/jmeter/gui;101;Technical Debt
+TODO: This method doesn't appear to be used.;GUIFactory.java;jmeter-2_6/src/Core/org/apache/jmeter/gui;164;Technical Debt
+TODO: This method doesn't appear to be used.;GUIFactory.java;jmeter-2_6/src/Core/org/apache/jmeter/gui;101;Java Task
+TODO: This method doesn't appear to be used.;GUIFactory.java;jmeter-2_6/src/Core/org/apache/jmeter/gui;164;Java Task
+TODO: Make the running indicator its own class instead of a JButton;MainFrame.java;jmeter-2_6/src/Core/org/apache/jmeter/gui;168;Technical Debt
+TODO: Make the running indicator its own class instead of a JButton;MainFrame.java;jmeter-2_6/src/Core/org/apache/jmeter/gui;168;Java Task
+TODO: Do we really need to have all these menubar methods duplicated;MainFrame.java;jmeter-2_6/src/Core/org/apache/jmeter/gui;195;Technical Debt
+TODO: Do we really need to have all these menubar methods duplicated;MainFrame.java;jmeter-2_6/src/Core/org/apache/jmeter/gui;195;Java Task
+TODO: actionHandler isn't used -- remove it from the parameter list;MainFrame.java;jmeter-2_6/src/Core/org/apache/jmeter/gui;165;Technical Debt
+TODO: actionHandler isn't used -- remove it from the parameter list;MainFrame.java;jmeter-2_6/src/Core/org/apache/jmeter/gui;165;Java Task
+TODO consider removing this method- and providing method wrappers instead.;GuiPackage.java;jmeter-2_6/src/Core/org/apache/jmeter/gui;489;Java Task
+TODO - why lower case? OK to use the default Locale?;JMeterFileFilter.java;jmeter-2_6/src/Core/org/apache/jmeter/gui;76;Technical Debt
+TODO - why lower case? OK to use the default Locale?;JMeterFileFilter.java;jmeter-2_6/src/Core/org/apache/jmeter/gui;76;Java Task
+TODO - how can this be null?;MainFrame.java;jmeter-2_6/src/Core/org/apache/jmeter/gui;315;Technical Debt
+TODO - how can this be null?;MainFrame.java;jmeter-2_6/src/Core/org/apache/jmeter/gui;315;Java Task
+bail out.;GuiPackage.java;jmeter-2_6/src/Core/org/apache/jmeter/gui;334;Technical Debt
+bail out.;GuiPackage.java;jmeter-2_6/src/Core/org/apache/jmeter/gui;338;Technical Debt
+bail out.;GuiPackage.java;jmeter-2_6/src/Core/org/apache/jmeter/gui;342;Technical Debt
+$NON-NLS-1$ i.e. void setXXX(boolean);SavePropertyDialog.java;jmeter-2_6/src/Core/org/apache/jmeter/gui;61;Technical Debt
+$NON-NLS-1$ i.e. boolean saveXXX();SavePropertyDialog.java;jmeter-2_6/src/Core/org/apache/jmeter/gui;60;Technical Debt
+$NON-NLS-1$ e.g. save_XXX property;SavePropertyDialog.java;jmeter-2_6/src/Core/org/apache/jmeter/gui;62;Technical Debt
+TODO: I believe the following code (to the end of the method) is;EditCommand.java;jmeter-2_6/src/Core/org/apache/jmeter/gui/action;47;Technical Debt
+TODO: I believe the following code (to the end of the method) is;EditCommand.java;jmeter-2_6/src/Core/org/apache/jmeter/gui/action;47;Java Task
+TODO: doesn't putting this here mark the tree as;Save.java;jmeter-2_6/src/Core/org/apache/jmeter/gui/action;127;Technical Debt
+TODO: doesn't putting this here mark the tree as;Save.java;jmeter-2_6/src/Core/org/apache/jmeter/gui/action;127;Java Task
+TODO Enhance search dialog to select kind of nodes ....;SearchTreeCommand.java;jmeter-2_6/src/Core/org/apache/jmeter/gui/action;27;Java Task
+TODO ?;SSLManagerCommand.java;jmeter-2_6/src/Core/org/apache/jmeter/gui/action;49;Java Task
+TODO - removes the nodes from the CheckDirty map - should it be done later- in case some can't be removed?;Remove.java;jmeter-2_6/src/Core/org/apache/jmeter/gui/action;71;Technical Debt
+TODO - removes the nodes from the CheckDirty map - should it be done later- in case some can't be removed?;Remove.java;jmeter-2_6/src/Core/org/apache/jmeter/gui/action;71;Java Task
+Hack to get full modifier value;KeyStrokes.java;jmeter-2_6/src/Core/org/apache/jmeter/gui/action;80;Technical Debt
+Bug 47064 - fixes for Mac LAF;KeyStrokes.java;jmeter-2_6/src/Core/org/apache/jmeter/gui/action;35;Technical Debt
+* Search nodes for a text  * TODO Enhance search dialog to select kind of nodes ....;SearchTreeCommand.java;jmeter-2_6/src/Core/org/apache/jmeter/gui/action;25-28;Technical Debt
+TODO: is the serializable test necessary now that JMeterTreeNode is;JMeterTreeNode.java;jmeter-2_6/src/Core/org/apache/jmeter/gui/tree;56;Technical Debt
+TODO: is the serializable test necessary now that JMeterTreeNode is;JMeterTreeNode.java;jmeter-2_6/src/Core/org/apache/jmeter/gui/tree;56;Java Task
+TODO: find a better way of checking this;MenuFactory.java;jmeter-2_6/src/Core/org/apache/jmeter/gui/util;433;Java Task
+TODO - does not appear to be used;ButtonPanel.java;jmeter-2_6/src/Core/org/apache/jmeter/gui/util;31;Technical Debt
+TODO - does not appear to be used;ButtonPanel.java;jmeter-2_6/src/Core/org/apache/jmeter/gui/util;31;Java Task
+* JMeterTreeNode and TestBeanGUI are special GUI classes- and                  * aren't intended to be added to menus                  *                  * TODO: find a better way of checking this;MenuFactory.java;jmeter-2_6/src/Core/org/apache/jmeter/gui/util;429-434;Technical Debt
+TODO: may not work on all OSes?;ResultCollector.java;jmeter-2_6/src/Core/org/apache/jmeter/reporters;441;Technical Debt
+TODO: may not work on all OSes?;ResultCollector.java;jmeter-2_6/src/Core/org/apache/jmeter/reporters;441;Java Task
+TODO should class implement SampleListener?;AbstractListenerElement.java;jmeter-2_6/src/Core/org/apache/jmeter/reporters;33;Technical Debt
+TODO should class implement SampleListener?;AbstractListenerElement.java;jmeter-2_6/src/Core/org/apache/jmeter/reporters;33;Java Task
+TODO is this the right thing to do?;ResultSaver.java;jmeter-2_6/src/Core/org/apache/jmeter/reporters;121;Technical Debt
+TODO is this the right thing to do?;ResultSaver.java;jmeter-2_6/src/Core/org/apache/jmeter/reporters;121;Java Task
+TODO - perhaps save other items such as headers?;ResultSaver.java;jmeter-2_6/src/Core/org/apache/jmeter/reporters;47;Technical Debt
+TODO - perhaps save other items such as headers?;ResultSaver.java;jmeter-2_6/src/Core/org/apache/jmeter/reporters;47;Java Task
+XXX;SampleSaveConfiguration.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;56;Java Task
+TODO: not used - make private?;RemoteListenerWrapper.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;54;Technical Debt
+TODO: not used - make private?;RemoteListenerWrapper.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;54;Java Task
+TODO: merge error count into parent class?;StatisticalSampleResult.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;26;Java Task
+TODO: error counting needs to be sorted out.;SampleResult.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;1083;Java Task
+TODO would be nice to make these final- not 100% sure volatile is needed as not changed after creation;StatisticalSampleSender.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;77;Technical Debt
+TODO would be nice to make these final- not 100% sure volatile is needed as not changed after creation;StatisticalSampleSender.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;77;Java Task
+TODO turn into method?;SampleSaveConfiguration.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;259;Technical Debt
+TODO turn into method?;SampleSaveConfiguration.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;259;Java Task
+TODO timeStamp == 0 means either not yet initialised or no stamp available (e.g. when loading a results file);SampleResult.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;144;Technical Debt
+TODO timeStamp == 0 means either not yet initialised or no stamp available (e.g. when loading a results file);SampleResult.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;144;Java Task
+TODO should this throw an error?;SampleResult.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;963;Technical Debt
+TODO should this throw an error?;SampleResult.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;963;Java Task
+TODO should errors be thrown back through RMI?;DiskStoreSampleSender.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;145;Technical Debt
+TODO should errors be thrown back through RMI?;DiskStoreSampleSender.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;145;Java Task
+TODO perhaps use ConcurrentHashMap ?;StatisticalSampleSender.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;73;Java Task
+TODO is this really necessary?;SampleResult.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;556;Technical Debt
+TODO is this really necessary?;SampleResult.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;556;Java Task
+TODO do we need allow for nested samples?;SampleResult.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;1072;Java Task
+TODO do this more efficiently;SampleResult.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;553;Technical Debt
+TODO do this more efficiently;SampleResult.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;553;Java Task
+TODO do contentType and/or dataEncoding belong in HTTPSampleResult instead?;SampleResult.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;204;Technical Debt
+TODO do contentType and/or dataEncoding belong in HTTPSampleResult instead?;SampleResult.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;204;Java Task
+TODO appears to duplicate the threadName field in SampleResult;SampleEvent.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;72;Technical Debt
+TODO appears to duplicate the threadName field in SampleResult;SampleEvent.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;72;Java Task
+TODO ??;SampleResult.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;278;Technical Debt
+TODO ??;SampleResult.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;291;Technical Debt
+TODO ??;SampleResult.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;306;Technical Debt
+TODO ??;SampleResult.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;278;Java Task
+TODO ??;SampleResult.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;291;Java Task
+TODO ??;SampleResult.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;306;Java Task
+TODO - not used at present - could perhaps be removed;Entry.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;29;Technical Debt
+TODO - not used at present - could perhaps be removed;Entry.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;29;Java Task
+* Returns the count of errors.      *      * @return 0 - or 1 if the sample failed      *       * TODO do we need allow for nested samples?;SampleResult.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;1067-1073;Technical Debt
+* Aggregates sample results for use by the Statistical remote batch mode.  * Samples are aggregated by the key defined by getKey().  * TODO: merge error count into parent class?;StatisticalSampleResult.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;23-27;Technical Debt
+"@GuardedBy(""sampleStore"") TODO perhaps use ConcurrentHashMap ?";StatisticalSampleSender.java;jmeter-2_6/src/Core/org/apache/jmeter/samplers;73;Technical Debt
+Yuck: TIFFImageEncoder uses Error to report runtime problems;SaveGraphicsService.java;jmeter-2_6/src/Core/org/apache/jmeter/save;164;Technical Debt
+TODO: should this be restored?;CSVSaveService.java;jmeter-2_6/src/Core/org/apache/jmeter/save;297;Technical Debt
+TODO: should this be restored?;CSVSaveService.java;jmeter-2_6/src/Core/org/apache/jmeter/save;297;Java Task
+TODO: does it matter that an empty line will terminate the loop?;CSVSaveService.java;jmeter-2_6/src/Core/org/apache/jmeter/save;151;Technical Debt
+TODO: does it matter that an empty line will terminate the loop?;CSVSaveService.java;jmeter-2_6/src/Core/org/apache/jmeter/save;151;Java Task
+TODO should this be JTLSAVER? Only seems to be called by MonitorHealthVisualzer;SaveService.java;jmeter-2_6/src/Core/org/apache/jmeter/save;362;Technical Debt
+TODO should this be JTLSAVER? Only seems to be called by MonitorHealthVisualzer;SaveService.java;jmeter-2_6/src/Core/org/apache/jmeter/save;362;Java Task
+TODO provide proper name?;OldSaveService.java;jmeter-2_6/src/Core/org/apache/jmeter/save;189;Technical Debt
+TODO provide proper name?;OldSaveService.java;jmeter-2_6/src/Core/org/apache/jmeter/save;189;Java Task
+TODO Charset ?;CSVSaveService.java;jmeter-2_6/src/Core/org/apache/jmeter/save;131;Technical Debt
+TODO Charset ?;CSVSaveService.java;jmeter-2_6/src/Core/org/apache/jmeter/save;131;Java Task
+TODO - should this be restored?;CSVSaveService.java;jmeter-2_6/src/Core/org/apache/jmeter/save;276;Technical Debt
+TODO - should this be restored?;CSVSaveService.java;jmeter-2_6/src/Core/org/apache/jmeter/save;276;Java Task
+TODO: wy not?;SampleResultConverter.java;jmeter-2_6/src/Core/org/apache/jmeter/save/converters;357;Java Task
+TODO work out how to make shouldSerializeMember() conditionally return true.;SampleSaveConfigurationConverter.java;jmeter-2_6/src/Core/org/apache/jmeter/save/converters;38;Java Task
+TODO save hostname- save sample type (plain or http);SampleEventConverter.java;jmeter-2_6/src/Core/org/apache/jmeter/save/converters;47;Technical Debt
+TODO save hostname- save sample type (plain or http);SampleEventConverter.java;jmeter-2_6/src/Core/org/apache/jmeter/save/converters;47;Java Task
+TODO does not work yet- need to determine the sample type;SampleEventConverter.java;jmeter-2_6/src/Core/org/apache/jmeter/save/converters;56;Technical Debt
+TODO does not work yet- need to determine the sample type;SampleEventConverter.java;jmeter-2_6/src/Core/org/apache/jmeter/save/converters;56;Java Task
+TODO clazz is probably always the same as testclass;TestElementPropertyConverter.java;jmeter-2_6/src/Core/org/apache/jmeter/save/converters;83;Technical Debt
+TODO clazz is probably always the same as testclass;TestElementPropertyConverter.java;jmeter-2_6/src/Core/org/apache/jmeter/save/converters;83;Java Task
+TODO - convert to work more like upgrade.properties/NameUpdater.java;TestElementPropertyConverter.java;jmeter-2_6/src/Core/org/apache/jmeter/save/converters;87;Java Task
+Slight hack - we need to ensure the TestClass is not reset by the previous call;TestElementConverter.java;jmeter-2_6/src/Core/org/apache/jmeter/save/converters;103;Technical Debt
+Don't try restoring the URL TODO: wy not?;SampleResultConverter.java;jmeter-2_6/src/Core/org/apache/jmeter/save/converters;357;Technical Debt
+"* TODO - convert to work more like upgrade.properties/NameUpdater.java      *      * Special processing is carried out for the Header Class The String      * property TestElement.name is converted to Header.name for example:      * <elementProp name=""User-Agent""      * elementType=""org.apache.jmeter.protocol.http.control.Header""> <stringProp      * name=""Header.value"">Mozilla%2F4.0+%28compatible%3B+MSIE+5.5%3B+Windows+98%29</stringProp>      * <stringProp name=""TestElement.name"">User-Agent</stringProp>      * </elementProp> becomes <elementProp name=""User-Agent""      * elementType=""org.apache.jmeter.protocol.http.control.Header""> <stringProp      * name=""Header.value"">Mozilla%2F4.0+%28compatible%3B+MSIE+5.5%3B+Windows+98%29</stringProp>      * <stringProp name=""Header.name"">User-Agent</stringProp> </elementProp>";TestElementPropertyConverter.java;jmeter-2_6/src/Core/org/apache/jmeter/save/converters;86-99;Technical Debt
+* These must be set before reading/writing the XML. Rather a hack- but      * saves changing all the method calls to include an extra variable.      *      * AFAIK the variables should only be accessed from one thread- so no need to synchronize.;ConversionHelp.java;jmeter-2_6/src/Core/org/apache/jmeter/save/converters;62-67;Technical Debt
+* Allow new fields to be added to the SampleSaveConfiguration without  * changing the output JMX file unless it is necessary.  *  * TODO work out how to make shouldSerializeMember() conditionally return true.;SampleSaveConfigurationConverter.java;jmeter-2_6/src/Core/org/apache/jmeter/save/converters;34-39;Technical Debt
+TODO hey- not sure this method belongs here.  FileServer is for threadsafe;FileServer.java;jmeter-2_6/src/Core/org/apache/jmeter/services;416;Java Task
+Programming error: bail out.;BeanInfoSupport.java;jmeter-2_6/src/Core/org/apache/jmeter/testbeans;103;Technical Debt
+TODO: there must be a nicer way...;TestBeanGUI.java;jmeter-2_6/src/Core/org/apache/jmeter/testbeans/gui;379;Technical Debt
+TODO: there must be a nicer way...;TestBeanGUI.java;jmeter-2_6/src/Core/org/apache/jmeter/testbeans/gui;379;Java Task
+TODO: the above works in the current situation- but it's;GenericTestBeanCustomizer.java;jmeter-2_6/src/Core/org/apache/jmeter/testbeans/gui;552;Technical Debt
+TODO: the above works in the current situation- but it's;GenericTestBeanCustomizer.java;jmeter-2_6/src/Core/org/apache/jmeter/testbeans/gui;552;Java Task
+TODO: review this and possibly change to:;GenericTestBeanCustomizer.java;jmeter-2_6/src/Core/org/apache/jmeter/testbeans/gui;474;Technical Debt
+TODO: review this and possibly change to:;GenericTestBeanCustomizer.java;jmeter-2_6/src/Core/org/apache/jmeter/testbeans/gui;474;Java Task
+TODO: improve- but keep returning;WrapperEditor.java;jmeter-2_6/src/Core/org/apache/jmeter/testbeans/gui;254;Java Task
+TODO should this implement supportsCustomEditor() ?;FieldStringEditor.java;jmeter-2_6/src/Core/org/apache/jmeter/testbeans/gui;96;Technical Debt
+TODO should this implement supportsCustomEditor() ?;FieldStringEditor.java;jmeter-2_6/src/Core/org/apache/jmeter/testbeans/gui;96;Java Task
+TODO - use or remove;GenericTestBeanCustomizer.java;jmeter-2_6/src/Core/org/apache/jmeter/testbeans/gui;147;Technical Debt
+TODO - use or remove;GenericTestBeanCustomizer.java;jmeter-2_6/src/Core/org/apache/jmeter/testbeans/gui;147;Java Task
+TODO - do these behave properly during language change? Probably not.;ComboStringEditor.java;jmeter-2_6/src/Core/org/apache/jmeter/testbeans/gui;81;Technical Debt
+TODO - do these behave properly during language change? Probably not.;ComboStringEditor.java;jmeter-2_6/src/Core/org/apache/jmeter/testbeans/gui;81;Java Task
+so I'll bail out.;GenericTestBeanCustomizer.java;jmeter-2_6/src/Core/org/apache/jmeter/testbeans/gui;468;Technical Debt
+Programming error: bail out.;TestBeanGUI.java;jmeter-2_6/src/Core/org/apache/jmeter/testbeans/gui;159;Technical Debt
+Programming error: bail out.;WrapperEditor.java;jmeter-2_6/src/Core/org/apache/jmeter/testbeans/gui;235;Technical Debt
+Programming error: bail out.;WrapperEditor.java;jmeter-2_6/src/Core/org/apache/jmeter/testbeans/gui;247;Technical Debt
+just a hack. How to get each editor to report whether it;GenericTestBeanCustomizer.java;jmeter-2_6/src/Core/org/apache/jmeter/testbeans/gui;553;Technical Debt
+file read? In this case- it would be better to replace the;GenericTestBeanCustomizer.java;jmeter-2_6/src/Core/org/apache/jmeter/testbeans/gui;463;Technical Debt
+"* Check if a string is a valid JMeter 'expression'.      * <p>      * The current implementation is very basic: it just accepts any string      * containing ""${"" as a valid expression. TODO: improve- but keep returning      * true for ""${}"".";WrapperEditor.java;jmeter-2_6/src/Core/org/apache/jmeter/testbeans/gui;250-256;Technical Debt
+(MS Note) Can't bail out - newly create elements have blank;GenericTestBeanCustomizer.java;jmeter-2_6/src/Core/org/apache/jmeter/testbeans/gui;469;Technical Debt
+TODO temporary hack to avoid unnecessary bug reports for subclasses;AbstractTestElement.java;jmeter-2_6/src/Core/org/apache/jmeter/testelement;123;Technical Debt
+TODO temporary hack to avoid unnecessary bug reports for subclasses;AbstractTestElement.java;jmeter-2_6/src/Core/org/apache/jmeter/testelement;123;Java Task
+TODO - yet another ambiguous name - does it need changing?;TestElement.java;jmeter-2_6/src/Core/org/apache/jmeter/testelement;128;Technical Debt
+TODO - yet another ambiguous name - does it need changing?;TestElement.java;jmeter-2_6/src/Core/org/apache/jmeter/testelement;128;Java Task
+TODO - sort out equals and hashCode() - at present equal;AbstractTestElement.java;jmeter-2_6/src/Core/org/apache/jmeter/testelement;134;Java Task
+* URGENT: TODO - sort out equals and hashCode() - at present equal      * instances can/will have different hashcodes - problem is- when a proper      * hashcode is used- tests stop working- e.g. listener data disappears when      * switching views... This presumably means that instances currently      * regarded as equal- aren't really equal.      *      * @see java.lang.Object#hashCode();AbstractTestElement.java;jmeter-2_6/src/Core/org/apache/jmeter/testelement;133-141;Technical Debt
+TODO consider using private logs for each derived class;AbstractProperty.java;jmeter-2_6/src/Core/org/apache/jmeter/testelement/property;31;Technical Debt
+TODO consider using private logs for each derived class;AbstractProperty.java;jmeter-2_6/src/Core/org/apache/jmeter/testelement/property;31;Java Task
+TODO Auto-generated constructor stub;ObjectProperty.java;jmeter-2_6/src/Core/org/apache/jmeter/testelement/property;70;Java Task
+TODO - why does null property have a value?;NullProperty.java;jmeter-2_6/src/Core/org/apache/jmeter/testelement/property;30;Technical Debt
+TODO - why does null property have a value?;NullProperty.java;jmeter-2_6/src/Core/org/apache/jmeter/testelement/property;30;Java Task
+TODO: remove this useless Entry parameter;JMeterThread.java;jmeter-2_6/src/Core/org/apache/jmeter/threads;418;Technical Debt
+TODO: remove this useless Entry parameter;JMeterThread.java;jmeter-2_6/src/Core/org/apache/jmeter/threads;418;Java Task
+TODO should this set the thread names for all the subsamples?;JMeterThread.java;jmeter-2_6/src/Core/org/apache/jmeter/threads;409;Technical Debt
+TODO should this set the thread names for all the subsamples?;JMeterThread.java;jmeter-2_6/src/Core/org/apache/jmeter/threads;409;Java Task
+TODO - how to handle thread stopped here;JMeterThread.java;jmeter-2_6/src/Core/org/apache/jmeter/threads;523;Technical Debt
+TODO - how to handle thread stopped here;JMeterThread.java;jmeter-2_6/src/Core/org/apache/jmeter/threads;523;Java Task
+TODO - consider passing them to the constructor- so that they can be made final;JMeterThread.java;jmeter-2_6/src/Core/org/apache/jmeter/threads;95;Java Task
+Hack: save the package for any transaction controllers;JMeterThread.java;jmeter-2_6/src/Core/org/apache/jmeter/threads;403;Technical Debt
+TODO? - N.B. does not currently allow the selection of a client certificate.;SSLManager.java;jmeter-2_6/src/Core/org/apache/jmeter/util;45;Java Task
+TODO? - does not actually allow the user to choose an alias at present;JsseSSLManager.java;jmeter-2_6/src/Core/org/apache/jmeter/util;369;Java Task
+TODO: implement conditional checking and logging;CustomX509TrustManager.java;jmeter-2_6/src/Core/org/apache/jmeter/util;31;Java Task
+TODO: does not actually prompt;JsseSSLManager.java;jmeter-2_6/src/Core/org/apache/jmeter/util;55;Java Task
+TODO why not use the super class value?;JsseSSLManager.java;jmeter-2_6/src/Core/org/apache/jmeter/util;89;Technical Debt
+TODO why not use the super class value?;JsseSSLManager.java;jmeter-2_6/src/Core/org/apache/jmeter/util;89;Java Task
+TODO needs to be synch? Probably not changed after threads have started;JMeterUtils.java;jmeter-2_6/src/Core/org/apache/jmeter/util;1119;Technical Debt
+TODO needs to be synch? Probably not changed after threads have started;JMeterUtils.java;jmeter-2_6/src/Core/org/apache/jmeter/util;1119;Java Task
+TODO is this correct?;XPathUtil.java;jmeter-2_6/src/Core/org/apache/jmeter/util;320;Technical Debt
+TODO is this correct?;XPathUtil.java;jmeter-2_6/src/Core/org/apache/jmeter/util;320;Java Task
+TODO Charset ?;JSR223TestElement.java;jmeter-2_6/src/Core/org/apache/jmeter/util;131;Technical Debt
+TODO Charset ?;JSR223TestElement.java;jmeter-2_6/src/Core/org/apache/jmeter/util;131;Java Task
+TODO but why do we need to clone the list?;JMeterUtils.java;jmeter-2_6/src/Core/org/apache/jmeter/util;410;Technical Debt
+TODO but why do we need to clone the list?;JMeterUtils.java;jmeter-2_6/src/Core/org/apache/jmeter/util;410;Java Task
+TODO - perhaps this should be a fatal error?;JMeterUtils.java;jmeter-2_6/src/Core/org/apache/jmeter/util;1211;Technical Debt
+TODO - perhaps this should be a fatal error?;JMeterUtils.java;jmeter-2_6/src/Core/org/apache/jmeter/util;1211;Java Task
+TODO - perhaps remove?;JMeterUtils.java;jmeter-2_6/src/Core/org/apache/jmeter/util;120;Java Task
+TODO - move to JOrphanUtils?;JMeterUtils.java;jmeter-2_6/src/Core/org/apache/jmeter/util;1023;Technical Debt
+TODO - move to JOrphanUtils?;JMeterUtils.java;jmeter-2_6/src/Core/org/apache/jmeter/util;1049;Technical Debt
+TODO - move to JOrphanUtils?;JMeterUtils.java;jmeter-2_6/src/Core/org/apache/jmeter/util;1079;Technical Debt
+TODO - move to JOrphanUtils?;JMeterUtils.java;jmeter-2_6/src/Core/org/apache/jmeter/util;1023;Java Task
+TODO - move to JOrphanUtils?;JMeterUtils.java;jmeter-2_6/src/Core/org/apache/jmeter/util;1049;Java Task
+TODO - move to JOrphanUtils?;JMeterUtils.java;jmeter-2_6/src/Core/org/apache/jmeter/util;1079;Java Task
+TODO - does not appear to be called directly;JMeterUtils.java;jmeter-2_6/src/Core/org/apache/jmeter/util;625;Technical Debt
+TODO - does not appear to be called directly;JMeterUtils.java;jmeter-2_6/src/Core/org/apache/jmeter/util;625;Java Task
+TODO - charset?;BeanShellClient.java;jmeter-2_6/src/Core/org/apache/jmeter/util;81;Technical Debt
+TODO - charset?;BeanShellClient.java;jmeter-2_6/src/Core/org/apache/jmeter/util;81;Java Task
+if xpath is invalid- but whatever- better;XPathUtil.java;jmeter-2_6/src/Core/org/apache/jmeter/util;359;Technical Debt
+* Custom TrustManager ignores all certificate errors  *  * TODO: implement conditional checking and logging  *  * (Derived from AuthSSLX509TrustManager in HttpClient contrib directory);CustomX509TrustManager.java;jmeter-2_6/src/Core/org/apache/jmeter/util;28-34;Technical Debt
+TODO Currently- keyType and issuers are both ignored.;JmeterKeyStore.java;jmeter-2_6/src/Core/org/apache/jmeter/util/keystore;215;Java Task
+* Compiles the list of all client aliases with a private key.      * TODO Currently- keyType and issuers are both ignored.      *      * @param keyType the key algorithm type name (RSA- DSA- etc.)      * @param issuers  the CA certificates we are narrowing our selection on.      *       * @return the array of aliases- may be empty;JmeterKeyStore.java;jmeter-2_6/src/Core/org/apache/jmeter/util/keystore;213-221;Technical Debt
+TODO: what is this for?;Sample.java;jmeter-2_6/src/Core/org/apache/jmeter/visualizers;34;Technical Debt
+TODO: what is this for?;Sample.java;jmeter-2_6/src/Core/org/apache/jmeter/visualizers;34;Java Task
+TODO should equals and hashCode depend on field other than count?;Sample.java;jmeter-2_6/src/Core/org/apache/jmeter/visualizers;180;Technical Debt
+TODO should equals and hashCode depend on field other than count?;Sample.java;jmeter-2_6/src/Core/org/apache/jmeter/visualizers;180;Java Task
+TODO should equals and hashCode depend on field other than count?;TableSample.java;jmeter-2_6/src/Core/org/apache/jmeter/visualizers;117;Technical Debt
+TODO should equals and hashCode depend on field other than count?;TableSample.java;jmeter-2_6/src/Core/org/apache/jmeter/visualizers;117;Java Task
+"TODO cpercent is the same as cmedian here - why? and why pass it to ""distributionLine""?";SamplingStatCalculator.java;jmeter-2_6/src/Core/org/apache/jmeter/visualizers;169;Technical Debt
+"TODO cpercent is the same as cmedian here - why? and why pass it to ""distributionLine""?";SamplingStatCalculator.java;jmeter-2_6/src/Core/org/apache/jmeter/visualizers;169;Java Task
+TODO - does not appear to be used;ImageVisualizer.java;jmeter-2_6/src/Core/org/apache/jmeter/visualizers;22;Java Task
+Better behaviour when howLong=0 or lastTime=0;RunningSample.java;jmeter-2_6/src/Core/org/apache/jmeter/visualizers;126;Technical Debt
+Better behaviour when howLong=0 or lastTime=0;RunningSample.java;jmeter-2_6/src/Core/org/apache/jmeter/visualizers;146;Technical Debt
+Better behaviour when howLong=0 or lastTime=0;SamplingStatCalculator.java;jmeter-2_6/src/Core/org/apache/jmeter/visualizers;91;Technical Debt
+* TODO - does not appear to be used  *  * @version $Revision$;ImageVisualizer.java;jmeter-2_6/src/Core/org/apache/jmeter/visualizers;21-25;Technical Debt
+TODO: Should the method signature of this method be changed to;AbstractVisualizer.java;jmeter-2_6/src/Core/org/apache/jmeter/visualizers/gui;303;Technical Debt
+TODO: Should the method signature of this method be changed to;AbstractVisualizer.java;jmeter-2_6/src/Core/org/apache/jmeter/visualizers/gui;303;Java Task
+TODO: Does this method need to be public? It isn't currently;AbstractVisualizer.java;jmeter-2_6/src/Core/org/apache/jmeter/visualizers/gui;223;Technical Debt
+TODO: Does this method need to be public? It isn't currently;AbstractVisualizer.java;jmeter-2_6/src/Core/org/apache/jmeter/visualizers/gui;238;Technical Debt
+TODO: Does this method need to be public? It isn't currently;AbstractVisualizer.java;jmeter-2_6/src/Core/org/apache/jmeter/visualizers/gui;223;Java Task
+TODO: Does this method need to be public? It isn't currently;AbstractVisualizer.java;jmeter-2_6/src/Core/org/apache/jmeter/visualizers/gui;238;Java Task
+instanceof check before adding the listener (below)- but would;AbstractVisualizer.java;jmeter-2_6/src/Core/org/apache/jmeter/visualizers/gui;306;Technical Debt
+TODO: can this occur?;RegexFunction.java;jmeter-2_6/src/functions/org/apache/jmeter/functions;160;Technical Debt
+TODO: can this occur?;RegexFunction.java;jmeter-2_6/src/functions/org/apache/jmeter/functions;160;Java Task
+TODO should the engine be static?;Jexl2Function.java;jmeter-2_6/src/functions/org/apache/jmeter/functions;50;Technical Debt
+TODO should the engine be static?;Jexl2Function.java;jmeter-2_6/src/functions/org/apache/jmeter/functions;50;Java Task
+TODO only clear the relevant entry - if possible...;CSVRead.java;jmeter-2_6/src/functions/org/apache/jmeter/functions;154;Technical Debt
+TODO only clear the relevant entry - if possible...;CSVRead.java;jmeter-2_6/src/functions/org/apache/jmeter/functions;154;Java Task
+TODO only clear the relevant entry - if possible...;XPath.java;jmeter-2_6/src/functions/org/apache/jmeter/functions;122;Technical Debt
+TODO only clear the relevant entry - if possible...;XPath.java;jmeter-2_6/src/functions/org/apache/jmeter/functions;122;Java Task
+TODO improve the error handling;FileWrapper.java;jmeter-2_6/src/functions/org/apache/jmeter/functions;162;Technical Debt
+TODO improve the error handling;FileWrapper.java;jmeter-2_6/src/functions/org/apache/jmeter/functions;162;Java Task
+TODO improve the error handling;XPathWrapper.java;jmeter-2_6/src/functions/org/apache/jmeter/functions;108;Technical Debt
+TODO improve the error handling;XPathWrapper.java;jmeter-2_6/src/functions/org/apache/jmeter/functions;108;Java Task
+TODO Better messages;JexlEngine.java;jmeter-2_6/src/jorphan/org/apache/commons/jexl/bsf;100;Technical Debt
+TODO Better messages;JexlEngine.java;jmeter-2_6/src/jorphan/org/apache/commons/jexl/bsf;100;Java Task
+TODO specify collection type without breaking callers;SearchByClass.java;jmeter-2_6/src/jorphan/org/apache/jorphan/collections;77;Technical Debt
+TODO specify collection type without breaking callers;SearchByClass.java;jmeter-2_6/src/jorphan/org/apache/jorphan/collections;77;Java Task
+TODO not used?;HashTree.java;jmeter-2_6/src/jorphan/org/apache/jorphan/collections;718;Technical Debt
+TODO not used?;HashTree.java;jmeter-2_6/src/jorphan/org/apache/jorphan/collections;718;Java Task
+TODO does not appear to be used;HashTree.java;jmeter-2_6/src/jorphan/org/apache/jorphan/collections;912;Technical Debt
+TODO does not appear to be used;HashTree.java;jmeter-2_6/src/jorphan/org/apache/jorphan/collections;912;Java Task
+TODO - charset?;Data.java;jmeter-2_6/src/jorphan/org/apache/jorphan/collections;384;Technical Debt
+TODO - charset?;Data.java;jmeter-2_6/src/jorphan/org/apache/jorphan/collections;384;Java Task
+TODO: should this just call super()?;RateRenderer.java;jmeter-2_6/src/jorphan/org/apache/jorphan/gui;44;Technical Debt
+TODO: should this just call super()?;RateRenderer.java;jmeter-2_6/src/jorphan/org/apache/jorphan/gui;49;Technical Debt
+TODO: should this just call super()?;RateRenderer.java;jmeter-2_6/src/jorphan/org/apache/jorphan/gui;44;Java Task
+TODO: should this just call super()?;RateRenderer.java;jmeter-2_6/src/jorphan/org/apache/jorphan/gui;49;Java Task
+Maybe move to vector if MT problems occur;JLabeledChoice.java;jmeter-2_6/src/jorphan/org/apache/jorphan/gui;46;Technical Debt
+Maybe move to vector if MT problems occur;JLabeledTextArea.java;jmeter-2_6/src/jorphan/org/apache/jorphan/gui;52;Technical Debt
+Maybe move to vector if MT problems occur;JLabeledTextField.java;jmeter-2_6/src/jorphan/org/apache/jorphan/gui;51;Technical Debt
+TODO see if this can be made final somehow;LoggingManager.java;jmeter-2_6/src/jorphan/org/apache/jorphan/logging;65;Technical Debt
+TODO see if this can be made final somehow;LoggingManager.java;jmeter-2_6/src/jorphan/org/apache/jorphan/logging;65;Java Task
+Hack to detect when System.out has been set as the target- to avoid closing it;LoggingManager.java;jmeter-2_6/src/jorphan/org/apache/jorphan/logging;72;Technical Debt
+FIXME What's the clean way to add a LogTarget afterwards ?;LoggingManager.java;jmeter-2_6/src/jorphan/org/apache/jorphan/logging;352;Java Task
+* Add logTarget to root logger      * FIXME What's the clean way to add a LogTarget afterwards ?      * @param logTarget LogTarget;LoggingManager.java;jmeter-2_6/src/jorphan/org/apache/jorphan/logging;350-354;Technical Debt
+TODO should this be getMin()?;StatCalculator.java;jmeter-2_6/src/jorphan/org/apache/jorphan/math;152;Technical Debt
+TODO should this be getMin()?;StatCalculator.java;jmeter-2_6/src/jorphan/org/apache/jorphan/math;152;Java Task
+TODO - why is the key value also stored in the entry array?;StatCalculator.java;jmeter-2_6/src/jorphan/org/apache/jorphan/math;159;Java Task
+* Returns the distribution of the values in the list.      *      * @return map containing either Integer or Long keys- entries are a Number array containing the key and the [Integer] count.      * TODO - why is the key value also stored in the entry array?;StatCalculator.java;jmeter-2_6/src/jorphan/org/apache/jorphan/math;155-160;Technical Debt
+TODO perhaps use BCEL to scan class files instead?;ClassFinder.java;jmeter-2_6/src/jorphan/org/apache/jorphan/reflect;69;Technical Debt
+TODO perhaps use BCEL to scan class files instead?;ClassFinder.java;jmeter-2_6/src/jorphan/org/apache/jorphan/reflect;69;Java Task
+TODO - allow directories to end with .jar by removing this check?;ClassFinder.java;jmeter-2_6/src/jorphan/org/apache/jorphan/reflect;167;Technical Debt
+TODO - allow directories to end with .jar by removing this check?;ClassFinder.java;jmeter-2_6/src/jorphan/org/apache/jorphan/reflect;167;Java Task
+hack to reduce the need to load every class in non-GUI mode- which only needs functions;ClassFinder.java;jmeter-2_6/src/jorphan/org/apache/jorphan/reflect;68;Technical Debt
+TODO should we allow null for non-primitive types?;Converter.java;jmeter-2_6/src/jorphan/org/apache/jorphan/util;43;Technical Debt
+TODO should we allow null for non-primitive types?;Converter.java;jmeter-2_6/src/jorphan/org/apache/jorphan/util;43;Java Task
+TODO - perhaps deprecate these in favour of Commons IO?;JOrphanUtils.java;jmeter-2_6/src/jorphan/org/apache/jorphan/util;332;Technical Debt
+TODO - perhaps deprecate these in favour of Commons IO?;JOrphanUtils.java;jmeter-2_6/src/jorphan/org/apache/jorphan/util;332;Java Task
+TODO - add bounds checking?;JOrphanUtils.java;jmeter-2_6/src/jorphan/org/apache/jorphan/util;310;Java Task
+TODO - work out how to convert JUnit4 assertions so they are treated as failures rather than errors;JUnitSampler.java;jmeter-2_6/src/junit/org/apache/jmeter/protocol/java/sampler;569;Java Task
+* Wrapper to convert a JUnit4 class into a TestCase      *      *  TODO - work out how to convert JUnit4 assertions so they are treated as failures rather than errors;JUnitSampler.java;jmeter-2_6/src/junit/org/apache/jmeter/protocol/java/sampler;566-570;Technical Debt
+TODO - convert this into an immutable class using plain variables;MonitorStats.java;jmeter-2_6/src/monitor/components/org/apache/jmeter/visualizers;24;Java Task
+TODO - should this be done for embedded usage?;FtpConfigGui.java;jmeter-2_6/src/protocol/ftp/org/apache/jmeter/protocol/ftp/config/gui;78;Technical Debt
+TODO - should this be done for embedded usage?;FtpConfigGui.java;jmeter-2_6/src/protocol/ftp/org/apache/jmeter/protocol/ftp/config/gui;78;Java Task
+TODO - charset?;FTPSampler.java;jmeter-2_6/src/protocol/ftp/org/apache/jmeter/protocol/ftp/sampler;197;Technical Debt
+TODO - charset?;FTPSampler.java;jmeter-2_6/src/protocol/ftp/org/apache/jmeter/protocol/ftp/sampler;197;Java Task
+TODO;FTPSampler.java;jmeter-2_6/src/protocol/ftp/org/apache/jmeter/protocol/ftp/sampler;256;Technical Debt
+TODO;FTPSampler.java;jmeter-2_6/src/protocol/ftp/org/apache/jmeter/protocol/ftp/sampler;262;Technical Debt
+TODO;FTPSampler.java;jmeter-2_6/src/protocol/ftp/org/apache/jmeter/protocol/ftp/sampler;256;Java Task
+TODO;FTPSampler.java;jmeter-2_6/src/protocol/ftp/org/apache/jmeter/protocol/ftp/sampler;262;Java Task
+FIXME FACTOR WITH HTTPHC4Impl- HTTPHC3Impl;UrlConfigGui.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/config/gui;235;Java Task
+FIXME FACTOR WITH HTTPHC4Impl- HTTPHC3Impl;UrlConfigGui.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/config/gui;235;Technical Debt
+TODO: replace all this url2 mess with a proper method;AuthManager.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/control;147;Technical Debt
+TODO: replace all this url2 mess with a proper method;AuthManager.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/control;147;Java Task
+TODO should really return most specific (i.e. longest) match.;AuthManager.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/control;176;Technical Debt
+TODO should really return most specific (i.e. longest) match.;AuthManager.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/control;176;Java Task
+TODO propery implement support for chunked transfer- i.e. to;HttpMirrorThread.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/control;152;Technical Debt
+TODO propery implement support for chunked transfer- i.e. to;HttpMirrorThread.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/control;152;Java Task
+TODO not used by GUI;CookieManager.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/control;293;Technical Debt
+TODO not used by GUI;CookieManager.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/control;293;Java Task
+TODO is this possible?;CookieManager.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/control;342;Technical Debt
+TODO is this possible?;CookieManager.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/control;342;Java Task
+TODO correct URL?;CacheManager.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/control;151;Technical Debt
+TODO correct URL?;CacheManager.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/control;151;Java Task
+TODO Charset ?;CookieManager.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/control;149;Technical Debt
+TODO Charset ?;CookieManager.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/control;175;Technical Debt
+TODO Charset ?;CookieManager.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/control;149;Java Task
+TODO Charset ?;CookieManager.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/control;175;Java Task
+TODO Charset ?;HeaderManager.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/control;110;Technical Debt
+TODO Charset ?;HeaderManager.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/control;137;Technical Debt
+TODO Charset ?;HeaderManager.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/control;110;Java Task
+TODO Charset ?;HeaderManager.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/control;137;Java Task
+TODO - should we compare secure too?;CookieManager.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/control;323;Java Task
+TODO - check for other CacheControl attributes?;CacheManager.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/control;163;Technical Debt
+TODO - check for other CacheControl attributes?;CacheManager.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/control;163;Java Task
+header- so we know how much we should read.;HttpMirrorThread.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/control;66;Technical Debt
+* Check if cookies match- i.e. name- path and domain are equal.      * <br/>      * TODO - should we compare secure too?      * @param a      * @param b      * @return true if cookies match;CookieManager.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/control;320-327;Technical Debt
+quick hack anyway- so who cares.;URLRewritingModifier.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/modifier;184;Technical Debt
+TODO: find a way to avoid the cost of creating a String here --;RegexpHTMLParser.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/parser;153;Technical Debt
+TODO: find a way to avoid the cost of creating a String here --;RegexpHTMLParser.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/parser;153;Java Task
+TODO log a warning message?;URLCollection.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/parser;93;Technical Debt
+TODO log a warning message?;URLCollection.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/parser;93;Java Task
+TODO improve string version to better match browser behaviour? e.g.;URLString.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/parser;42;Java Task
+them roughly in order- which should be a better model of browser;HTMLParser.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/parser;131;Technical Debt
+better.;RegexpHTMLParser.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/parser;155;Technical Debt
+* TODO improve string version to better match browser behaviour? e.g.          * do browsers regard http://host/ and http://Host:80/ as the same? If          * so- it would be better to reflect this in the string;URLString.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/parser;41-45;Technical Debt
+TODO replace repeated substr() above and below with more efficient method.;HttpRequestHdr.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/proxy;498;Technical Debt
+TODO replace repeated substr() above and below with more efficient method.;HttpRequestHdr.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/proxy;498;Java Task
+TODO perhaps make more specific than this?;Proxy.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/proxy;555;Technical Debt
+TODO perhaps make more specific than this?;Proxy.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/proxy;555;Java Task
+TODO - is this the correct threadgroup name?;ProxyControl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/proxy;422;Technical Debt
+TODO - is this the correct threadgroup name?;ProxyControl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/proxy;422;Java Task
+TODO - do these really need to be shared between all Proxy instances?;Daemon.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/proxy;117;Technical Debt
+TODO - do these really need to be shared between all Proxy instances?;Daemon.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/proxy;117;Java Task
+TODO - could be converted to generic class?;ProxyControl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/proxy;739;Technical Debt
+TODO - could be converted to generic class?;ProxyControl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/proxy;739;Java Task
+TODO - charset?;HttpRequestHdr.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/proxy;184;Technical Debt
+TODO - charset?;HttpRequestHdr.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/proxy;184;Java Task
+TODO - also check the match string to restrict the changes further?;Proxy.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/proxy;241;Java Task
+TODO: needs a multiple file upload scenerio;HTTPHC3Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;1011;Technical Debt
+TODO: needs a multiple file upload scenerio;HTTPHC3Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;791;Technical Debt
+TODO: needs a multiple file upload scenerio;HTTPHC3Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;832;Technical Debt
+TODO: needs a multiple file upload scenerio;HTTPHC3Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;791;Java Task
+TODO: needs a multiple file upload scenerio;HTTPHC3Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;832;Java Task
+TODO: needs a multiple file upload scenerio;HTTPHC3Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;1011;Java Task
+TODO: needs a multiple file upload scenerio;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;1078;Technical Debt
+TODO: needs a multiple file upload scenerio;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;852;Technical Debt
+TODO: needs a multiple file upload scenerio;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;892;Technical Debt
+TODO: needs a multiple file upload scenerio;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;852;Java Task
+TODO: needs a multiple file upload scenerio;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;892;Java Task
+TODO: needs a multiple file upload scenerio;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;1078;Java Task
+TODO: needs a multiple file upload scenerio;PostWriter.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;290;Technical Debt
+TODO: needs a multiple file upload scenerio;PostWriter.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;290;Java Task
+TODO: make static?;HTTPSamplerBase.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;1277;Technical Debt
+TODO: make static?;HTTPSamplerBase.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;1277;Java Task
+TODO: is this the correct default?;PostWriter.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;297;Technical Debt
+TODO: is this the correct default?;PostWriter.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;297;Java Task
+TODO use new setDefaultHttpParams(HttpParams params) static method when 4.1 is available;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;163;Technical Debt
+TODO use new setDefaultHttpParams(HttpParams params) static method when 4.1 is available;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;163;Java Task
+TODO use fixed charset:;HTTPSampleResult.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;205;Technical Debt
+TODO use fixed charset:;HTTPSampleResult.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;205;Java Task
+TODO size ouststream according to actual content length;SoapSampler.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;277;Technical Debt
+TODO size ouststream according to actual content length;SoapSampler.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;277;Java Task
+TODO should this be variable?;SoapSampler.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;68;Java Task
+TODO should this be a variable?;WebServiceSampler.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;101;Java Task
+TODO OK?;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;919;Technical Debt
+TODO OK?;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;919;Java Task
+TODO needs cleaning up;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;778;Technical Debt
+TODO needs cleaning up;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;778;Java Task
+TODO needed here because currently done on sample completion in JMeterThread-;HTTPSamplerBase.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;1121;Technical Debt
+TODO needed here because currently done on sample completion in JMeterThread-;HTTPSamplerBase.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;1121;Java Task
+TODO is this correct?;PostWriter.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;220;Technical Debt
+TODO is this correct?;PostWriter.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;220;Java Task
+TODO is null correct?;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;1020;Technical Debt
+TODO is null correct?;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;866;Technical Debt
+TODO is null correct?;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;866;Java Task
+TODO is null correct?;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;1020;Java Task
+TODO hack- to be removed later;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;121;Technical Debt
+TODO hack- to be removed later;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;121;Java Task
+TODO HACK to fix https://issues.apache.org/jira/browse/HTTPCLIENT-1120;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;469;Technical Debt
+TODO HACK to fix https://issues.apache.org/jira/browse/HTTPCLIENT-1120;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;469;Java Task
+TODO do we need to add a charset for the file contents?;SoapSampler.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;203;Technical Debt
+TODO do we need to add a charset for the file contents?;SoapSampler.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;203;Java Task
+TODO can this happen?;HTTPSamplerBase.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;1179;Technical Debt
+TODO can this happen?;HTTPSamplerBase.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;1179;Java Task
+TODO can this be obtained from the file somehow?;HTTPFileImpl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;63;Technical Debt
+TODO can this be obtained from the file somehow?;HTTPFileImpl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;63;Java Task
+TODO ? perhaps note connection so it can be disconnected at end of test?;HTTPJavaImpl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;615;Technical Debt
+TODO ? perhaps note connection so it can be disconnected at end of test?;HTTPJavaImpl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;615;Java Task
+TODO - what other headers are not allowed?;HTTPHC3Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;595;Technical Debt
+TODO - what other headers are not allowed?;HTTPHC3Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;595;Java Task
+TODO - what other headers are not allowed?;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;688;Technical Debt
+TODO - what other headers are not allowed?;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;688;Java Task
+TODO - should this return something else?;HTTPSamplerBase.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;664;Technical Debt
+TODO - should this return something else?;HTTPSamplerBase.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;664;Java Task
+TODO - should this be done when the client is created?;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;556;Technical Debt
+TODO - should this be done when the client is created?;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;556;Java Task
+TODO - not sure this is the best method;HTTPHC3Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;1106;Technical Debt
+TODO - not sure this is the best method;HTTPHC3Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;1106;Java Task
+TODO - needed?;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;842;Java Task
+TODO - is this the correct default?;HTTPHC3Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;839;Technical Debt
+TODO - is this the correct default?;HTTPHC3Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;839;Java Task
+TODO - is this the correct default?;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;899;Technical Debt
+TODO - is this the correct default?;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;899;Java Task
+TODO - implementation not fully tested;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;996;Technical Debt
+TODO - implementation not fully tested;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;996;Java Task
+TODO - how to define proxy authentication for a single connection?;HTTPJavaImpl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;154;Technical Debt
+TODO - how to define proxy authentication for a single connection?;HTTPJavaImpl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;154;Java Task
+TODO - charset?;AjpSampler.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;287;Technical Debt
+TODO - charset?;AjpSampler.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;287;Java Task
+TODO - charset?;HTTPSampleResult.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;196;Technical Debt
+TODO - charset?;HTTPSampleResult.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;206;Technical Debt
+TODO - charset?;HTTPSampleResult.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;196;Java Task
+TODO - charset?;HTTPSampleResult.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;206;Java Task
+TODO - charset?;PostWriter.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;111;Technical Debt
+TODO - charset?;PostWriter.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;114;Technical Debt
+TODO - charset?;PostWriter.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;111;Java Task
+TODO - charset?;PostWriter.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;114;Java Task
+TODO - change to use URL version? Will this affect test plans?;HTTPSamplerBase.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;216;Technical Debt
+TODO - change to use URL version? Will this affect test plans?;HTTPSamplerBase.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;216;Java Task
+TODO - belongs elsewhere;HTTPSamplerBase.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;226;Technical Debt
+TODO - belongs elsewhere;HTTPSamplerBase.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;226;Java Task
+This helps with SoapSampler hack too;HTTPHC3Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;594;Technical Debt
+ratio in bin/jmeter[.bat]- but this is better.;PostWriter.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;406;Technical Debt
+Hack to allow entire URL to be provided in host field;HTTPSamplerBase.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;852;Technical Debt
+HACK;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;509;Technical Debt
+end of hack;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;504;Technical Debt
+$NON-NLS-1$ TODO should this be variable?;SoapSampler.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;68;Technical Debt
+$NON-NLS-1$ TODO should this be a variable?;WebServiceSampler.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;101;Technical Debt
+// Set the content type TODO - needed?;HTTPHC4Impl.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/sampler;842;Technical Debt
+TODO should we allow mimetype only?;HTTPFileArg.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/util;200;Technical Debt
+TODO should we allow mimetype only?;HTTPFileArg.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/util;200;Java Task
+TODO - the following code looks wrong - it does the same in both cases;WSDLHelper.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/util;366;Technical Debt
+TODO - the following code looks wrong - it does the same in both cases;WSDLHelper.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/util;366;Java Task
+TODO - charset?;Base64Encoder.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/util;41;Technical Debt
+TODO - charset?;Base64Encoder.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/util;41;Java Task
+TODO downcase UPPER case non-final variables;TCLogParser.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/util/accesslog;114;Technical Debt
+TODO downcase UPPER case non-final variables;TCLogParser.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/util/accesslog;114;Java Task
+TODO: move to utils class (JMeterUtils?);RequestViewHTTP.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/visualizers;225;Technical Debt
+TODO: move to utils class (JMeterUtils?);RequestViewHTTP.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/visualizers;225;Java Task
+better ISO-8859-1 than UTF-8;RequestViewHTTP.java;jmeter-2_6/src/protocol/http/org/apache/jmeter/protocol/http/visualizers;266;Technical Debt
+TODO ought to be a FileChooser ...;BeanShellSamplerGui.java;jmeter-2_6/src/protocol/java/org/apache/jmeter/protocol/java/control/gui;99;Technical Debt
+TODO ought to be a FileChooser ...;BeanShellSamplerGui.java;jmeter-2_6/src/protocol/java/org/apache/jmeter/protocol/java/control/gui;99;Java Task
+TODO: find out how to retrieve these from the script;BSFSampler.java;jmeter-2_6/src/protocol/java/org/apache/jmeter/protocol/java/sampler;73;Technical Debt
+TODO: find out how to retrieve these from the script;BSFSampler.java;jmeter-2_6/src/protocol/java/org/apache/jmeter/protocol/java/sampler;73;Java Task
+but we do trap this error to make tests work better;BeanShellSampler.java;jmeter-2_6/src/protocol/java/org/apache/jmeter/protocol/java/sampler;132;Technical Debt
+TODO - should the encoding be configurable?;AbstractJDBCTestElement.java;jmeter-2_6/src/protocol/jdbc/org/apache/jmeter/protocol/jdbc;79;Technical Debt
+TODO - should the encoding be configurable?;AbstractJDBCTestElement.java;jmeter-2_6/src/protocol/jdbc/org/apache/jmeter/protocol/jdbc;79;Java Task
+TODO - do they have to be the same size?;AbstractJDBCTestElement.java;jmeter-2_6/src/protocol/jdbc/org/apache/jmeter/protocol/jdbc;67;Technical Debt
+TODO - do they have to be the same size?;AbstractJDBCTestElement.java;jmeter-2_6/src/protocol/jdbc/org/apache/jmeter/protocol/jdbc;67;Java Task
+TODO: process warnings? Set Code and Message to success?;JDBCSampler.java;jmeter-2_6/src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/sampler;95;Technical Debt
+TODO: process warnings? Set Code and Message to success?;JDBCSampler.java;jmeter-2_6/src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/sampler;95;Java Task
+TODO - is this correct?;JDBCSampler.java;jmeter-2_6/src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/sampler;85;Technical Debt
+TODO - is this correct?;JDBCSampler.java;jmeter-2_6/src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/sampler;89;Technical Debt
+TODO - is this correct?;JDBCSampler.java;jmeter-2_6/src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/sampler;85;Java Task
+TODO - is this correct?;JDBCSampler.java;jmeter-2_6/src/protocol/jdbc/org/apache/jmeter/protocol/jdbc/sampler;89;Java Task
+TODO Method with 0 reference- really useful ?;ClientPool.java;jmeter-2_6/src/protocol/jms/org/apache/jmeter/protocol/jms/client;74;Technical Debt
+TODO Method with 0 reference- really useful ?;ClientPool.java;jmeter-2_6/src/protocol/jms/org/apache/jmeter/protocol/jms/client;79;Technical Debt
+TODO Method with 0 reference- really useful ?;ClientPool.java;jmeter-2_6/src/protocol/jms/org/apache/jmeter/protocol/jms/client;74;Java Task
+TODO Method with 0 reference- really useful ?;ClientPool.java;jmeter-2_6/src/protocol/jms/org/apache/jmeter/protocol/jms/client;79;Java Task
+TODO - probably wrong;JMSSamplerGui.java;jmeter-2_6/src/protocol/jms/org/apache/jmeter/protocol/jms/control/gui;281;Java Task
+$NON-NLS-1$ // TODO - probably wrong;JMSSamplerGui.java;jmeter-2_6/src/protocol/jms/org/apache/jmeter/protocol/jms/control/gui;281;Technical Debt
+TODO: do we need to implement any kind of connection pooling?;SubscriberSampler.java;jmeter-2_6/src/protocol/jms/org/apache/jmeter/protocol/jms/sampler;47;Technical Debt
+TODO: do we need to implement any kind of connection pooling?;SubscriberSampler.java;jmeter-2_6/src/protocol/jms/org/apache/jmeter/protocol/jms/sampler;47;Java Task
+TODO set different status if not enough messages found?;SubscriberSampler.java;jmeter-2_6/src/protocol/jms/org/apache/jmeter/protocol/jms/sampler;199;Technical Debt
+TODO set different status if not enough messages found?;SubscriberSampler.java;jmeter-2_6/src/protocol/jms/org/apache/jmeter/protocol/jms/sampler;199;Java Task
+TODO - should we call start() and stop()?;SubscriberSampler.java;jmeter-2_6/src/protocol/jms/org/apache/jmeter/protocol/jms/sampler;137;Technical Debt
+TODO - should we call start() and stop()?;SubscriberSampler.java;jmeter-2_6/src/protocol/jms/org/apache/jmeter/protocol/jms/sampler;137;Java Task
+TODO - charset?;SubscriberSampler.java;jmeter-2_6/src/protocol/jms/org/apache/jmeter/protocol/jms/sampler;191;Technical Debt
+TODO - charset?;SubscriberSampler.java;jmeter-2_6/src/protocol/jms/org/apache/jmeter/protocol/jms/sampler;193;Technical Debt
+TODO - charset?;SubscriberSampler.java;jmeter-2_6/src/protocol/jms/org/apache/jmeter/protocol/jms/sampler;191;Java Task
+TODO - charset?;SubscriberSampler.java;jmeter-2_6/src/protocol/jms/org/apache/jmeter/protocol/jms/sampler;193;Java Task
+TODO: Why do we clone the return value? This is the only reference;LDAPArgumentsPanel.java;jmeter-2_6/src/protocol/ldap/org/apache/jmeter/protocol/ldap/config/gui;127;Technical Debt
+TODO: Why do we clone the return value? This is the only reference;LDAPArgumentsPanel.java;jmeter-2_6/src/protocol/ldap/org/apache/jmeter/protocol/ldap/config/gui;127;Java Task
+*************************************************************************      * !ToDo (Constructor description)      *      * @param displayName      *            !ToDo (Parameter description)      *************************************************************************;LdapExtConfigGui.java;jmeter-2_6/src/protocol/ldap/org/apache/jmeter/protocol/ldap/config/gui;179-184;Technical Debt
+*************************************************************************      * !ToDo (Constructor description)      *************************************************************************;LdapExtTestSamplerGui.java;jmeter-2_6/src/protocol/ldap/org/apache/jmeter/protocol/ldap/control/gui;45-47;Technical Debt
+TODO: tidy this up;LDAPExtSampler.java;jmeter-2_6/src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler;834;Technical Debt
+TODO: tidy this up;LDAPExtSampler.java;jmeter-2_6/src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler;834;Java Task
+TODO turn into parameter?;LDAPSampler.java;jmeter-2_6/src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler;79;Technical Debt
+TODO turn into parameter?;LDAPSampler.java;jmeter-2_6/src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler;79;Java Task
+TODO perhaps return this?;LdapClient.java;jmeter-2_6/src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler;131;Java Task
+TODO is this a sensible number? //$NON-NLS-1$;LDAPSampler.java;jmeter-2_6/src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler;444;Technical Debt
+TODO is this a sensible number? //$NON-NLS-1$;LDAPSampler.java;jmeter-2_6/src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler;444;Java Task
+TODO improve this;LDAPSampler.java;jmeter-2_6/src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler;426;Technical Debt
+TODO improve this;LDAPSampler.java;jmeter-2_6/src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler;426;Java Task
+TODO distinguish errors better //$NON-NLS-1$;LDAPSampler.java;jmeter-2_6/src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler;459;Technical Debt
+TODO distinguish errors better //$NON-NLS-1$;LDAPSampler.java;jmeter-2_6/src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler;459;Java Task
+TODO - needs more work ...;LDAPSampler.java;jmeter-2_6/src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler;442;Technical Debt
+TODO - needs more work ...;LDAPSampler.java;jmeter-2_6/src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler;442;Java Task
+DirContext dc = //TODO perhaps return this?;LdapClient.java;jmeter-2_6/src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler;131;Technical Debt
+*************************************************************************      * !ToDo (Method description)      *      * @param e      *            !ToDo (Parameter description)      * @return !ToDo (Return description)      *************************************************************************;LDAPExtSampler.java;jmeter-2_6/src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler;703-709;Technical Debt
+*************************************************************************      * !ToDo (Constructor description)      *************************************************************************;LDAPExtSampler.java;jmeter-2_6/src/protocol/ldap/org/apache/jmeter/protocol/ldap/sampler;149-151;Technical Debt
+TODO is this sensible?;MailReaderSampler.java;jmeter-2_6/src/protocol/mail/org/apache/jmeter/protocol/mail/sampler;212;Technical Debt
+TODO is this sensible?;MailReaderSampler.java;jmeter-2_6/src/protocol/mail/org/apache/jmeter/protocol/mail/sampler;212;Java Task
+TODO - use a different format here?;MailReaderSampler.java;jmeter-2_6/src/protocol/mail/org/apache/jmeter/protocol/mail/sampler;300;Technical Debt
+TODO - use a different format here?;MailReaderSampler.java;jmeter-2_6/src/protocol/mail/org/apache/jmeter/protocol/mail/sampler;300;Java Task
+TODO this should really be request data- but there is none;SmtpSampler.java;jmeter-2_6/src/protocol/mail/org/apache/jmeter/protocol/smtp/sampler;289;Technical Debt
+TODO this should really be request data- but there is none;SmtpSampler.java;jmeter-2_6/src/protocol/mail/org/apache/jmeter/protocol/smtp/sampler;289;Java Task
+TODO if(instance.getSMTPStatusCode == 250);SmtpSampler.java;jmeter-2_6/src/protocol/mail/org/apache/jmeter/protocol/smtp/sampler;232;Java Task
+TODO - charset?;SmtpSampler.java;jmeter-2_6/src/protocol/mail/org/apache/jmeter/protocol/smtp/sampler;285;Technical Debt
+TODO - charset?;SmtpSampler.java;jmeter-2_6/src/protocol/mail/org/apache/jmeter/protocol/smtp/sampler;288;Technical Debt
+TODO - charset?;SmtpSampler.java;jmeter-2_6/src/protocol/mail/org/apache/jmeter/protocol/smtp/sampler;285;Java Task
+TODO - charset?;SmtpSampler.java;jmeter-2_6/src/protocol/mail/org/apache/jmeter/protocol/smtp/sampler;288;Java Task
+"* TODO if(instance.getSMTPStatusCode == 250)              * res.setResponseMessage(""Message successfully sent!"")- else              * res.setResponseMessage(instance.getSMTPStatusCodeIncludingMessage)-";SmtpSampler.java;jmeter-2_6/src/protocol/mail/org/apache/jmeter/protocol/smtp/sampler;231-235;Technical Debt
+TODO this is not populated currently;SendMailCommand.java;jmeter-2_6/src/protocol/mail/org/apache/jmeter/protocol/smtp/sampler/protocol;97;Technical Debt
+TODO this is not populated currently;SendMailCommand.java;jmeter-2_6/src/protocol/mail/org/apache/jmeter/protocol/smtp/sampler/protocol;97;Java Task
+N.B. this will be a config element- so we cannot use the setXXX() methods;TCPConfigGui.java;jmeter-2_6/src/protocol/tcp/org/apache/jmeter/protocol/tcp/config/gui;98;Technical Debt
+N.B. this will be a config element- so we cannot use the getXXX() methods;TCPConfigGui.java;jmeter-2_6/src/protocol/tcp/org/apache/jmeter/protocol/tcp/config/gui;72;Technical Debt
+TODO handle filenames;TCPSampler.java;jmeter-2_6/src/protocol/tcp/org/apache/jmeter/protocol/tcp/sampler;347;Technical Debt
+TODO handle filenames;TCPSampler.java;jmeter-2_6/src/protocol/tcp/org/apache/jmeter/protocol/tcp/sampler;347;Java Task
+TODO - charset?;TCPClientImpl.java;jmeter-2_6/src/protocol/tcp/org/apache/jmeter/protocol/tcp/sampler;63;Technical Debt
+TODO - charset?;TCPClientImpl.java;jmeter-2_6/src/protocol/tcp/org/apache/jmeter/protocol/tcp/sampler;63;Java Task
+TODO: Do we really need to have all these menubar methods duplicated;ReportMainFrame.java;jmeter-2_6/src/reports/org/apache/jmeter/gui;144;Technical Debt
+TODO: Do we really need to have all these menubar methods duplicated;ReportMainFrame.java;jmeter-2_6/src/reports/org/apache/jmeter/gui;144;Java Task
+bail out.;ReportGuiPackage.java;jmeter-2_6/src/reports/org/apache/jmeter/gui;311;Technical Debt
+bail out.;ReportGuiPackage.java;jmeter-2_6/src/reports/org/apache/jmeter/gui;315;Technical Debt
+bail out.;ReportGuiPackage.java;jmeter-2_6/src/reports/org/apache/jmeter/gui;319;Technical Debt
+TODO: find a better way of checking this;ReportMenuFactory.java;jmeter-2_6/src/reports/org/apache/jmeter/gui/util;266;Java Task
+TODO fetch list of languages from a file?;ReportMenuBar.java;jmeter-2_6/src/reports/org/apache/jmeter/gui/util;258;Technical Debt
+TODO fetch list of languages from a file?;ReportMenuBar.java;jmeter-2_6/src/reports/org/apache/jmeter/gui/util;258;Java Task
+* JMeterTreeNode and TestBeanGUI are special GUI classes- and                  * aren't intended to be added to menus                  *                  * TODO: find a better way of checking this;ReportMenuFactory.java;jmeter-2_6/src/reports/org/apache/jmeter/gui/util;262-267;Technical Debt
+TODO fix this when there is a real implementation;ReportTable.java;jmeter-2_6/src/reports/org/apache/jmeter/report;24;Technical Debt
+TODO fix this when there is a real implementation;ReportTable.java;jmeter-2_6/src/reports/org/apache/jmeter/report;24;Java Task
+TODO: I believe the following code (to the end of the method) is;ReportEditCommand.java;jmeter-2_6/src/reports/org/apache/jmeter/report/gui/action;42;Technical Debt
+TODO: I believe the following code (to the end of the method) is;ReportEditCommand.java;jmeter-2_6/src/reports/org/apache/jmeter/report/gui/action;42;Java Task
+TODO: doesn't putting this here mark the tree as;ReportSave.java;jmeter-2_6/src/reports/org/apache/jmeter/report/gui/action;100;Technical Debt
+TODO: doesn't putting this here mark the tree as;ReportSave.java;jmeter-2_6/src/reports/org/apache/jmeter/report/gui/action;100;Java Task
+TODO tighten rules;ReportDragNDrop.java;jmeter-2_6/src/reports/org/apache/jmeter/report/gui/action;92;Java Task
+TODO move to MenuFactory?;ReportDragNDrop.java;jmeter-2_6/src/reports/org/apache/jmeter/report/gui/action;92;Java Task
+FIXME engine is always null;ReportStart.java;jmeter-2_6/src/reports/org/apache/jmeter/report/gui/action;64;Java Task
+FIXME engine is always null;ReportStart.java;jmeter-2_6/src/reports/org/apache/jmeter/report/gui/action;71;Java Task
+FIXME engine is always null;ReportStart.java;jmeter-2_6/src/reports/org/apache/jmeter/report/gui/action;64;Technical Debt
+FIXME engine is always null;ReportStart.java;jmeter-2_6/src/reports/org/apache/jmeter/report/gui/action;71;Technical Debt
+FIXME Due to startEngine being commented engine will always be null;ReportStart.java;jmeter-2_6/src/reports/org/apache/jmeter/report/gui/action;39;Java Task
+FIXME Due to startEngine being commented engine will always be null;ReportStart.java;jmeter-2_6/src/reports/org/apache/jmeter/report/gui/action;39;Technical Debt
+FIXME BROKEN CODE;ReportStart.java;jmeter-2_6/src/reports/org/apache/jmeter/report/gui/action;28;Java Task
+* Determine whether or not dragged nodes can be added to this parent. Also      * used by Paste TODO tighten rules TODO move to MenuFactory?      *      * @param parentNode      * @return whether it is OK to add the dragged nodes to this parent;ReportDragNDrop.java;jmeter-2_6/src/reports/org/apache/jmeter/report/gui/action;90-96;Technical Debt
+TODO: is the serializable test necessary now that JMeterTreeNode is;ReportTreeNode.java;jmeter-2_6/src/reports/org/apache/jmeter/report/gui/tree;52;Technical Debt
+TODO: is the serializable test necessary now that JMeterTreeNode is;ReportTreeNode.java;jmeter-2_6/src/reports/org/apache/jmeter/report/gui/tree;52;Java Task
+TODO fix this when there is a real implementation;AbstractTable.java;jmeter-2_6/src/reports/org/apache/jmeter/testelement;147;Technical Debt
+TODO fix this when there is a real implementation;AbstractTable.java;jmeter-2_6/src/reports/org/apache/jmeter/testelement;147;Java Task
+TODO fix this when there is a real implementation;Table.java;jmeter-2_6/src/reports/org/apache/jmeter/testelement;34;Technical Debt
+TODO fix this when there is a real implementation;Table.java;jmeter-2_6/src/reports/org/apache/jmeter/testelement;34;Java Task
+TODO - this method seems to be wrong - it does not agree with the Javadoc;JTLData.java;jmeter-2_6/src/reports/org/apache/jmeter/testelement;78;Java Task
+FIXME Wrong code that create different constructor for static field depending on caller;ReportPlan.java;jmeter-2_6/src/reports/org/apache/jmeter/testelement;115;Java Task
+FIXME Wrong code that create different constructor for static field depending on caller;ReportPlan.java;jmeter-2_6/src/reports/org/apache/jmeter/testelement;115;Technical Debt
+TODO add tests to check for: - name clash - long option abbreviations;ClutilTestCase.java;jmeter-2_6/test/src/org/apache/commons/cli/avalon;963;Java Task
+* TODO add tests to check for: - name clash - long option abbreviations      * (match shortest unique abbreviation);ClutilTestCase.java;jmeter-2_6/test/src/org/apache/commons/cli/avalon;962-965;Technical Debt
+#NOME?;ClutilTestCase.java;jmeter-2_6/test/src/org/apache/commons/cli/avalon;581;Technical Debt
+#NOME?;ClutilTestCase.java;jmeter-2_6/test/src/org/apache/commons/cli/avalon;326;Technical Debt
+#NOME?;ClutilTestCase.java;jmeter-2_6/test/src/org/apache/commons/cli/avalon;805;Technical Debt
+-Dstupid=;ClutilTestCase.java;jmeter-2_6/test/src/org/apache/commons/cli/avalon;787;Technical Debt
+#NOME?;ClutilTestCase.java;jmeter-2_6/test/src/org/apache/commons/cli/avalon;826;Technical Debt
+TODO - should this be a failure?;XMLSchemaAssertionTest.java;jmeter-2_6/test/src/org/apache/jmeter/assertions;110;Technical Debt
+TODO - should this be a failure?;XMLSchemaAssertionTest.java;jmeter-2_6/test/src/org/apache/jmeter/assertions;110;Java Task
+TODO - need a lot more tests;ResponseAssertionTest.java;jmeter-2_6/test/src/org/apache/jmeter/assertions;187;Technical Debt
+TODO - need a lot more tests;ResponseAssertionTest.java;jmeter-2_6/test/src/org/apache/jmeter/assertions;187;Java Task
+TODO - need a lot more tests;SizeAssertionTest.java;jmeter-2_6/test/src/org/apache/jmeter/assertions;151;Technical Debt
+TODO - need a lot more tests;SizeAssertionTest.java;jmeter-2_6/test/src/org/apache/jmeter/assertions;151;Java Task
+TODO - charset?;XMLSchemaAssertionTest.java;jmeter-2_6/test/src/org/apache/jmeter/assertions;160;Technical Debt
+TODO - charset?;XMLSchemaAssertionTest.java;jmeter-2_6/test/src/org/apache/jmeter/assertions;173;Technical Debt
+TODO - charset?;XMLSchemaAssertionTest.java;jmeter-2_6/test/src/org/apache/jmeter/assertions;160;Java Task
+TODO - charset?;XMLSchemaAssertionTest.java;jmeter-2_6/test/src/org/apache/jmeter/assertions;173;Java Task
+TODO enable some proper tests!!;TestIfController.java;jmeter-2_6/test/src/org/apache/jmeter/control;38;Technical Debt
+TODO enable some proper tests!!;TestIfController.java;jmeter-2_6/test/src/org/apache/jmeter/control;38;Java Task
+TODO - should check that error has been logged...;PackageTest.java;jmeter-2_6/test/src/org/apache/jmeter/functions;757;Technical Debt
+TODO - should check that error has been logged...;PackageTest.java;jmeter-2_6/test/src/org/apache/jmeter/functions;757;Java Task
+TODO add tests for SaveGraphics;PackageTest.java;jmeter-2_6/test/src/org/apache/jmeter/gui/action;29;Technical Debt
+TODO add tests for SaveGraphics;PackageTest.java;jmeter-2_6/test/src/org/apache/jmeter/gui/action;29;Java Task
+TODO add tests for ReportSaveGraphics;PackageTest.java;jmeter-2_6/test/src/org/apache/jmeter/gui/action;33;Technical Debt
+TODO add tests for ReportSaveGraphics;PackageTest.java;jmeter-2_6/test/src/org/apache/jmeter/gui/action;33;Java Task
+TODO these assertions should be separate tests;JMeterTest.java;jmeter-2_6/test/src/org/apache/jmeter/junit;441;Technical Debt
+TODO these assertions should be separate tests;JMeterTest.java;jmeter-2_6/test/src/org/apache/jmeter/junit;441;Java Task
+TODO - improve this check;JMeterTest.java;jmeter-2_6/test/src/org/apache/jmeter/junit;567;Technical Debt
+TODO - improve this check;JMeterTest.java;jmeter-2_6/test/src/org/apache/jmeter/junit;567;Java Task
+TODO - charset?;ParseBenchmark.java;jmeter-2_6/test/src/org/apache/jmeter/monitor/model/benchmark;86;Technical Debt
+TODO - charset?;ParseBenchmark.java;jmeter-2_6/test/src/org/apache/jmeter/monitor/model/benchmark;86;Java Task
+TODO - should LF-only EOL be allowed?;MultipartUrlConfigTest.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/config;45;Technical Debt
+TODO - should LF-only EOL be allowed?;MultipartUrlConfigTest.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/config;45;Java Task
+TODO : This is a bit fragile;TestHTTPMirrorThread.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/control;389;Technical Debt
+TODO : This is a bit fragile;TestHTTPMirrorThread.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/control;389;Java Task
+TODO - implement testing of chunked post request;TestHTTPMirrorThread.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/control;333;Java Task
+public void testPostRequestChunked() throws Exception {         // TODO - implement testing of chunked post request     };TestHTTPMirrorThread.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/control;331-335;Technical Debt
+TODO: need more tests;TestHtmlParsingUtils.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/parser;26;Technical Debt
+TODO: need more tests;TestHtmlParsingUtils.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/parser;26;Java Task
+TODO: Exact ordering is only required for some tests- change the;TestHTMLParser.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/parser;272;Java Task
+* TODO: Exact ordering is only required for some tests- change the              * comparison to do a set compare where necessary.;TestHTMLParser.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/parser;271-274;Technical Debt
+TODO - charset?;TestHttpRequestHdr.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/proxy;620;Technical Debt
+TODO - charset?;TestHttpRequestHdr.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/proxy;620;Java Task
+TODO make this a parameter?;PostWriterTest.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/sampler;705;Technical Debt
+TODO make this a parameter?;PostWriterTest.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/sampler;705;Java Task
+TODO any point in checking the other headers?;TestHTTPSamplersAgainstHttpMirrorServer.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/sampler;1037;Technical Debt
+TODO any point in checking the other headers?;TestHTTPSamplersAgainstHttpMirrorServer.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/sampler;1037;Java Task
+TODO : Maybe support chunked encoding- then we cannot rely on content length;TestHTTPSamplersAgainstHttpMirrorServer.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/sampler;1016;Technical Debt
+TODO : Maybe support chunked encoding- then we cannot rely on content length;TestHTTPSamplersAgainstHttpMirrorServer.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/sampler;1016;Java Task
+TODO - charset?;PostWriterTest.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/sampler;170;Technical Debt
+TODO - charset?;PostWriterTest.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/sampler;230;Technical Debt
+TODO - charset?;PostWriterTest.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/sampler;241;Technical Debt
+TODO - charset?;PostWriterTest.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/sampler;729;Technical Debt
+TODO - charset?;PostWriterTest.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/sampler;751;Technical Debt
+TODO - charset?;PostWriterTest.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/sampler;170;Java Task
+TODO - charset?;PostWriterTest.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/sampler;230;Java Task
+TODO - charset?;PostWriterTest.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/sampler;241;Java Task
+TODO - charset?;PostWriterTest.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/sampler;729;Java Task
+TODO - charset?;PostWriterTest.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/sampler;751;Java Task
+TODO - charset?;TestHTTPSamplersAgainstHttpMirrorServer.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/sampler;1234;Technical Debt
+TODO - charset?;TestHTTPSamplersAgainstHttpMirrorServer.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/sampler;1257;Technical Debt
+TODO - charset?;TestHTTPSamplersAgainstHttpMirrorServer.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/sampler;1234;Java Task
+TODO - charset?;TestHTTPSamplersAgainstHttpMirrorServer.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/sampler;1257;Java Task
+TODO - more tests needed;TestTCLogParser.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/util/accesslog;24;Technical Debt
+TODO - more tests needed;TestTCLogParser.java;jmeter-2_6/test/src/org/apache/jmeter/protocol/http/util/accesslog;24;Java Task
+TODO Add these some day;PackageTest.java;jmeter-2_6/test/src/org/apache/jmeter/resources;284;Technical Debt
+TODO Add these some day;PackageTest.java;jmeter-2_6/test/src/org/apache/jmeter/resources;284;Java Task
+TODO some more invalid sequence tests needed;TestSampleResult.java;jmeter-2_6/test/src/org/apache/jmeter/samplers;294;Technical Debt
+TODO some more invalid sequence tests needed;TestSampleResult.java;jmeter-2_6/test/src/org/apache/jmeter/samplers;294;Java Task
+TODO need more tests - particularly for the new functions;TestSampleResult.java;jmeter-2_6/test/src/org/apache/jmeter/samplers;31;Technical Debt
+TODO need more tests - particularly for the new functions;TestSampleResult.java;jmeter-2_6/test/src/org/apache/jmeter/samplers;31;Java Task
+TODO make these separate tests?;TestSaveService.java;jmeter-2_6/test/src/org/apache/jmeter/save;127;Technical Debt
+TODO make these separate tests?;TestSaveService.java;jmeter-2_6/test/src/org/apache/jmeter/save;127;Java Task
+TODO: - Check property files don't have duplicate keys (is this important);PackageTest.java;jmeter-2_6/test/src/org/apache/jmeter/testbeans/gui;47;Java Task
+TODO add some real tests now that split() has been removed;TestJMeterUtils.java;jmeter-2_6/test/src/org/apache/jmeter/util;36;Technical Debt
+TODO add some real tests now that split() has been removed;TestJMeterUtils.java;jmeter-2_6/test/src/org/apache/jmeter/util;36;Java Task

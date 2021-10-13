@@ -1,0 +1,244 @@
+SATD;Path;Line;Priority
+* A dialect delegate for the Progress database. TODO: Progress specification says that the sum of all column  * lengths of a table row may not exceed 31960. Need to add an interface method to the HibernateDialect  * interface that takes an array of lengths and and checks the sum of columns for a row. This maximum number  * may be different across databases so this check method needs to be implemented by each dialect.  *   * @author manningr;fw/src/net/sourceforge/squirrel_sql/fw/dialects/ProgressDialectExt.java;37-44;1.0
+"* This class manages the windows for the application.  *  * TODO: Correct these notes  * <p>When a session closes the window manager will ensure that  * all of the windows for that sesion are closed.  * <p>Similarily when a window is closed the windows manager will ensure that  * references to the window are removed for the session.  *  * JASON: Prior to this patch there was some code movement from this class to  * Sessionmanager. The idea being that Sessionmanager was the controller.  * Do we still want to do this? Remember in the future there will probably be  * an SDI as well as MDI version of the windows.  *  * @author <A HREF=""mailto:colbell@users.sourceforge.net"">Colin Bell</A>  * @author <A HREF=""mailto:jmheight@users.sourceforge.net"">Jason Height</A>";app/src/net/sourceforge/squirrel_sql/client/gui/WindowManager.java;60-76;0.44996501049685095
+* TODO: finish i18n;app/src/net/sourceforge/squirrel_sql/client/Application.java;03/mai;0.3568151776689215
+TODO : This test passes on Windows but fails on Linux with a;test/src/net/sourceforge/squirrel_sql/fw/util/FileTest.java;666;0.19570795428038254
+TODO: Put in all the property accessors;fw/src/net/sourceforge/squirrel_sql/fw/sql/DataTypeInfo.java;20;0.16771635176113833
+This is a work-around for what looks like a bug to me - it is a syntax error to qualify with the;fw/src/net/sourceforge/squirrel_sql/fw/dialects/PostgreSQLDialectExt.java;815;0.16771635176113833
+"* A dialect delegate for the TimesTen database.  * TODO: This dialect is not yet complete.  Need to provide implementations wherever ""Not yet implemented""  * appears.";fw/src/net/sourceforge/squirrel_sql/fw/dialects/TimesTenDialectExt.java;34-38;0.16771635176113833
+"* A dialect delegate for the Sun Microsystems HADB (High-Availability) database.  * TODO: This dialect is not yet complete.  Need to provide implementations wherever ""Not yet implemented""  * appears.  *   * @author manningr";fw/src/net/sourceforge/squirrel_sql/fw/dialects/HADBDialectExt.java;34-40;0.1663167716351761
+"* A dialect delegate for the Axion database.    * TODO: This dialect is not yet complete.  Need to provide implementations wherever ""Not yet implemented""  * appears.";fw/src/net/sourceforge/squirrel_sql/fw/dialects/AxionDialectExt.java;34-38;0.15465360391882435
+TODO: Temporary until we sort out a better way to do guido's fix;test/src/net/sourceforge/squirrel_sql/client/session/SessionTest.java;160;0.11173314672264988
+TODO: Temporary until we sort out a better way to do guido's fix;test/src/net/sourceforge/squirrel_sql/client/session/SessionTest.java;165;0.11173314672264988
+"* TODO: Get rid of this class.  * This combobox contains all the columns in an SQL table.  *  * @author <A HREF=""mailto:colbell@users.sourceforge.net"">Colin Bell</A>";plugins/mysql/src/net/sourceforge/squirrel_sql/plugins/mysql/gui/ColumnsComboBox.java;21-26;0.11173314672264988
+* TODO: JavaDoc  *   * @author Colin Bell;app/src/net/sourceforge/squirrel_sql/client/session/mainpanel/SQLHistoryComboBoxModel.java;29-33;0.0907394448332167
+TODO: RENAME to DataSetViewerPropertyDestination;fw/src/net/sourceforge/squirrel_sql/fw/datasetviewer/DataSetViewerPropertyPanel.java;25;0.06741310940051318
+using MockObjects, this is problematic since there are many;test/mockobjects/net/sourceforge/squirrel_sql/client/session/MockSession.java;126;0.05574994168416142
+TODO: check to be sure that the source and destination schemas are;plugins/dbcopy/src/net/sourceforge/squirrel_sql/plugins/dbcopy/actions/PasteTableAction.java;206;0.05574994168416142
+Hack to deal with Sybase's sys tables;plugins/dbcopy/test/net/sourceforge/squirrel_sql/plugins/dbcopy/MockSessionInfoProvider.java;148;0.05574994168416142
+a great work-around. I filed a bug report on the mailing list,;fw/src/net/sourceforge/squirrel_sql/fw/dialects/McKoiDialectExt.java;77;0.05574994168416142
+// called so we've used a workaround. The workaround doesn't work in;app/src/net/sourceforge/squirrel_sql/client/gui/db/BaseListInternalFrame.java;221;0.05574994168416142
+We know this fails - Bug# 1700093;test/src/net/sourceforge/squirrel_sql/fw/codereformat/CodeReformatorTest.java;70;0.0417541404245393
+sun implementation. Why on earth they couldnt formalise the tree;plugins/oracle/src/net/sourceforge/squirrel_sql/plugins/oracle/explainplan/ExplainPlanExecuter.java;321;0.0370888733379986
+"* TODO: Move all code other than for window creation up to AliasWindowManager  * Factory to handle creation of maintenance sheets for SQL Alias objects.  *  * @author <A HREF=""mailto:colbell@users.sourceforge.net"">Colin Bell</A>";app/src/net/sourceforge/squirrel_sql/client/gui/db/AliasWindowFactory.java;37-42;0.0370888733379986
+* Sorts the specified destInfos array based on the order of the sourceInfos      * array.  Not a very efficient algorthim, but it gets the job done.      * TODO: rewrite this using Collections sorting capability.      *       * @param sourceInfos      * @param destInfos      * @param sourceTableName      * @param destTableName      * @return a re-ordered version of the specified destInfos array      * @throws MappingException if the arrays differ in length or column names.;plugins/dbcopy/src/net/sourceforge/squirrel_sql/plugins/dbcopy/CopyExecutor.java;675-686;0.0370888733379986
+TODO: Need to add storageOptions to the add index dialog;fw/src/net/sourceforge/squirrel_sql/fw/dialects/SybaseDialectExt.java;621;0.0324236062514579
+* TODO: Clean this mess up!!!! Load plugins. Load all plugin jars into class loader.;app/src/net/sourceforge/squirrel_sql/client/plugin/PluginManager.java;396-398;0.030090972708187544
+* Set the password for this alias.  *  * @param password The new password.  *  * @throws ValidationException  * TODO: What conditions?;fw/src/net/sourceforge/squirrel_sql/fw/sql/ISQLAlias.java;81-88;0.030090972708187544
+TODO: Once we're happy that JFCUtilities is no longer required;fw/src/net/sourceforge/squirrel_sql/fw/gui/BasePopupMenu.java;27;0.02775833916491719
+TODO: Hard coded -. JDBC/ODBC bridge JDK1.4;fw/src/net/sourceforge/squirrel_sql/fw/datasetviewer/cellcomponent/CellComponentFactory.java;1028;0.02775833916491719
+TODO: Decide whether this should be a bound property or not.;fw/src/net/sourceforge/squirrel_sql/fw/sql/SQLDriver.java;336;0.02775833916491719
+Setup preferences to make jGoodies LAF look better.;plugins/laf/src/net/sourceforge/squirrel_sql/plugins/laf/LAFPlugin.java;212;0.02775833916491719
+"* TODO: Move all code other than for window creation up to AliasWindowManager  * Factory to handle creation of maintenance sheets for SQL Driver objects.  *  * @author <A HREF=""mailto:colbell@users.sourceforge.net"">Colin Bell</A>";app/src/net/sourceforge/squirrel_sql/client/gui/db/DriverWindowFactory.java;38-43;0.02775833916491719
+"* Generates the qualified name (for example, ""SCHEMA.SIMPLENAME"").  This is highly database specific and     * should probably be moved into the dialects.     *        * @TODO Break out the dialect-specific logic into the dialects.  Allow for the default parts of the      * algorithm below to be used when a dialect is unavailable.       *        * @param md     * @return";fw/src/net/sourceforge/squirrel_sql/fw/sql/DatabaseObjectInfo.java;168-177;0.02775833916491719
+* Called when app shutdown.  * TODO: Put throws clause back in;app/src/net/sourceforge/squirrel_sql/client/plugin/IPlugin.java;50-53;0.02775833916491719
+why there is no isGenericDialect - it would always return true if there was one, making it useless.;fw/src/net/sourceforge/squirrel_sql/fw/dialects/DialectFactory.java;348;0.022160018661068346
+* SQLFilterAction.java  *  * Created on March 22, 2003, 10:55 AM  *  * Adapted from SessionPropertiesAction.java by Colin Bell.  *  * TODO: CHange name to ContentsTabFilterAction;app/src/net/sourceforge/squirrel_sql/client/session/action/SQLFilterAction.java;35-43;0.021926755306741312
+"message handler. TODO: This is a pain. PostgreSQL sends ""raise";app/src/net/sourceforge/squirrel_sql/client/session/SQLExecuterTask.java;562;0.018427804991835783
+BAD - Converting a URL to a file this way is problematic when the file path contains spaces;test/adhoc/test/FileUriTest.java;45;0.018427804991835783
+* TODO: Move this to IOUtilities Extracts the specified zip file to the specified output directory.  *   * @param zipFile  * @param outputDirectory  * @throws IOException;app/src/net/sourceforge/squirrel_sql/client/update/UpdateUtilImpl.java;776-782;0.018427804991835783
+"* This <CODE>ICommand</CODE> displays a dialog box that allows the user to  * enter a 'where' clause or an 'order by' clause used when getting data via  * the 'Contents' tab.  *  * @author <A HREF=""mailto:mjhammel@users.sourceforge.net"">Maury Hammel</A>  *  * TODO: Change name to ContentsTabFilterCommand";app/src/net/sourceforge/squirrel_sql/client/session/action/SQLFilterCommand.java;29-37;0.018427804991835783
+for now.  See the TODO in the MySQLDialect for getCreateIndexSQL.;test/external/net/sourceforge/squirrel_sql/fw/dialects/DialectExternalTest.java;1524;0.01609517144856543
+TODO: This is a nasty quick hack. Needs an API to do this.;app/src/net/sourceforge/squirrel_sql/client/gui/mainframe/MainFrameMenuBar.java;526;0.013762537905295079
+TODO: set the total for the progress bar.;plugins/dbcopy/src/net/sourceforge/squirrel_sql/plugins/dbcopy/CopyProgressMonitor.java;467;0.013762537905295079
+TODO: Hard coded -. JDBC/ODBC bridge JDK1.4;fw/src/net/sourceforge/squirrel_sql/fw/sql/ResultSetReader.java;577;0.013762537905295079
+TODO: pass in a message handler so user gets error msgs.;app/src/net/sourceforge/squirrel_sql/client/Application.java;736;0.012207448876448177
+TODO: ON [PRIMARY];plugins/mssql/src/net/sourceforge/squirrel_sql/plugins/mssql/util/MssqlIntrospector.java;772;0.011585413264909413
+Total Hack! Type OTHER(1111) can be other types as well?;fw/src/net/sourceforge/squirrel_sql/fw/dialects/OracleDialectExt.java;82;0.009097270818754374
+TODO: should the constraint name simply be the column name or something more like a constraint;fw/src/net/sourceforge/squirrel_sql/fw/dialects/DB2DialectExt.java;290;0.009097270818754374
+TODO: create the child index ST;fw/src/net/sourceforge/squirrel_sql/fw/dialects/SybaseDialectExt.java;546;0.009097270818754374
+TODO: - Col - Add method to Databasemetadata that returns array;app/src/net/sourceforge/squirrel_sql/client/session/mainpanel/objecttree/tabs/table/ContentsTab.java;222;0.009097270818754374
+the new function. THis way all the kludges are kept in one place.;app/src/net/sourceforge/squirrel_sql/client/session/mainpanel/objecttree/tabs/table/ContentsTab.java;224;0.009097270818754374
+of objects for getBestRowIdentifier. For PostgreSQL put this kludge in;app/src/net/sourceforge/squirrel_sql/client/session/mainpanel/objecttree/tabs/table/ContentsTab.java;223;0.009097270818754374
+KLUDGE!!!!!!;app/src/net/sourceforge/squirrel_sql/client/session/mainpanel/objecttree/tabs/table/ContentsTab.java;226;0.009097270818754374
+KLUDGE:;app/src/net/sourceforge/squirrel_sql/client/session/mainpanel/objecttree/tabs/table/ContentsTab.java;350;0.009097270818754374
+implemented.  This kludge hardcodes the knowledge that specific;app/src/net/sourceforge/squirrel_sql/client/session/mainpanel/objecttree/tabs/table/ContentsTab.java;230;0.009097270818754374
+TODO?? ColumnDisplayDefinition should also have the Type (String, Date,;fw/src/net/sourceforge/squirrel_sql/fw/datasetviewer/ResultSetDataSet.java;249;0.008319726304330923
+TODO: figure out a more reliable way to handle OTHER type;plugins/dbcopy/src/net/sourceforge/squirrel_sql/plugins/dbcopy/util/DBUtil.java;960;0.004432003732213669
+TODO: consider filing a bug report against Axion build M3.;fw/src/net/sourceforge/squirrel_sql/fw/dialects/AxionDialectExt.java;56;0.004432003732213669
+TODO Probably want to allow the user to set these sequence properties ??;fw/src/net/sourceforge/squirrel_sql/fw/dialects/DialectUtils.java;2800;0.004432003732213669
+"TODO: if the use checks ""export entire table"" and doesn't select all,";fw/src/net/sourceforge/squirrel_sql/fw/gui/action/TableExportCsvCommand.java;113;0.002876914703366768
+TODO: FILLFACTOR, ON [PRIMARY], etc.;plugins/mssql/src/net/sourceforge/squirrel_sql/plugins/mssql/util/MssqlIntrospector.java;731;0.002332633543270352
+TODO: Perhaps re-introduce the REAL type, but use the new;fw/src/net/sourceforge/squirrel_sql/fw/dialects/AxionDialectExt.java;78;0.002099370188943317
+TODO: Delete Me;app/src/net/sourceforge/squirrel_sql/client/session/SessionFactory.java;20;0.002099370188943317
+TODO;test/src/net/sourceforge/squirrel_sql/fw/dialects/DialectFactoryTest.java;72;0.002099370188943317
+TODO;test/src/net/sourceforge/squirrel_sql/fw/sql/ResultSetColumnReaderTest.java;84;0.002099370188943317
+TODO;test/src/net/sourceforge/squirrel_sql/plugins/mssql/TableConstraintsTest.java;61;0.002099370188943317
+Can someone please tell me why Axion expects big integers to be limited;fw/src/net/sourceforge/squirrel_sql/fw/dialects/AxionDialectExt.java;52;0.002099370188943317
+* TODO: hookup with Interbase spec and adjust these as necessary.;fw/src/net/sourceforge/squirrel_sql/fw/dialects/InterbaseDialectExt.java;45-47;0.002099370188943317
+TODO: Setup title correctly.;app/src/net/sourceforge/squirrel_sql/client/session/properties/SessionPropertiesSheet.java;194;0.0013218256745198664
+way to fix this problem, but it hides the problem for now.  A better;app/src/net/sourceforge/squirrel_sql/client/session/mainpanel/objecttree/ObjectTreePanel.java;1093;4,67E+12
+TODO: Remove this when Frontbase bug gets fixed.;test/external/net/sourceforge/squirrel_sql/fw/dialects/DialectExternalTest.java;1588;4,67E+12
+This is to fix a problem with the JDK (up to version 1.3);app/src/net/sourceforge/squirrel_sql/client/gui/session/ObjectTreeInternalFrame.java;117;4,67E+12
+This is to fix a problem with the JDK (up to version 1.3);app/src/net/sourceforge/squirrel_sql/client/gui/session/SQLInternalFrame.java;79;4,67E+12
+go away since the user may be able to fix the problem;fw/src/net/sourceforge/squirrel_sql/fw/datasetviewer/RowDataInputFrame.java;171;4,67E+12
+"Bug 2531193: Oracle create table script the ""ON UPDATE"" is wrong";fw/src/net/sourceforge/squirrel_sql/fw/dialects/DialectUtils.java;2627;4,67E+12
+alt may not work. This code is a workaround. See bug report;app/src/net/sourceforge/squirrel_sql/client/gui/mainframe/MainFrame.java;402;4,67E+12
+"﻿""work-around for bug which means we must use """"dbo"""" for schema""";fw/src/net/sourceforge/squirrel_sql/fw/sql/SQLDatabaseMetaData.java;85;2,33E+12
+without limiting it, and do that read if needed.  If there is a problem during the;fw/src/net/sourceforge/squirrel_sql/fw/datasetviewer/MyTableModel.java;57;2,33E+12
+TODO: When message are can have some text in red (error);plugins/sqlval/src/net/sourceforge/squirrel_sql/plugins/sqlval/cmd/ValidateSQLCommand.java;98;2,33E+12
+TODO: maybe instead of throwing an exception, we could ask;plugins/dbcopy/src/net/sourceforge/squirrel_sql/plugins/dbcopy/util/DBUtil.java;1401;2,33E+12
+TODO: Determine the best way to derive the filesize and checksum of the plugin zip that was last;app/src/net/sourceforge/squirrel_sql/client/update/gui/installer/ArtifactInstallerImpl.java;458;2,33E+12
+TODO: Can HttpClient be used to get the byte-size of release.xml so we can perform this check?;app/src/net/sourceforge/squirrel_sql/client/update/UpdateUtilImpl.java;1050;2,33E+12
+TODO Maybe we should have a checkbox to allow the user to toggle;app/src/net/sourceforge/squirrel_sql/client/gui/db/ColumnDetailDialog.java;256;2,33E+12
+though this is a hack, it doesn't seem to negatively impact;plugins/oracle/src/net/sourceforge/squirrel_sql/plugins/oracle/OraclePlugin.java;824;2,33E+12
+this problem until I can determine why the DatabaseObjectInfoTab;app/src/net/sourceforge/squirrel_sql/client/session/mainpanel/objecttree/ObjectTreeTabbedPane.java;121;2,33E+12
+This is due to a known bug in;plugins/syntax/src/net/sourceforge/squirrel_sql/plugins/syntax/SyntaxPreferencesPanel.java;381;2,33E+12
+think of it, perhaps we shouldn't be computing the checksum of *any* existing files, why don't;app/src/net/sourceforge/squirrel_sql/client/update/gui/installer/ArtifactInstallerImpl.java;460;2,33E+12
+The following ugly conversion from text to Byte is necessary because;fw/src/net/sourceforge/squirrel_sql/fw/datasetviewer/cellcomponent/BinaryDisplayConverter.java;182;2,33E+12
+The following is a work-around for the problem on Mac OS X where;app/src/net/sourceforge/squirrel_sql/client/Application.java;1156;2,33E+12
+Setting the starting position is ugly.  I just picked a point.;fw/src/net/sourceforge/squirrel_sql/fw/datasetviewer/DataSetViewerEditableTablePanel.java;375;2,33E+12
+same hack as above.;plugins/dbcopy/src/net/sourceforge/squirrel_sql/plugins/dbcopy/ColTypeMapper.java;172;2,33E+12
+only function easilly available from the Arrays class);fw/src/net/sourceforge/squirrel_sql/fw/datasetviewer/MyTableModel.java;197;2,33E+12
+OK, this is a hack.  Currently, when precision == scale, I have;plugins/dbcopy/src/net/sourceforge/squirrel_sql/plugins/dbcopy/ColTypeMapper.java;148;2,33E+12
+is at best broken and unusable. Still, we do what the JDBC;plugins/dbcopy/src/net/sourceforge/squirrel_sql/plugins/dbcopy/util/DBUtil.java;805;2,33E+12
+If you think your selected Look and Feel slows down SQuirreL switch to a Metal or Plastic Look and Feel.];plugins/laf/src/net/sourceforge/squirrel_sql/plugins/laf/LAFPreferencesTab.java;179;2,33E+12
+Hack!!! hopefully the FK name will always be the last token!;plugins/refactoring/src/net/sourceforge/squirrel_sql/plugins/refactoring/commands/DropTablesCommand.java;403;2,33E+12
+HACK: some dbs (like Frontbase) don't support boolean;plugins/dbcopy/src/net/sourceforge/squirrel_sql/plugins/dbcopy/util/DBUtil.java;827;2,33E+12
+Hack to deal with Ingres IIE* meta tables.;plugins/dbcopy/test/net/sourceforge/squirrel_sql/plugins/dbcopy/MockSessionInfoProvider.java;132;2,33E+12
+Hack to deal with Firebird's RDB meta tables.;plugins/dbcopy/test/net/sourceforge/squirrel_sql/plugins/dbcopy/MockSessionInfoProvider.java;144;2,33E+12
+Hack to deal with Axion AXION_* tables.;plugins/dbcopy/test/net/sourceforge/squirrel_sql/plugins/dbcopy/MockSessionInfoProvider.java;138;2,33E+12
+guard against something really stupid;fw/src/net/sourceforge/squirrel_sql/fw/datasetviewer/PopupEditableIOPanel.java;440;2,33E+12
+Fix the case according to what the database tells us.;plugins/dbcopy/src/net/sourceforge/squirrel_sql/plugins/dbcopy/util/DBUtil.java;1790;2,33E+12
+Fix the case according to what the database tells us.;plugins/dbdiff/src/net/sourceforge/squirrel_sql/plugins/dbdiff/util/DBUtil.java;692;2,33E+12
+Evil hack to split the vacuum output a little.;plugins/postgres/src/net/sourceforge/squirrel_sql/plugins/postgres/commands/VacuumDatabaseCommand.java;139;2,33E+12
+do not dispose of this panel if there is a problem;app/src/net/sourceforge/squirrel_sql/client/session/properties/EditWhereColsSheet.java;192;2,33E+12
+be the best way to get around the problem.;app/src/net/sourceforge/squirrel_sql/client/session/mainpanel/objecttree/tabs/table/ContentsTab.java;252;2,33E+12
+// used earlier. We use this little (ugly) trick to keep users being confused by;app/src/net/sourceforge/squirrel_sql/client/session/properties/SessionProperties.java;812;2,33E+12
+* TODO: When 1.4 is the earliest version supported, add the following line: *setSurrendersFocusOnKeystroke(true), * This should help handle some problems with navigation using tab & return * to move through cells.;fw/src/net/sourceforge/squirrel_sql/fw/datasetviewer/DataSetViewerTablePanel.java;200-205;2,33E+12
+* TODO: This should not be public. Check all usages of it  * and put appropriate methods in an API object.;app/src/net/sourceforge/squirrel_sql/client/gui/session/SessionPanel.java;215-218;2,33E+12
+"* TODO: this is a bug in the code at the moment.  If table ""test"" isn't qualified then this test passes -   * so we need to beef up qualified tablename handling.";test/src/net/sourceforge/squirrel_sql/client/session/EditableSqlCheckTest.java;63-66;2,33E+12
+Why null??;app/src/net/sourceforge/squirrel_sql/client/session/mainpanel/ResultTab.java;266;0.0
+very long lines better than the;plugins/syntax/src/net/sourceforge/squirrel_sql/plugins/syntax/SyntaxPreferencesPanel.java;379;0.0
+TODO: Write the Ingres plugin, then rip this out.;plugins/refactoring/src/net/sourceforge/squirrel_sql/plugins/refactoring/RefactoringPlugin.java;332;0.0
+TODO: Why shouldn't we call registerSQLDriver here? RMM 20070401;fw/src/net/sourceforge/squirrel_sql/fw/sql/SQLDriverManager.java;124;0.0
+TODO: When JDK1.4 is the earliest JDK supported;fw/src/net/sourceforge/squirrel_sql/fw/sql/ResultSetColumnReader.java;96;0.0
+TODO: What about these;plugins/laf/src/net/sourceforge/squirrel_sql/plugins/laf/LAFRegister.java;60;0.0
+TODO: verify this;fw/src/net/sourceforge/squirrel_sql/fw/dialects/InterbaseDialectExt.java;381;0.0
+TODO: use the destination database type to derive a format;plugins/dbcopy/src/net/sourceforge/squirrel_sql/plugins/dbcopy/util/DBUtil.java;1012;0.0
+TODO: use the destination database type to derive a format;plugins/dbcopy/src/net/sourceforge/squirrel_sql/plugins/dbcopy/util/DBUtil.java;1022;0.0
+TODO: use the destination database type to derive a;plugins/dbcopy/src/net/sourceforge/squirrel_sql/plugins/dbcopy/util/DBUtil.java;880;0.0
+TODO: Tooltips;plugins/dataimport/src/net/sourceforge/squirrel_sql/plugins/dataimport/importer/csv/CSVSettingsPanel.java;71;0.0
+TODO: This won't work when the column has values with quotes in them.;plugins/refactoring/src/net/sourceforge/squirrel_sql/plugins/refactoring/commands/AddLookupTableCommand.java;231;0.0
+TODO: This won't work when the column has values with quotes in them.;plugins/refactoring/src/net/sourceforge/squirrel_sql/plugins/refactoring/commands/AddLookupTableCommand.java;315;0.0
+TODO: This should be handled with an Iterator!!!;fw/src/net/sourceforge/squirrel_sql/fw/datasetviewer/JavabeanDataSet.java;162;0.0
+TODO: This should be handled with an Iterator;fw/src/net/sourceforge/squirrel_sql/fw/datasetviewer/ResultSetDataSet.java;219;0.0
+TODO: This should be done in the dialect's getTableDropSQL method for a database specific;plugins/refactoring/src/net/sourceforge/squirrel_sql/plugins/refactoring/commands/DropTablesCommand.java;146;0.0
+TODO: This is a must if sorting is done in a thread! ??;fw/src/net/sourceforge/squirrel_sql/fw/gui/SortableTableModel.java;242;0.0
+TODO: These 2 should be handled with an Iterator.;fw/src/net/sourceforge/squirrel_sql/fw/datasetviewer/ResultSetDataSet.java;40;0.0
+TODO: These 2 should be handled with an Iterator!!!;fw/src/net/sourceforge/squirrel_sql/fw/datasetviewer/JavabeanDataSet.java;50;0.0
+TODO: tell the user that the selected destination schema is;plugins/dbdiff/src/net/sourceforge/squirrel_sql/plugins/dbdiff/actions/CompareAction.java;75;0.0
+TODO: tell the user that the selected destination schema is;plugins/dbcopy/src/net/sourceforge/squirrel_sql/plugins/dbcopy/actions/PasteTableAction.java;136;0.0
+"TODO: subclass these hibernate dialects to provide the ""canPasteTo""";fw/src/net/sourceforge/squirrel_sql/fw/dialects/DialectFactory.java;59;0.0
+TODO: Spring-inject when this class is a Spring bean;app/src/net/sourceforge/squirrel_sql/client/update/UpdateUtilImpl.java;114;0.0
+TODO: Spring-inject when this class is a Spring bean;app/src/net/sourceforge/squirrel_sql/client/update/UpdateUtilImpl.java;122;0.0
+TODO: Spring-inject when this class is a Spring bean;app/src/net/sourceforge/squirrel_sql/client/update/UpdateUtilImpl.java;130;0.0
+TODO: Spring-inject when this class is a Spring bean;app/src/net/sourceforge/squirrel_sql/client/update/UpdateUtilImpl.java;138;0.0
+TODO: SPATIAL and FULLTEXT indexes require a MyISAM engine for the table. Is there a way;fw/src/net/sourceforge/squirrel_sql/fw/dialects/MySQLDialectExt.java;663;0.0
+TODO: sort the list.;plugins/mssql/src/net/sourceforge/squirrel_sql/plugins/mssql/gui/GenerateSqlDialog.java;397;0.0
+TODO: Should we change the mode from editable to;app/src/net/sourceforge/squirrel_sql/client/session/mainpanel/objecttree/tabs/table/ContentsTab.java;311;0.0
+TODO: should I be adding quotes if user wants identifiers quoted??;fw/src/net/sourceforge/squirrel_sql/fw/dialects/InformixDialectExt.java;1178;0.0
+TODO: Should have session listeners instead of these calls.;app/src/net/sourceforge/squirrel_sql/client/session/SessionManager.java;279;0.0
+"TODO: should also make sure that each of the columns is made ""NOT NULL""";fw/src/net/sourceforge/squirrel_sql/fw/dialects/InformixDialectExt.java;241;0.0
+TODO: Rename to IObjectTreeNodeExpander;app/src/net/sourceforge/squirrel_sql/client/session/mainpanel/objecttree/INodeExpander.java;24;0.0
+TODO: Rename this to getTableType.;fw/src/net/sourceforge/squirrel_sql/fw/sql/TableInfo.java;77;0.0
+TODO: Refresh;plugins/mysql/src/net/sourceforge/squirrel_sql/plugins/mysql/action/AlterTableAction.java;67;0.0
+TODO: Put throws clause back in;app/src/net/sourceforge/squirrel_sql/client/plugin/DefaultPlugin.java;78;0.0
+"TODO: Perhaps we can tell the user when they click ""Copy Table""";plugins/dbcopy/src/net/sourceforge/squirrel_sql/plugins/dbcopy/util/DBUtil.java;1460;0.0
+TODO: new feature could be to examine table list for FK's;plugins/dbcopy/src/net/sourceforge/squirrel_sql/plugins/dbcopy/CopyExecutor.java;207;0.0
+TODO: Need to enhance the index dialog to allow specifying storage option. For now just accept the;fw/src/net/sourceforge/squirrel_sql/fw/dialects/MySQLDialectExt.java;701;0.0
+TODO: Need to define a better approach to getting dialects.;plugins/oracle/src/net/sourceforge/squirrel_sql/plugins/oracle/tab/OracleSourceTab.java;109;0.0
+TODO: Need to allow user to specify this;fw/src/net/sourceforge/squirrel_sql/fw/dialects/IngresDialectExt.java;178;0.0
+TODO: Maybe someday we could inform the user that the imported;plugins/dbcopy/src/net/sourceforge/squirrel_sql/plugins/dbcopy/util/DBUtil.java;208;0.0
+TODO: Maybe prompt the user to ask to append the records,;plugins/dbcopy/src/net/sourceforge/squirrel_sql/plugins/dbcopy/CopyProgressMonitor.java;441;0.0
+TODO: Make properties file Application.properties so we can use class;app/src/net/sourceforge/squirrel_sql/client/Application.java;215;0.0
+TODO: Make Parameter implement SQLItem interface which has a getString;plugins/sqlbookmark/src/net/sourceforge/squirrel_sql/plugins/sqlbookmark/RunBookmarkCommand.java;138;0.0
+TODO: just noticed that MySQL 5.0 supports a multi-bit BIT;plugins/dbcopy/src/net/sourceforge/squirrel_sql/plugins/dbcopy/util/DBUtil.java;808;0.0
+TODO: is this right???;plugins/dbcopy/src/net/sourceforge/squirrel_sql/plugins/dbcopy/util/DBUtil.java;868;0.0
+TODO: is this right???;plugins/dbcopy/src/net/sourceforge/squirrel_sql/plugins/dbcopy/util/DBUtil.java;895;0.0
+TODO: is this right???;plugins/dbcopy/src/net/sourceforge/squirrel_sql/plugins/dbcopy/util/DBUtil.java;948;0.0
+TODO: Is giving a FK constraint a name universally supported;plugins/dbcopy/src/net/sourceforge/squirrel_sql/plugins/dbcopy/util/DBUtil.java;199;0.0
+TODO: Implement this better;plugins/dataimport/src/net/sourceforge/squirrel_sql/plugins/dataimport/action/ImportTableDataCommand.java;166;0.0
+TODO: i18n;fw/src/net/sourceforge/squirrel_sql/fw/util/Utilities.java;279;0.0
+TODO: How to let the user customize this??;plugins/oracle/src/net/sourceforge/squirrel_sql/plugins/oracle/tab/OracleSourceTab.java;115;0.0
+TODO: Hard coded -. JDBC/ODBC bridge JDK1.4;fw/src/net/sourceforge/squirrel_sql/fw/sql/ResultSetReader.java;313;0.0
+TODO: Figure out why the selection of the root node in the object tree;app/src/net/sourceforge/squirrel_sql/client/session/mainpanel/objecttree/ObjectTreePanel.java;1088;0.0
+TODO: figure out why bind variables aren't working;fw/src/net/sourceforge/squirrel_sql/fw/dialects/DB2DialectExt.java;1019;0.0
+TODO: figure out how to get then name of the table that the trigger;plugins/sybase/src/net/sourceforge/squirrel_sql/plugins/SybaseASE/tab/TriggerSourceTab.java;48;0.0
+TODO: Do we need this one. */;plugins/syntax/src/net/sourceforge/squirrel_sql/plugins/syntax/oster/OsterTextControl.java;358;0.0
+TODO: Do we need this one. */;plugins/syntax/src/net/sourceforge/squirrel_sql/plugins/syntax/oster/OsterTextControl.java;368;0.0
+TODO: Do we need this one. */;plugins/syntax/src/net/sourceforge/squirrel_sql/plugins/syntax/oster/OsterTextControl.java;378;0.0
+TODO: Do we need this one. */;plugins/syntax/src/net/sourceforge/squirrel_sql/plugins/syntax/oster/OsterTextControl.java;388;0.0
+TODO: Do we need this one. */;plugins/syntax/src/net/sourceforge/squirrel_sql/plugins/syntax/oster/OsterTextControl.java;398;0.0
+TODO: Do we need this one. */;plugins/syntax/src/net/sourceforge/squirrel_sql/plugins/syntax/oster/OsterTextControl.java;408;0.0
+TODO: Do we need this one. */;plugins/syntax/src/net/sourceforge/squirrel_sql/plugins/syntax/oster/OsterTextControl.java;418;0.0
+TODO: Do we need this one. */;plugins/syntax/src/net/sourceforge/squirrel_sql/plugins/syntax/oster/OsterTextControl.java;488;0.0
+TODO: Do we need this one. */;plugins/syntax/src/net/sourceforge/squirrel_sql/plugins/syntax/oster/OsterTextControl.java;498;0.0
+TODO: Delete ME;fw/src/net/sourceforge/squirrel_sql/fw/persist/IPersistable.java;20;0.0
+TODO: columns, tables;plugins/syntax/src/net/sourceforge/squirrel_sql/plugins/syntax/prefspanel/StylesList.java;67;0.0
+TODO: Bizarre that I couldn't find a valid SQL to drop an index.;fw/src/net/sourceforge/squirrel_sql/fw/dialects/DaffodilDialectExt.java;742;0.0
+"TODO: ask the user if they want to ""undo"" the changes that the";plugins/dbcopy/src/net/sourceforge/squirrel_sql/plugins/dbcopy/CopyProgressMonitor.java;260;0.0
+TODO: Are there unique indexes in daffodil ?;fw/src/net/sourceforge/squirrel_sql/fw/dialects/DaffodilDialectExt.java;520;0.0
+TODO: Allow the user to specify the sequence name for dialects that don't natively support;plugins/refactoring/src/net/sourceforge/squirrel_sql/plugins/refactoring/commands/AddAutoIncrementCommand.java;109;0.0
+TODO: allow the user to specify ignore case or preserve case.;plugins/dbdiff/src/net/sourceforge/squirrel_sql/plugins/dbdiff/DiffExecutor.java;209;0.0
+TODO: allow the user to choose the name of the index that is created.;fw/src/net/sourceforge/squirrel_sql/fw/dialects/MySQLDialectExt.java;617;0.0
+TODO: allow the user to choose the index type that is created.;fw/src/net/sourceforge/squirrel_sql/fw/dialects/MySQLDialectExt.java;623;0.0
+TODO: add support for plugin-registered data-type preferences panels;fw/src/net/sourceforge/squirrel_sql/fw/datasetviewer/cellcomponent/CellComponentFactory.java;802;0.0
+TODO: ? Dialog Handling on Cancelled ?;plugins/postgres/src/net/sourceforge/squirrel_sql/plugins/postgres/commands/handler/MessageSQLExecuterHandler.java;92;0.0
+TODO: setFont(style.createStyledFont(getFont())),;plugins/syntax/src/net/sourceforge/squirrel_sql/plugins/syntax/prefspanel/StylesList.java;163;0.0
+TODO verify this is correct;fw/src/net/sourceforge/squirrel_sql/fw/dialects/HSQLDialectExt.java;980;0.0
+TODO need to implement or change the message;fw/src/net/sourceforge/squirrel_sql/fw/dialects/InterbaseDialectExt.java;440;0.0
+TODO Need to have a generic hibernate dialect extend this to provide the types.;fw/src/net/sourceforge/squirrel_sql/fw/dialects/CommonHibernateDialect.java;593;0.0
+TODO move to new standard location and rewrite test to be less static;test/jfctests/net/sourceforge/squirrel_sql/plugins/oracle/gui/TestOraclePluginPreferencesPanel.java;43;0.0
+TODO I18N;plugins/sqlscript/src/net/sourceforge/squirrel_sql/plugins/sqlscript/table_script/CreateSelectScriptCommand.java;80;0.0
+TODO;test/src/net/sourceforge/squirrel_sql/fw/dialects/DialectFactoryTest.java;293;0.0
+TODO;test/src/net/sourceforge/squirrel_sql/fw/dialects/DialectFactoryTest.java;300;0.0
+TODO;test/src/net/sourceforge/squirrel_sql/fw/dialects/DialectFactoryTest.java;307;0.0
+TODO;test/src/net/sourceforge/squirrel_sql/fw/dialects/DialectFactoryTest.java;314;0.0
+TODO;test/src/net/sourceforge/squirrel_sql/fw/dialects/DialectFactoryTest.java;336;0.0
+TODO;test/src/net/sourceforge/squirrel_sql/fw/dialects/DialectFactoryTest.java;343;0.0
+TODO;plugins/isqlj/src/org/rege/isqlj/squirrel/ISqlJPlugin.java;78;0.0
+TODO;plugins/isqlj/src/org/rege/isqlj/squirrel/ISqlJPlugin.java;84;0.0
+TODO;plugins/mssql/src/net/sourceforge/squirrel_sql/plugins/mssql/MssqlPlugin.java;514;0.0
+TODO;plugins/mssql/src/net/sourceforge/squirrel_sql/plugins/mssql/MssqlPlugin.java;520;0.0
+TODO;test/src/net/sourceforge/squirrel_sql/fw/sql/ResultSetColumnReaderTest.java;137;0.0
+TODO;test/src/net/sourceforge/squirrel_sql/fw/sql/ResultSetColumnReaderTest.java;238;0.0
+TODO;test/src/net/sourceforge/squirrel_sql/fw/sql/ResultSetColumnReaderTest.java;244;0.0
+TODO;test/src/net/sourceforge/squirrel_sql/fw/sql/ResultSetColumnReaderTest.java;250;0.0
+TODO;test/src/net/sourceforge/squirrel_sql/fw/sql/ResultSetColumnReaderTest.java;256;0.0
+TODO;test/src/net/sourceforge/squirrel_sql/fw/sql/ResultSetColumnReaderTest.java;262;0.0
+TODO;test/src/net/sourceforge/squirrel_sql/plugins/mssql/TableConstraintsTest.java;67;0.0
+TODO;test/src/net/sourceforge/squirrel_sql/plugins/mssql/TableConstraintsTest.java;73;0.0
+TODO;test/src/net/sourceforge/squirrel_sql/plugins/mssql/TableConstraintsTest.java;79;0.0
+TODO;plugins/userscript/src/net/sourceforge/squirrel_sql/plugins/userscript/UserScriptPlugin.java;212;0.0
+TODO;plugins/userscript/src/net/sourceforge/squirrel_sql/plugins/userscript/UserScriptPlugin.java;218;0.0
+The question is, why?;plugins/syntax/src/net/sourceforge/squirrel_sql/plugins/syntax/KeyManager.java;29;0.0
+That's why we can't use _sqlEntryPanelIdentifier;plugins/syntax/src/net/sourceforge/squirrel_sql/plugins/syntax/netbeans/NetbeansSQLEditorPane.java;168;0.0
+right of the selected tab is selected.  This is a work-around for;app/src/net/sourceforge/squirrel_sql/client/session/mainpanel/objecttree/ObjectTreeTabbedPane.java;120;0.0
+One may ask why we don't register the key strokes permanently.;plugins/syntax/src/net/sourceforge/squirrel_sql/plugins/syntax/KeyManager.java;25;0.0
+Need better test for Windows;test/src/net/sourceforge/squirrel_sql/fw/util/FileTest.java;1782;0.0
+Move any i18n files that are located in the core downloads dir to the i18n downloads dir. The spring;app/src/net/sourceforge/squirrel_sql/client/update/downloader/ArtifactDownloaderImpl.java;215;0.0
+maybe with Inner join better performance;plugins/refactoring/src/net/sourceforge/squirrel_sql/plugins/refactoring/commands/MergeTableCommand.java;278;0.0
+JASON: Make menu smarter. When second window for the same;app/src/net/sourceforge/squirrel_sql/client/gui/WindowManager.java;1056;0.0
+isEditableXXX() methods in this class is to say that the column;fw/src/net/sourceforge/squirrel_sql/fw/datasetviewer/cellcomponent/CellComponentFactory.java;617;0.0
+Inserts are not properly separated. We give up.;fw/src/net/sourceforge/squirrel_sql/fw/codereformat/CodeReformator.java;181;0.0
+I cannot think of any reason for doing anything;fw/src/net/sourceforge/squirrel_sql/fw/datasetviewer/PopupEditableIOPanel.java;853;0.0
+have been stopped from editing by the isEditableXXX methods),;fw/src/net/sourceforge/squirrel_sql/fw/datasetviewer/cellcomponent/CellComponentFactory.java;191;0.0
+extracted. Should we keep it around? How about using the current release.xml file ? Come to;app/src/net/sourceforge/squirrel_sql/client/update/gui/installer/ArtifactInstallerImpl.java;459;0.0
+classpath. So as a work-around, we simply ensure that they are where they should be anyway.;app/src/net/sourceforge/squirrel_sql/client/update/downloader/ArtifactDownloaderImpl.java;217;0.0
+better safe than sorry!;fw/src/net/sourceforge/squirrel_sql/fw/datasetviewer/CellImportExportInfoSaver.java;140;0.0
+better safe than sorry!;fw/src/net/sourceforge/squirrel_sql/fw/datasetviewer/CellImportExportInfoSaver.java;182;0.0
+better safe than sorry!;fw/src/net/sourceforge/squirrel_sql/fw/datasetviewer/CellImportExportInfoSaver.java;90;0.0
+because it would mean a lot more work on every single AWT;app/src/net/sourceforge/squirrel_sql/client/util/EventDispatchThreadHangMonitor.java;74;0.0
+an ObjectTree frame is created.  This is a really crappy and unreliable;app/src/net/sourceforge/squirrel_sql/client/session/mainpanel/objecttree/ObjectTreePanel.java;1092;0.0
+a directory). TODO: We should probably replace this test;test/src/net/sourceforge/squirrel_sql/fw/util/FileTest.java;454;0.0
+// TODO: Remove some time later;app/src/net/sourceforge/squirrel_sql/client/session/properties/SessionProperties.java;814;0.0
+* TODO: Work out why  * KLUDGE: For some reason, I am not able to get the sheet to  * size correctly. It always displays with a size that causes  * the sub-panels to have their scrollbars showing. Add a bit  * of an increase in the size of the panel so the scrollbars  * are not displayed.;app/src/net/sourceforge/squirrel_sql/client/session/properties/EditWhereColsSheet.java;130-137;0.0
+* TODO: This shouldn't be public. Its only been done for the JComplete  * plugin. At some stage this method will be returned to package visibility.;app/src/net/sourceforge/squirrel_sql/client/gui/session/SessionPanel.java;361-364;0.0
+* TODO: move to IOUtilities  *   * @see net.sourceforge.squirrel_sql.client.update.UpdateUtil#createZipFile(FileWrapper, FileWrapper[]);app/src/net/sourceforge/squirrel_sql/client/update/UpdateUtilImpl.java;723-727;0.0
+* TODO: Delete this class - unused;plugins/mysql/src/net/sourceforge/squirrel_sql/plugins/mysql/gui/AlterTablePanelBuilder.java;04/jun;0.0
+* TODO: Clean this mess up!!!! Load plugins. Load all plugin jars into class loader.;app/src/net/sourceforge/squirrel_sql/client/plugin/IPluginManager.java;94-96;0.0
+* the utility class that reads and writes release info from/to the release.xml file TODO: Spring-inject  * when this class is a Spring bean;app/src/net/sourceforge/squirrel_sql/client/update/UpdateUtilImpl.java;146-149;0.0
+* Save into these attributes the parameters of the last message being output.  * @todo In the near future: if more than one message shall be remembered, then these variables  * need to be replaced with a dynamic storage (ArrayList or similar).;app/src/net/sourceforge/squirrel_sql/client/session/MessagePanel.java;71-75;0.0
+"* For Oracle 10g we could say something like :  *  * ""where XMLSERIALIZE(CONTENT "" + _colDef.getLabel() +"") like '<value>'"" *  * This doesn't appear to work on Oracle 9i at the moment, so we will * avoid using this column in any where clause if the value is non-null, * which is what the superclass implementation does. *  * TODO: Find a way to do this for both versions or split this behavior * so that it works on 10g and is disabled on 9i.";plugins/oracle/src/net/sourceforge/squirrel_sql/plugins/oracle/types/OracleXmlTypeDataTypeComponent.java;113-124;0.0
+*      *      * Implement IDataSetUpdateableModel interface      * and IDataSetUpdateableTableModel interface      *      * TODO: THIS CODE WAS COPIED FROM ContentsTab.  IT SHOULD PROBABLY      * BE PUT INTO A COMMON LOCATION AND SHARED BY BOTH THIS      * CLASS AND ContentsTab.      *      *;app/src/net/sourceforge/squirrel_sql/client/session/SQLExecuterTask.java;632-643;0.0

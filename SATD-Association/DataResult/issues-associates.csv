@@ -1,0 +1,270 @@
+Type;Description;Class;Path;Line;Severity;Rework;Context
+641;"The return type of this method should be an interface such as ""Map"" rather than the implementation ""Hashtable"".";PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;511;MAJOR;10;1
+804;"Replace the synchronized class ""Hashtable"" by an unsynchronized one such as ""HashMap"".";PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;511;MAJOR;20;1
+804;"Replace the synchronized class ""Vector"" by an unsynchronized one such as ""ArrayList"" or ""LinkedList"".";PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;226;MAJOR;20;1
+641;"The type of the ""keys"" object should be an interface such as ""Map"" rather than the implementation ""Hashtable"".";PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;250;MAJOR;10;1
+641;"The type of the ""userProperties"" object should be an interface such as ""Map"" rather than the implementation ""Hashtable"".";PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;62;MAJOR;10;1
+804;"Replace the synchronized class ""StringBuffer"" by an unsynchronized one such as ""StringBuilder"".";PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;259;MAJOR;20;1
+641;"The return type of this method should be an interface such as ""Map"" rather than the implementation ""Hashtable"".";PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;491;MAJOR;10;1
+804;"Replace the synchronized class ""Hashtable"" by an unsynchronized one such as ""HashMap"".";PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;62;MAJOR;20;1
+683;This block of commented-out lines of code should be removed.;PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;596;MAJOR;60;1
+641;"The return type of this method should be an interface such as ""Map"" rather than the implementation ""Hashtable"".";PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;501;MAJOR;10;1
+641;"The return type of this method should be an interface such as ""Map"" rather than the implementation ""Hashtable"".";PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;482;MAJOR;10;1
+804;"Replace the synchronized class ""Vector"" by an unsynchronized one such as ""ArrayList"" or ""LinkedList"".";PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;255;MAJOR;20;1
+804;"Replace the synchronized class ""Vector"" by an unsynchronized one such as ""ArrayList"" or ""LinkedList"".";PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;572;MAJOR;20;1
+641;"The type of the ""inheritedProperties"" object should be an interface such as ""Map"" rather than the implementation ""Hashtable"".";PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;70;MAJOR;10;1
+804;"Replace the synchronized class ""Hashtable"" by an unsynchronized one such as ""HashMap"".";PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;70;MAJOR;20;1
+804;"Replace the synchronized class ""Hashtable"" by an unsynchronized one such as ""HashMap"".";PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;501;MAJOR;20;1
+804;"Replace the synchronized class ""Vector"" by an unsynchronized one such as ""ArrayList"" or ""LinkedList"".";PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;573;MAJOR;20;1
+649;"Introduce a new variable instead of reusing the parameter ""name"".";PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;194;MAJOR;5;1
+641;"The type of the ""properties"" object should be an interface such as ""Map"" rather than the implementation ""Hashtable"".";PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;54;MAJOR;10;1
+804;"Replace the synchronized class ""Hashtable"" by an unsynchronized one such as ""HashMap"".";PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;482;MAJOR;20;1
+804;"Replace the synchronized class ""Hashtable"" by an unsynchronized one such as ""HashMap"".";PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;472;MAJOR;20;1
+804;"Replace the synchronized class ""Hashtable"" by an unsynchronized one such as ""HashMap"".";PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;250;MAJOR;20;1
+804;"Replace the synchronized class ""Vector"" by an unsynchronized one such as ""ArrayList"" or ""LinkedList"".";PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;256;MAJOR;20;1
+804;"Replace the synchronized class ""Vector"" by an unsynchronized one such as ""ArrayList"" or ""LinkedList"".";PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;227;MAJOR;20;1
+804;"Replace the synchronized class ""Hashtable"" by an unsynchronized one such as ""HashMap"".";PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;491;MAJOR;20;1
+683;This block of commented-out lines of code should be removed.;PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;581;MAJOR;60;1
+641;"The return type of this method should be an interface such as ""Map"" rather than the implementation ""Hashtable"".";PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;472;MAJOR;10;1
+804;"Replace the synchronized class ""Hashtable"" by an unsynchronized one such as ""HashMap"".";PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;54;MAJOR;20;1
+841;Complete the task associated to this TODO comment.;PropertyHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/PropertyHelper.java;581;INFO;20;1
+715;Add the missing @Deprecated annotation.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;838;MAJOR;10;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;430;MINOR;1;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1924;MINOR;20;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;441;MINOR;1;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;429;MINOR;1;1
+741;Use isEmpty() to check whether the collection is empty or not.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1653;MAJOR;2;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;2204;MINOR;20;1
+734;"The Cyclomatic Complexity of this method ""parsePackages"" is 18 which is greater than 10 authorized.";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;2225;MAJOR;10;1
+741;Use isEmpty() to check whether the collection is empty or not.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1691;MAJOR;2;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;428;MINOR;1;1
+741;Use isEmpty() to check whether the collection is empty or not.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1927;MAJOR;2;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;426;MINOR;1;1
+804;"Replace the synchronized class ""StringBuffer"" by an unsynchronized one such as ""StringBuilder"".";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1484;MAJOR;20;1
+774;The Cyclomatic Complexity of this class is 315 which is greater than 200 authorized.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;76;MAJOR;10;1
+734;"The Cyclomatic Complexity of this method ""execute"" is 114 which is greater than 10 authorized.";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1615;MAJOR;10;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;424;MINOR;1;1
+804;"Replace the synchronized class ""Vector"" by an unsynchronized one such as ""ArrayList"" or ""LinkedList"".";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;210;MAJOR;20;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;436;MINOR;1;1
+720;"Either remove this useless object instantiation of class ""URL"" or use it";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1783;CRITICAL;5;1
+741;Use isEmpty() to check whether the collection is empty or not.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1643;MAJOR;2;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;433;MINOR;1;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;443;MINOR;1;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1768;MINOR;20;1
+709;Reduce the total number of break and continue statement in this loop to use at most one.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1756;MAJOR;30;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;444;MINOR;1;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;435;MINOR;1;1
+804;"Replace the synchronized class ""StringBuffer"" by an unsynchronized one such as ""StringBuilder"".";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1370;MAJOR;20;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1737;MINOR;20;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1268;MINOR;1;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;422;MINOR;1;1
+835;"Move the """" string literal on the left side of this string comparison.";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1396;MAJOR;10;1
+804;"Replace the synchronized class ""Vector"" by an unsynchronized one such as ""ArrayList"" or ""LinkedList"".";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;432;MAJOR;20;1
+804;"Replace the synchronized class ""Vector"" by an unsynchronized one such as ""ArrayList"" or ""LinkedList"".";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;421;MAJOR;20;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;423;MINOR;1;1
+741;Use isEmpty() to check whether the collection is empty or not.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1861;MAJOR;2;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;440;MINOR;1;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;420;MINOR;1;1
+727;Either log or rethrow this exception.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;2093;MAJOR;10;1
+804;"Replace the synchronized class ""Vector"" by an unsynchronized one such as ""ArrayList"" or ""LinkedList"".";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1649;MAJOR;20;1
+837;Do not forget to remove this deprecated code someday.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;838;INFO;60;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;445;MINOR;1;1
+804;"Replace the synchronized class ""Vector"" by an unsynchronized one such as ""ArrayList"" or ""LinkedList"".";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;423;MAJOR;20;1
+804;"Replace the synchronized class ""StringBuffer"" by an unsynchronized one such as ""StringBuilder"".";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;318;MAJOR;20;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;427;MINOR;1;1
+804;"Replace the synchronized class ""StringBuffer"" by an unsynchronized one such as ""StringBuilder"".";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;2173;MAJOR;20;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1723;MINOR;20;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1796;MINOR;20;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;2118;MINOR;20;1
+835;"Move the ""all"" string literal on the left side of this string comparison.";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1332;MAJOR;10;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;432;MINOR;1;1
+804;"Replace the synchronized class ""Vector"" by an unsynchronized one such as ""ArrayList"" or ""LinkedList"".";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1628;MAJOR;20;1
+734;"The Cyclomatic Complexity of this method ""setScope"" is 18 which is greater than 10 authorized.";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1319;MAJOR;10;1
+804;"Replace the synchronized class ""Vector"" by an unsynchronized one such as ""ArrayList"" or ""LinkedList"".";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;450;MAJOR;20;1
+649;"Introduce a new variable instead of reusing the parameter ""str"".";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;2162;MAJOR;5;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;2030;MINOR;20;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1806;MINOR;20;1
+804;"Replace the synchronized class ""Vector"" by an unsynchronized one such as ""ArrayList"" or ""LinkedList"".";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;433;MAJOR;20;1
+804;"Replace the synchronized class ""Vector"" by an unsynchronized one such as ""ArrayList"" or ""LinkedList"".";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;2227;MAJOR;20;1
+741;Use isEmpty() to check whether the collection is empty or not.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1749;MAJOR;2;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;446;MINOR;1;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;425;MINOR;1;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1781;MINOR;20;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;437;MINOR;1;1
+804;"Replace the synchronized class ""Vector"" by an unsynchronized one such as ""ArrayList"" or ""LinkedList"".";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;431;MAJOR;20;1
+804;"Replace the synchronized class ""Vector"" by an unsynchronized one such as ""ArrayList"" or ""LinkedList"".";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;2191;MAJOR;20;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;439;MINOR;1;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1884;MINOR;20;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;2240;MINOR;20;1
+804;"Replace the synchronized class ""Vector"" by an unsynchronized one such as ""ArrayList"" or ""LinkedList"".";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1426;MAJOR;20;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;421;MINOR;1;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;2296;MINOR;20;1
+649;"Introduce a new variable instead of reusing the parameter ""str"".";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;2165;MAJOR;5;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1731;MINOR;20;1
+689;"Make this array ""private"".";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1268;CRITICAL;N;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;438;MINOR;1;1
+741;Use isEmpty() to check whether the collection is empty or not.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1652;MAJOR;2;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1349;MINOR;20;1
+641;"The type of the ""rcs"" object should be an interface such as ""List"" rather than the implementation ""ArrayList"".";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;362;MAJOR;10;1
+710;"Add the ""@Override"" annotation above this method signature";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;263;MAJOR;5;1
+804;"Replace the synchronized class ""Vector"" by an unsynchronized one such as ""ArrayList"" or ""LinkedList"".";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;2225;MAJOR;20;1
+649;"Introduce a new variable instead of reusing the parameter ""verboseScope"".";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1320;MAJOR;5;1
+741;Use isEmpty() to check whether the collection is empty or not.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1723;MAJOR;2;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;418;MINOR;1;1
+804;"Replace the synchronized class ""Vector"" by an unsynchronized one such as ""ArrayList"" or ""LinkedList"".";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;422;MAJOR;20;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;448;MINOR;1;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;442;MINOR;1;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;2334;MINOR;1;1
+680;"Define a constant instead of duplicating this literal ""ignore"" 4 times.";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1688;MINOR;10;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;450;MINOR;1;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;419;MINOR;1;1
+741;Use isEmpty() to check whether the collection is empty or not.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1755;MAJOR;2;1
+741;Use isEmpty() to check whether the collection is empty or not.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;2235;MAJOR;2;1
+741;Use isEmpty() to check whether the collection is empty or not.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1695;MAJOR;2;1
+804;"Replace the synchronized class ""Vector"" by an unsynchronized one such as ""ArrayList"" or ""LinkedList"".";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;2226;MAJOR;20;1
+835;"Move the ""package.html"" string literal on the left side of this string comparison.";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;2291;MAJOR;10;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;434;MINOR;1;1
+804;"Replace the synchronized class ""StringBuffer"" by an unsynchronized one such as ""StringBuilder"".";Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;2159;MAJOR;20;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;1341;MINOR;20;1
+665;Move this variable to comply with Java Code Conventions.;Javadoc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java;431;MINOR;1;1
+839;Take the required action to fix the issue indicated by this comment.;JUnitTestRunnerTest.java;ApacheAnt-1.7.0/src/tests/junit/org/apache/tools/ant/taskdefs/optional/junit/JUnitTestRunnerTest.java;85;MAJOR;20;1
+683;This block of commented-out lines of code should be removed.;JUnitTestRunnerTest.java;ApacheAnt-1.7.0/src/tests/junit/org/apache/tools/ant/taskdefs/optional/junit/JUnitTestRunnerTest.java;86;MAJOR;60;1
+683;This block of commented-out lines of code should be removed.;JUnitTestRunnerTest.java;ApacheAnt-1.7.0/src/tests/junit/org/apache/tools/ant/taskdefs/optional/junit/JUnitTestRunnerTest.java;84;MAJOR;60;1
+841;Complete the task associated to this TODO comment.;Execute.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Execute.java;246;INFO;20;1
+729;Return an empty array instead of null.;Execute.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Execute.java;247;MAJOR;60;1
+841;Complete the task associated to this TODO comment.;ModifiedSelector.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/types/selectors/modifiedselector/ModifiedSelector.java;359;INFO;20;1
+683;This block of commented-out lines of code should be removed.;ModifiedSelector.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/types/selectors/modifiedselector/ModifiedSelector.java;364;MAJOR;60;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;ProjectHelper2.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/helper/ProjectHelper2.java;712;MINOR;20;3
+758;Merge this if statement with the enclosing one.;ProjectHelper2.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/helper/ProjectHelper2.java;712;MAJOR;5;3
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;ProjectHelper2.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/helper/ProjectHelper2.java;704;MINOR;20;3
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;ProjectHelper2.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/helper/ProjectHelper2.java;696;MINOR;20;3
+758;Merge this if statement with the enclosing one.;ProjectHelper2.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/helper/ProjectHelper2.java;696;MAJOR;5;3
+835;"Move the """" string literal on the left side of this string comparison.";ProjectHelper2.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/helper/ProjectHelper2.java;695;MAJOR;10;2
+835;"Move the ""name"" string literal on the left side of this string comparison.";ProjectHelper2.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/helper/ProjectHelper2.java;700;MAJOR;10;2
+835;"Move the ""id"" string literal on the left side of this string comparison.";ProjectHelper2.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/helper/ProjectHelper2.java;709;MAJOR;10;2
+680;"Define a constant instead of duplicating this literal ""basedir"" 3 times.";ProjectHelper2.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/helper/ProjectHelper2.java;716;MINOR;10;2
+835;"Move the ""basedir"" string literal on the left side of this string comparison.";ProjectHelper2.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/helper/ProjectHelper2.java;716;MAJOR;10;2
+835;"Move the """" string literal on the left side of this string comparison.";ProjectHelper2.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/helper/ProjectHelper2.java;687;MAJOR;10;1
+835;"Move the ""default"" string literal on the left side of this string comparison.";ProjectHelper2.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/helper/ProjectHelper2.java;694;MAJOR;10;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;Classloader.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Classloader.java;194;MINOR;20;3
+683;This block of commented-out lines of code should be removed.;Classloader.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Classloader.java;205;MAJOR;60;3
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;Classloader.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Classloader.java;227;MINOR;20;3
+841;Complete the task associated to this TODO comment.;Classloader.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Classloader.java;198;INFO;20;2
+827;Use a logger to log this exception.;Classloader.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Classloader.java;238;CRITICAL;10;1
+727;Either log or rethrow this exception.;Classloader.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Classloader.java;237;MAJOR;10;1
+710;"Add the ""@Override"" annotation above this method signature";LazyHashtable.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/util/LazyHashtable.java;57;MAJOR;5;1
+710;"Add the ""@Override"" annotation above this method signature";LazyHashtable.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/util/LazyHashtable.java;95;MAJOR;5;1
+710;"Add the ""@Override"" annotation above this method signature";LazyHashtable.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/util/LazyHashtable.java;105;MAJOR;5;1
+710;"Add the ""@Override"" annotation above this method signature";LazyHashtable.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/util/LazyHashtable.java;75;MAJOR;5;1
+710;"Add the ""@Override"" annotation above this method signature";LazyHashtable.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/util/LazyHashtable.java;66;MAJOR;5;1
+710;"Add the ""@Override"" annotation above this method signature";LazyHashtable.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/util/LazyHashtable.java;85;MAJOR;5;1
+710;"Add the ""@Override"" annotation above this method signature";LazyHashtable.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/util/LazyHashtable.java;113;MAJOR;5;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;XSLTProcess.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/XSLTProcess.java;357;MINOR;20;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;XSLTProcess.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/XSLTProcess.java;319;MINOR;20;1
+741;Use isEmpty() to check whether the collection is empty or not.;XSLTProcess.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/XSLTProcess.java;366;MAJOR;2;1
+665;Move this variable to comply with Java Code Conventions.;CCLock.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCLock.java;364;MINOR;1;1
+683;This block of commented-out lines of code should be removed.;CCLock.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCLock.java;122;MAJOR;60;1
+665;Move this variable to comply with Java Code Conventions.;CCLock.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCLock.java;376;MINOR;1;1
+665;Move this variable to comply with Java Code Conventions.;CCLock.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCLock.java;372;MINOR;1;1
+665;Move this variable to comply with Java Code Conventions.;CCLock.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCLock.java;368;MINOR;1;1
+665;Move this variable to comply with Java Code Conventions.;CCLock.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCLock.java;360;MINOR;1;1
+683;This block of commented-out lines of code should be removed.;CCUnlock.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCUnlock.java;101;MAJOR;60;1
+665;Move this variable to comply with Java Code Conventions.;CCUnlock.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCUnlock.java;254;MINOR;1;1
+665;Move this variable to comply with Java Code Conventions.;CCUnlock.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCUnlock.java;258;MINOR;1;1
+683;This block of commented-out lines of code should be removed.;ProjectHelperImpl.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/helper/ProjectHelperImpl.java;742;MAJOR;60;1
+683;This block of commented-out lines of code should be removed.;JspC.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/jsp/JspC.java;640;MAJOR;60;1
+835;"Move the """" string literal on the left side of this string comparison.";P4Sync.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/perforce/P4Sync.java;98;MAJOR;10;1
+835;"Move the """" string literal on the left side of this string comparison.";P4Sync.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/perforce/P4Sync.java;79;MAJOR;10;1
+835;"Move the """" string literal on the left side of this string comparison.";P4Sync.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/perforce/P4Sync.java;64;MAJOR;10;1
+835;"Move the ""\\\\"" string literal on the left side of this string comparison.";AntStarTeamCheckOut.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/scm/AntStarTeamCheckOut.java;328;MAJOR;10;1
+835;"Move the ""/"" string literal on the left side of this string comparison.";AntStarTeamCheckOut.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/scm/AntStarTeamCheckOut.java;328;MAJOR;10;1
+683;This block of commented-out lines of code should be removed.;SSHUserInfo.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/ssh/SSHUserInfo.java;190;MAJOR;60;1
+742;Replace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.;Arc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/types/optional/image/Arc.java;76;MAJOR;10;1
+835;"Move the ""open"" string literal on the left side of this string comparison.";Arc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/types/optional/image/Arc.java;76;MAJOR;10;1
+835;"Move the ""chord"" string literal on the left side of this string comparison.";Arc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/types/optional/image/Arc.java;80;MAJOR;10;1
+742;Replace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.;Arc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/types/optional/image/Arc.java;80;MAJOR;10;1
+742;Replace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.;Arc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/types/optional/image/Arc.java;78;MAJOR;10;1
+835;"Move the ""pie"" string literal on the left side of this string comparison.";Arc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/types/optional/image/Arc.java;78;MAJOR;10;1
+683;This block of commented-out lines of code should be removed.;FileUtils.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/util/FileUtils.java;1457;MAJOR;60;1
+727;Either log or rethrow this exception.;JDependTask.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/jdepend/JDependTask.java;542;MAJOR;10;5
+746;Catch Exception instead of Throwable.;JDependTask.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/jdepend/JDependTask.java;542;BLOCKER;20;5
+727;Either log or rethrow this exception.;JDependTask.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/jdepend/JDependTask.java;521;MAJOR;10;5
+727;Either log or rethrow this exception.;JDependTask.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/jdepend/JDependTask.java;492;MAJOR;10;2
+680;"Define a constant instead of duplicating this literal ""\\"" does not represent a valid"" 4 times.";JDependTask.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/jdepend/JDependTask.java;485;MINOR;10;2
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;JDependTask.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/jdepend/JDependTask.java;536;MINOR;20;4
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;JDependTask.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/jdepend/JDependTask.java;539;MINOR;20;4
+804;"Replace the synchronized class ""Vector"" by an unsynchronized one such as ""ArrayList"" or ""LinkedList"".";JDependTask.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/jdepend/JDependTask.java;535;MAJOR;20;4
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;JDependTask.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/jdepend/JDependTask.java;511;MINOR;20;4
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;JDependTask.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/jdepend/JDependTask.java;519;MINOR;20;4
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;JDependTask.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/jdepend/JDependTask.java;482;MINOR;20;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;JDependTask.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/jdepend/JDependTask.java;490;MINOR;20;1
+727;Either log or rethrow this exception.;JDependTask.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/jdepend/JDependTask.java;461;MAJOR;10;3
+841;Complete the task associated to this TODO comment.;TraXLiaison.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/TraXLiaison.java;246;INFO;20;1
+839;Take the required action to fix the issue indicated by this comment.;TraXLiaison.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/TraXLiaison.java;247;MAJOR;20;1
+839;Take the required action to fix the issue indicated by this comment.;DOMElementWriter.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/util/DOMElementWriter.java;572;MAJOR;20;1
+839;Take the required action to fix the issue indicated by this comment.;ZipFile.java;ApacheAnt-1.7.0/src/main/org/apache/tools/zip/ZipFile.java;284;MAJOR;20;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;ProjectHelper2.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/helper/ProjectHelper2.java;696;MINOR;20;3
+758;Merge this if statement with the enclosing one.;ProjectHelper2.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/helper/ProjectHelper2.java;696;MAJOR;5;3
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;ProjectHelper2.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/helper/ProjectHelper2.java;704;MINOR;20;3
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;ProjectHelper2.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/helper/ProjectHelper2.java;712;MINOR;20;3
+758;Merge this if statement with the enclosing one.;ProjectHelper2.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/helper/ProjectHelper2.java;712;MAJOR;5;3
+835;"Move the """" string literal on the left side of this string comparison.";ProjectHelper2.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/helper/ProjectHelper2.java;695;MAJOR;10;2
+835;"Move the ""name"" string literal on the left side of this string comparison.";ProjectHelper2.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/helper/ProjectHelper2.java;700;MAJOR;10;2
+835;"Move the ""id"" string literal on the left side of this string comparison.";ProjectHelper2.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/helper/ProjectHelper2.java;709;MAJOR;10;2
+680;"Define a constant instead of duplicating this literal ""basedir"" 3 times.";ProjectHelper2.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/helper/ProjectHelper2.java;716;MINOR;10;2
+835;"Move the ""basedir"" string literal on the left side of this string comparison.";ProjectHelper2.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/helper/ProjectHelper2.java;716;MAJOR;10;2
+757;"Remove this call to ""wait"" or move it into a ""while"" loop.";ExecuteJava.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/ExecuteJava.java;170;CRITICAL;20;2
+810;Extract this nested try block into a separate method.;ExecuteJava.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/ExecuteJava.java;169;MAJOR;20;1
+710;"Add the ""@Override"" annotation above this method signature";LazyHashtable.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/util/LazyHashtable.java;57;MAJOR;5;1
+710;"Add the ""@Override"" annotation above this method signature";LazyHashtable.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/util/LazyHashtable.java;95;MAJOR;5;1
+710;"Add the ""@Override"" annotation above this method signature";LazyHashtable.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/util/LazyHashtable.java;105;MAJOR;5;1
+710;"Add the ""@Override"" annotation above this method signature";LazyHashtable.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/util/LazyHashtable.java;75;MAJOR;5;1
+710;"Add the ""@Override"" annotation above this method signature";LazyHashtable.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/util/LazyHashtable.java;66;MAJOR;5;1
+710;"Add the ""@Override"" annotation above this method signature";LazyHashtable.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/util/LazyHashtable.java;85;MAJOR;5;1
+710;"Add the ""@Override"" annotation above this method signature";LazyHashtable.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/util/LazyHashtable.java;113;MAJOR;5;1
+727;Either log or rethrow this exception.;Jar.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Jar.java;307;MAJOR;10;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;XmlProperty.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/XmlProperty.java;269;MINOR;20;1
+727;Either log or rethrow this exception.;JDependTask.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/jdepend/JDependTask.java;492;MAJOR;10;2
+680;"Define a constant instead of duplicating this literal ""\\"" does not represent a valid"" 4 times.";JDependTask.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/jdepend/JDependTask.java;485;MINOR;10;2
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;JDependTask.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/jdepend/JDependTask.java;482;MINOR;20;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;JDependTask.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/jdepend/JDependTask.java;490;MINOR;20;1
+710;"Add the ""@Override"" annotation above this method signature";IntrospectionHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/IntrospectionHelper.java;1294;MAJOR;5;1
+649;"Introduce a new variable instead of reusing the parameter ""child"".";IntrospectionHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/IntrospectionHelper.java;1302;MAJOR;5;1
+710;"Add the ""@Override"" annotation above this method signature";IntrospectionHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/IntrospectionHelper.java;1316;MAJOR;5;1
+649;"Introduce a new variable instead of reusing the parameter ""child"".";IntrospectionHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/IntrospectionHelper.java;1307;MAJOR;5;1
+673;Make change a static final constant or non-public and provide accessors if needed.;P4Delete.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/perforce/P4Delete.java;40;MAJOR;10;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;RegexpPatternMapper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/util/RegexpPatternMapper.java;134;MINOR;20;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;JakartaOroRegexp.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/util/regexp/JakartaOroRegexp.java;58;MINOR;20;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;JakartaRegexpRegexp.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/util/regexp/JakartaRegexpRegexp.java;70;MINOR;20;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;Jdk14RegexpRegexp.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/util/regexp/Jdk14RegexpRegexp.java;71;MINOR;20;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;TarEntry.java;ApacheAnt-1.7.0/src/main/org/apache/tools/tar/TarEntry.java;218;MINOR;20;2
+760;Reduce the number of conditional operators (4) used in the expression (maximum allowed 3).;TarEntry.java;ApacheAnt-1.7.0/src/main/org/apache/tools/tar/TarEntry.java;218;MAJOR;10;2
+727;Either log or rethrow this exception.;AntClassLoader.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/AntClassLoader.java;597;MAJOR;10;3
+758;Merge this if statement with the enclosing one.;AntClassLoader.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/AntClassLoader.java;591;MAJOR;5;1
+699;Replace this usage of System.out or System.err by a logger.;Main.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/Main.java;790;MAJOR;10;3
+727;Either log or rethrow this exception.;Main.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/Main.java;789;MAJOR;10;3
+803;Define and throw a dedicated exception instead of using a generic one.;Main.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/Main.java;793;MAJOR;20;3
+727;Either log or rethrow this exception.;Execute.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Execute.java;125;MAJOR;10;3
+680;"Define a constant instead of duplicating this literal ""windows"" 3 times.";Execute.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Execute.java;103;MINOR;10;2
+680;"Define a constant instead of duplicating this literal ""openvms"" 6 times.";Execute.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Execute.java;121;MINOR;10;2
+727;Either log or rethrow this exception.;Execute.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/Execute.java;94;MAJOR;10;2
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;ProjectHelper2.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/helper/ProjectHelper2.java;1047;MINOR;20;2
+835;"Move the """" string literal on the left side of this string comparison.";JikesOutputParser.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/JikesOutputParser.java;134;MAJOR;10;1
+835;"Move the """" string literal on the left side of this string comparison.";JikesOutputParser.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/JikesOutputParser.java;134;MAJOR;10;1
+835;"Move the """" string literal on the left side of this string comparison.";JikesOutputParser.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/JikesOutputParser.java;134;MAJOR;10;1
+727;Either log or rethrow this exception.;ExecuteJava.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/ExecuteJava.java;325;MAJOR;10;1
+727;Either log or rethrow this exception.;EjbcHelper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/EjbcHelper.java;253;MAJOR;10;1
+835;"Move the ""yes"" string literal on the left side of this string comparison.";Pvcs.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/pvcs/Pvcs.java;529;MAJOR;10;1
+680;"Define a constant instead of duplicating this literal ""bar.baz"" 3 times.";GlobPatternMapperTest.java;ApacheAnt-1.7.0/src/tests/junit/org/apache/tools/ant/util/GlobPatternMapperTest.java;48;MINOR;10;1
+680;"Define a constant instead of duplicating this literal ""foo.bar"" 3 times.";GlobPatternMapperTest.java;ApacheAnt-1.7.0/src/tests/junit/org/apache/tools/ant/util/GlobPatternMapperTest.java;65;MINOR;10;1
+699;Replace this usage of System.out or System.err by a logger.;Main.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/Main.java;142;MAJOR;10;2
+680;"Define a constant instead of duplicating this literal ""Classes"" 3 times.";Path.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/types/Path.java;618;MINOR;10;1
+649;"Introduce a new variable instead of reusing the parameter ""colorName"".";ColorMapper.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/types/optional/image/ColorMapper.java;72;MAJOR;5;1
+738;Refactor this code to not nest more than 3 if/for/while/switch/try statements.;JUnitTask.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.java;1236;MINOR;20;4
+841;Complete the task associated to this TODO comment.;WLJspc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/jsp/WLJspc.java;154;INFO;20;1
+841;Complete the task associated to this TODO comment.;WLJspc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/jsp/WLJspc.java;154;INFO;20;1
+841;Complete the task associated to this TODO comment.;WLJspc.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/taskdefs/optional/jsp/WLJspc.java;154;INFO;20;1
+841;Complete the task associated to this TODO comment.;ClasspathUtils.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/util/ClasspathUtils.java;496;INFO;20;1
+841;Complete the task associated to this TODO comment.;ClasspathUtils.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/util/ClasspathUtils.java;497;INFO;20;1
+841;Complete the task associated to this TODO comment.;ClasspathUtils.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/util/ClasspathUtils.java;496;INFO;20;1
+841;Complete the task associated to this TODO comment.;ClasspathUtils.java;ApacheAnt-1.7.0/src/main/org/apache/tools/ant/util/ClasspathUtils.java;497;INFO;20;1
